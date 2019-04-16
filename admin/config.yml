@@ -27,4 +27,17 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Name", name: "name", widget: "hidden"}
       - {label: "Hero Heading", name: "hero_heading", widget: "string", required: false}
       - {label: "Hero Subheading", name: "hero_subheading", widget: "string", required: false}
+      - {label: "Onze auto's heading", name: "our_cars_heading", widget: "string", required: false}
+      - {label: "Onze auto's - auto 1 - Foto", name: "our_cars_car1_image", widget: "image", required: false}
+      - {label: "Onze auto's - auto 2 - Foto", name: "our_cars_car2_image", widget: "image", required: false}
+      - {label: "Onze auto's - auto 3 - Foto", name: "our_cars_car3_image", widget: "image", required: false}
+      - {label: "Onze auto's - auto 4 - Foto", name: "our_cars_car4_image", widget: "image", required: false}
+      - {label: "Onze auto's - auto 1 - Titel", name: "our_cars_car1_title", widget: "string", required: false}
+      - {label: "Onze auto's - auto 2 - Titel", name: "our_cars_car2_title", widget: "string", required: false}
+      - {label: "Onze auto's - auto 3 - Titel", name: "our_cars_car3_title", widget: "string", required: false}
+      - {label: "Onze auto's - auto 4 - Titel", name: "our_cars_car4_title", widget: "string", required: false}
+      - {label: "Onze auto's - auto 1 - Beschrijving", name: "our_cars_car1_description", widget: "string", required: false}
+      - {label: "Onze auto's - auto 2 - Beschrijving", name: "our_cars_car2_description", widget: "string", required: false}
+      - {label: "Onze auto's - auto 3 - Beschrijving", name: "our_cars_car3_description", widget: "string", required: false}
+      - {label: "Onze auto's - auto 4 - Beschrijving", name: "our_cars_car4_description", widget: "string", required: false}
       - {label: "Body", name: "body", widget: "hidden"}
