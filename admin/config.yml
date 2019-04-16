@@ -22,5 +22,5 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
       - {label: "Permalink", name: "permalink", widget: "hidden"}
       - {label: "Section", name: "section", widget: "hidden", default: "{{name}}"}
-      - {label: "Intro Paragraph", name: "intro_paragraph", widget: "markdown", required: false}
-      - {label: "Hero Heading", name: "hero_heading", widget: "markdown", required: false}
+      - {label: "Hero Heading", name: "hero_heading", widget: "string", required: false}
+      - {label: "Hero Subheading", name: "hero_subheading", widget: "string", required: false}
