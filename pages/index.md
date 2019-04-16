@@ -36,7 +36,7 @@ our_cars_car4_description: 'vanaf € 17,50 per uur of € 175,00 per dag'
         <div class="s-our-cars__grid u-mb">
              <div class="s-our-cars__car-wrapper">
                 <div class="s-our-cars__car-image">
-                    <img src="{{ site.image_path }}{{ page.our_cars_car1_image }}">
+                    <img src="{{ page.our_cars_car1_image }}">
                 </div>
                 <h3 class="c-heading --medium u-align-center u-mb-">{{ page.our_cars_car1_title }}</h3>
                 <p class="c-paragraph u-align-center">{{ page.our_cars_car1_description }}</p>
@@ -44,7 +44,7 @@ our_cars_car4_description: 'vanaf € 17,50 per uur of € 175,00 per dag'
 
              <div class="s-our-cars__car-wrapper">
                 <div class="s-our-cars__car-image">
-                    <img src="{{ site.image_path }}{{ page.our_cars_car2_image }}">
+                    <img src="{{ page.our_cars_car2_image }}">
                 </div>
                 <h3 class="c-heading --medium u-align-center u-mb-">{{ page.our_cars_car2_title }}</h3>
                 <p class="c-paragraph u-align-center">{{ page.our_cars_car2_description }}</p>
@@ -52,7 +52,7 @@ our_cars_car4_description: 'vanaf € 17,50 per uur of € 175,00 per dag'
 
              <div class="s-our-cars__car-wrapper">
                 <div class="s-our-cars__car-image">
-                    <img src="{{ site.image_path }}{{ page.our_cars_car3_image }}">
+                    <img src="{{ page.our_cars_car3_image }}">
                 </div>
                 <h3 class="c-heading --medium u-align-center u-mb-">{{ page.our_cars_car3_title }}</h3>
                 <p class="c-paragraph u-align-center">{{ page.our_cars_car3_description }}</p>
@@ -60,7 +60,7 @@ our_cars_car4_description: 'vanaf € 17,50 per uur of € 175,00 per dag'
 
              <div class="s-our-cars__car-wrapper">
                 <div class="s-our-cars__car-image">
-                    <img src="{{ site.image_path }}{{ page.our_cars_car4_image }}">
+                    <img src="{{ page.our_cars_car4_image }}">
                 </div>
                 <h3 class="c-heading --medium u-align-center u-mb-">{{ page.our_cars_car4_title }}</h3>
                 <p class="c-paragraph u-align-center">{{ page.our_cars_car4_description }}</p>
