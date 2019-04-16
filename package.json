@@ -1,0 +1,41 @@
+{
+  "name": "boilerplate-project",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wouter-muller/xxx.git"
+  },
+  "author": "",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "child_process": "^1.0.2",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-kit": "^0.3.0",
+    "gulp-livereload": "^4.0.1",
+    "gulp-order": "^1.2.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-replace": "^1.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sass-lint": "^1.4.0",
+    "gulp-strip-comments": "^2.5.2",
+    "gulp-svgo": "^1.5.4",
+    "gulp-uglify-es": "^1.0.4",
+    "gulp-util": "^3.0.8",
+    "jquery": "^3.3.1",
+    "lodash": ">=4.17.5",
+    "minimatch": ">=3.0.2",
+    "node-sass-magic-importer": "^5.2.0",
+    "scrollmonitor": "^1.2.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC"
+}

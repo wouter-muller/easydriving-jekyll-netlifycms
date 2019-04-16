@@ -1,0 +1,22 @@
+.s-header
+    background-color: rgba(white, 0.85)
+    box-shadow: 0 2px 4px rgba(#000, 0.11)
+    +z-index(header)
+
+    &__inner
+        height: 70px
+        display: flex
+        justify-content: space-between
+        align-items: center
+
+    &__logo
+        margin-top: 9px // actual vertical alignment
+
+    &__nav
+        &-link
+            color: $brand-color
+            font-weight: $medium
+            font-size: 18px
+            text-transform: uppercase
+            margin-right: 20px
+

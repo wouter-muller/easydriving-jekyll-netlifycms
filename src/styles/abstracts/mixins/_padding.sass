@@ -1,0 +1,37 @@
+@mixin padding-top-bottom($value)
+  padding-top: $value
+  padding-bottom: $value
+
+@mixin padding-left-right($value)
+  padding-left: $value
+  padding-right: $value
+
+@mixin responsive-padding
+  +mobile
+    padding: $default-spacing-mobile
+
+  +tablet
+    padding: $default-spacing-tablet
+
+  +desktop
+    padding: $default-spacing
+
+@mixin responsive-horizontal-padding
+  +mobile
+    +padding-left-right($default-spacing-mobile)
+
+  +tablet
+    +padding-left-right($default-spacing-tablet)
+
+  +desktop
+    +padding-left-right($default-spacing)
+
+@mixin responsive-vertical-padding
+  +mobile
+    +padding-top-bottom($default-spacing-mobile)
+
+  +tablet
+    +padding-top-bottom($default-spacing-tablet)
+
+  +desktop
+    +padding-top-bottom($default-spacing)

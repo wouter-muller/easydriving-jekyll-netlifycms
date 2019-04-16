@@ -1,0 +1,19 @@
+/* open-sans-regular - latin */
+@font-face {
+  font-family: 'Easy';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Easy Regular'), local('Easy-Regular'),
+    url('../fonts/Easy-Medium.woff2') format('woff2'),
+    url('../fonts/Easy-Medium.woff') format('woff');
+}
+
+/* open-sans-regular - latin */
+@font-face {
+  font-family: 'Easy';
+  font-style: semi-bold;
+  font-weight: 600;
+  src: local('Easy Semi-bold'), local('Easy-SemiBold'),
+    url('../fonts/Easy-Bold.woff2') format('woff2'),
+    url('../fonts/Easy-Bold.woff') format('woff');
+}
