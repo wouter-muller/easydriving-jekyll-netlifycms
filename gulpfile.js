@@ -112,6 +112,7 @@ gulp.task('lint', function() {
 gulp.task('all', function() {
   gulp.start('img');
   gulp.start('css');
+  gulp.start('fonts');
   gulp.start('js');
   gulp.start('js-third-party');
 });
