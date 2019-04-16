@@ -14,8 +14,8 @@ logo_url: https://pensive-edison-7425f6.netlify.com/dist/img/logo.svg
 
 collections: # A list of collections the CMS should be able to edit
   # PAGES
-  - name: "page"
-    label: "Page"
+  - name: "homepage"
+    label: "Homepage"
     folder: "pages"
     sort: "title:asc"
     create: false
@@ -50,4 +50,14 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "USP 2 titel", name: "usps_2_heading", widget: "string"}
       - {label: "USP 2 text", name: "usps_2_text", widget: "markdown"}
       - {label: "USP button text", name: "usps_button_text", widget: "string"}
+      - {label: "How it works heading", name: "how_it_works__heading", widget: "string"}
+      - {label: "How it works title 1", name: "how_it_works__title1", widget: "string"}
+      - {label: "How it works text 1", name: "how_it_works__text1", widget: "text"}
+      - {label: "How it works title 2", name: "how_it_works__title2", widget: "string"}
+      - {label: "How it works text 2", name: "how_it_works__text2", widget: "text"}
+      - {label: "How it works title 3", name: "how_it_works__title3", widget: "string"}
+      - {label: "How it works text 3", name: "how_it_works__text3", widget: "text"}
+      - {label: "How it works title 4", name: "how_it_works__title4", widget: "string"}
+      - {label: "How it works text 4", name: "how_it_works__text4", widget: "text"}
+      - {label: "How it works button text", name: "how_it_works_button_text", widget: "string"}
       - {label: "Body", name: "body", widget: "hidden"}

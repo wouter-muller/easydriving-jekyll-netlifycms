@@ -59,3 +59,35 @@ usps_button_text: Lees verder
         </div>
     </div>
 </div>
+
+<div class="s-how-it-works">
+    <div class="l-wrapper">
+        <h2 class="c-heading --large u-align-center u-mb+">{{ page.how_it_works__heading }}</h2>
+        <div class="s-how-it-works__grid">
+            <div>
+                <div class="s-how-it-works__number">1</div>
+                <div class="s-how-it-works__heading">{{ page.how_it_works__title1 }}</div>
+                <div class="s-how-it-works__text">{{ page.how_it_works__text1 }}</div>
+            </div>
+            <div>
+                <div class="s-how-it-works__number">2</div>
+                <div class="s-how-it-works__heading">{{ page.how_it_works__title2 }}</div>
+                <div class="s-how-it-works__text">{{ page.how_it_works__text2 }}</div>
+            </div>
+            <div>
+                <div class="s-how-it-works__number">3</div>
+                <div class="s-how-it-works__heading">{{ page.how_it_works__title3 }}</div>
+                <div class="s-how-it-works__text">{{ page.how_it_works__text3 }}</div>
+            </div>
+            <div>
+                <div class="s-how-it-works__number">4</div>
+                <div class="s-how-it-works__heading">{{ page.how_it_works__title4 }}</div>
+                <div class="s-how-it-works__text">{{ page.how_it_works__text4 }}</div>
+            </div>
+        </div>
+
+        <div class="u-align-center">
+            <a href="#" class="c-button --border u-align-center">{{ page.how_it_works_button_text }}</a>
+        </div>
+    </div>
+</div>
