@@ -5,6 +5,7 @@ title_tag: EasyDriving
 permalink: /
 hero_heading: Samen slim rijden
 hero_subheading: Elektrische deelauto’s voor jou en je buurt!
+hero_button_text: Meld je nu aan
 our_cars_heading: Onze auto's
 our_cars_car1_image: /uploads/nissan-leaf.png
 our_cars_car2_image: /uploads/hyundai-kona.png

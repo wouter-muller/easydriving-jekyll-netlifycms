@@ -26,9 +26,10 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Title tag (SEO)", name: "title_tag", widget: "string"}
       - {label: "Permalink", name: "permalink", widget: "string"}
       - {label: "Name", name: "name", widget: "hidden"}
-      - {label: "Hero Heading", name: "hero_heading", widget: "string", required: false}
-      - {label: "Hero Subheading", name: "hero_subheading", widget: "string", required: false}
-      - {label: "Onze auto's heading", name: "our_cars_heading", widget: "string", required: false}
+      - {label: "Hero Heading", name: "hero_heading", widget: "string"}
+      - {label: "Hero Subheading", name: "hero_subheading", widget: "string"}
+      - {label: "Hero Button Text", name: "hero_button_text", widget: "string"}
+      - {label: "Onze auto's heading", name: "our_cars_heading", widget: "string"}
       - {label: "Onze auto's - auto 1 - Foto", name: "our_cars_car1_image", widget: "image"}
       - {label: "Onze auto's - auto 2 - Foto", name: "our_cars_car2_image", widget: "image"}
       - {label: "Onze auto's - auto 3 - Foto", name: "our_cars_car3_image", widget: "image"}
