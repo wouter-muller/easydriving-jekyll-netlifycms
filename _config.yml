@@ -34,15 +34,6 @@ netlifycms: true
 # set to 'true' to enable Google Analytics tracking code in production builds
 analytics: false
 
-# Compress CSS
-sass:
-  style: compressed
-  sass_dir: _sass
-
-# Compress HTML (in liquid via layouts/compress.html)
-compress_html:
-  clippings: all
-
 # set some common post defaults
 defaults:
   -
@@ -72,13 +63,19 @@ kramdown:
 # The following items will not be processed.
 exclude:
   - README.md
-  - LICENSE.txt
+  - LICENSE
   - netlify.toml
   - feed.xml
   - Gemfile
   - Gemfile.lock
+  - gulpfile.js
+  - package-lock.json
+  - package.json
   - node_modules
   - vendor/bundle/
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  - src/
+
+keep_files: [dist]
