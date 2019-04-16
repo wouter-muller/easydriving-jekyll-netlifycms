@@ -1,11 +1,17 @@
-<header>
-
-  <h1>
-    <a href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
-  </h1>
-
-  <nav>
-    {% include navigation.html navigation=site.data.navigation %}
-  </nav>
-
+<header class="s-header">
+    <div class="l-wrapper">
+        <div class="s-header__inner">
+            <div class="s-header__logo">
+                <img src="{{ site.image_path }}/logo.svg">
+            </div>
+            <div class="s-header__nav">
+                <a class="s-header__nav-link" href="/">Hoe werkt het?</a>
+                <a class="s-header__nav-link" href="/">Auto's</a>
+                <a class="s-header__nav-link" href="/">Over EasyDriving</a>
+                <a class="s-header__nav-link" href="/">Nieuws</a>
+                <a class="s-header__nav-link" href="/">Contact</a>
+                <a class="c-button --border" href="/">Aanmelden</a>
+            </div>
+        </div>
+    </div>
 </header>

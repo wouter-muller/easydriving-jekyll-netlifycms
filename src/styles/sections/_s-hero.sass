@@ -1,4 +1,4 @@
-.c-hero
+.s-hero
     position: relative
 
     +tablet-desktop
@@ -23,8 +23,18 @@
             right: 0
             background-color: rgba($brand-color, 0.35)
 
+    &__inner
+        position: relative
+        padding-top: 140px
 
     &__heading
         font-size: 70px
         color: $inverted-text-color
-        z-index: 99
+        text-shadow: 0 0 30px rgba(black, 0.17)
+
+    &__sub-heading
+        font-size: 27px
+        color: $inverted-text-color
+        font-weight: $medium
+        text-shadow: 0 0 16px rgba(black, 0.2)
+        margin-bottom: 40px
