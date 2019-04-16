@@ -19,6 +19,7 @@ our_cars_car1_description: '€ 2,75 per uur of € 27,50 per dag'
 our_cars_car2_description: '€ 4,75 per uur of € 47,50 per dag'
 our_cars_car3_description: 'vanaf € 15,00 per uur of € 150,00 per dag'
 our_cars_car4_description: 'vanaf € 17,50 per uur of € 175,00 per dag'
+our_cars_button_text: Meer informatie
 usps_1_image: /uploads/usp1.svg
 usps_1_heading: Beter voor het milieu
 usps_1_text: >-
@@ -30,10 +31,31 @@ usps_2_heading: Goedkoper
 usps_2_text: >-
   Voor huishoudens die hun (tweede) auto niet vaak gebruiken is EasyDriving veel
   goedkoper dan het hebben van een eigen auto. Zie onze
-  [kostenvergelijker](#kosten-vergelijker).
+  <a href="#kosten-vergelijker">kostenvergelijker</a>.
 usps_button_text: Lees verder
 ---
 
 {% include hero.html %}
 
 {% include our-cars.html %}
+
+<div class="s-usps">
+    <div class="l-wrapper">
+        <div class="s-usps__grid u-mb">
+            <div>
+                <img class="u-mb" src="{{ page.usps_1_image }}">
+                <h3 class="c-heading --medium u-mb">{{ page.usps_1_heading }}</h3>
+                <p class="c-paragraph">{{ page.usps_1_text }}</p>
+            </div>
+            <div>
+                <img class="u-mb" src="{{ page.usps_2_image }}">
+                <h3 class="c-heading --medium u-mb">{{ page.usps_2_heading }}</h3>
+                <p class="c-paragraph">{{ page.usps_2_text }}</p>
+            </div>
+        </div>
+
+        <div class="u-align-center">
+            <a href="#" class="c-button --border u-align-center">{{ page.usps_button_text }}</a>
+        </div>
+    </div>
+</div>
