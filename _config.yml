@@ -79,4 +79,4 @@ exclude:
   - vendor/ruby/
   - src/
 
-keep_files: [dist]
+keep_files: [dist, uploads]
