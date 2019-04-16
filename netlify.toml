@@ -1,5 +1,5 @@
 [build]
-  command = "jekyll build"
+  command = "jekyll build;gulp clean;gulp all"
   publish = "_site"
 
 [build.environment]

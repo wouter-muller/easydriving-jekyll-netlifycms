@@ -1,8 +1,8 @@
 ---
 layout: default
-title: EasyDriving
+title: home
+title_tag: EasyDriving
 permalink: /
-name: home
 hero_heading: Samen slim rijden
 hero_subheading: Elektrische deelauto’s voor jou en je buurt!
 hero_button_text: Meld je nu aan

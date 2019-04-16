@@ -19,7 +19,8 @@ collections: # A list of collections the CMS should be able to edit
     slug: "{{slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden"}
-      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Title", name: "title", widget: "hidden"}
+      - {label: "Title tag (SEO)", name: "title_tag", widget: "string"}
       - {label: "Permalink", name: "permalink", widget: "string"}
       - {label: "Name", name: "name", widget: "hidden"}
       - {label: "Hero Heading", name: "hero_heading", widget: "string", required: false}
