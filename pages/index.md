@@ -5,23 +5,19 @@ title_tag: EasyDriving
 permalink: /
 hero_heading: Samen slim rijden
 hero_subheading: Elektrische deelauto’s voor jou en je buurt!
-hero_button_text: Meld je nu aan
 our_cars_heading: Onze auto's
-our_cars_car1_image: /cars/nissan-leaf.png
+our_cars_car1_image: /_site/dist/img/uploads/nissan-leaf.png
+our_cars_car2_image: /_site/dist/img/uploads/hyundai-kona.png
+our_cars_car3_image: /_site/dist/img/uploads/tesla-model-s.png
+our_cars_car4_image: /_site/dist/img/uploads/tesla-model-x.png
 our_cars_car1_title: Nissan Leaf
-our_cars_car1_description: vanaf € 9,99 per dag
-
-our_cars_car2_image: /cars/hyundai-kona.png
 our_cars_car2_title: Hyundai Kona
-our_cars_car2_description: vanaf € 9,99 per dag
-
-our_cars_car3_image: /cars/tesla-model-s.png
 our_cars_car3_title: Tesla Model S
-our_cars_car3_description: vanaf € 9,99 per dag
-
-our_cars_car4_image: /cars/tesla-model-x.png
 our_cars_car4_title: Tesla Model X
-our_cars_car4_description: vanaf € 9,99 per dag
+our_cars_car1_description: '€ 2,75 per uur of € 27,50 per dag'
+our_cars_car2_description: '€ 4,75 per uur of € 47,50 per dag'
+our_cars_car3_description: 'vanaf € 15,00 per uur of € 150,00 per dag'
+our_cars_car4_description: 'vanaf € 17,50 per uur of € 175,00 per dag'
 ---
 <div class="s-hero">
     <div class="s-hero__bg"></div>
