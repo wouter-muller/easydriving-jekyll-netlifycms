@@ -6,7 +6,7 @@ permalink: /
 hero_heading: Samen slim rijden
 hero_subheading: Elektrische deelauto’s voor jou en je buurt!
 our_cars_heading: Onze auto's
-our_cars_car1_image: /_site/dist/img/uploads/nissan-leaf.png
+our_cars_car1_image: /dist/img/uploads/nissan-leaf.png
 our_cars_car2_image: /_site/dist/img/uploads/hyundai-kona.png
 our_cars_car3_image: /_site/dist/img/uploads/tesla-model-s.png
 our_cars_car4_image: /_site/dist/img/uploads/tesla-model-x.png
