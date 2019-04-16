@@ -33,6 +33,16 @@ usps_2_text: >-
   goedkoper dan het hebben van een eigen auto. Zie onze
   <a href="#kosten-vergelijker">kostenvergelijker</a>.
 usps_button_text: Lees verder
+how_it_works__heading: ''
+how_it_works__title1: ''
+how_it_works__text1: ''
+how_it_works__title2: ''
+how_it_works__text2: ''
+how_it_works__title3: ''
+how_it_works__text3: ''
+how_it_works__title4: ''
+how_it_works__text4: ''
+how_it_works_button_text: ''
 ---
 
 {% include hero.html %}
