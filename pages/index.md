@@ -69,7 +69,7 @@ how_it_works_button_text: Meer informatie
             </form>
         </div>
         <div>
-            <p class="c-paragraph u-mb">Helaas, EasyDriving is nog niet in uw buurt beschikbaar. Vul hier uw e-mail adres in als u op de hoogte wil worden gehouden wanneer we in uw buurt van start gaan!</p>
+            <p class="c-paragraph u-mb">Helaas, EasyDriving is nog niet in uw buurt beschikbaar. Vul hier uw e-mail adres in als u op de hoogte wilt worden gehouden wanneer we in uw buurt van start gaan!</p>
 
             <form>
                 <label class="c-label u-mb-">E-mail adres</label>
