@@ -25,7 +25,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Title", name: "title", widget: "hidden"}
       - {label: "Title tag (SEO)", name: "title_tag", widget: "string"}
       - {label: "Permalink", name: "permalink", widget: "string"}
-      = {label: "Actieve postcodes", name: "active_postal_codes", widget: "text"}
+      - {label: "Actieve postcodes", name: "active_postal_codes", widget: "text"}
       - {label: "Name", name: "name", widget: "hidden"}
       - {label: "Hero Heading", name: "hero_heading", widget: "string"}
       - {label: "Hero Subheading", name: "hero_subheading", widget: "string"}
