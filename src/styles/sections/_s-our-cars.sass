@@ -3,10 +3,15 @@
 
     &__grid
         display: grid
-        grid-template-columns: 1fr 1fr 1fr 1fr
         grid-gap: 40px
         align-items: center
         justify-content: center
+
+        +mobile-tablet
+            grid-template-columns: 1fr 1fr
+
+        +desktop
+            grid-template-columns: 1fr 1fr 1fr 1fr
 
     &__car-image
         min-height: 135px

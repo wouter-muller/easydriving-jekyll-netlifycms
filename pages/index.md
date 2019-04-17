@@ -3,6 +3,7 @@ layout: default
 title: home
 title_tag: EasyDriving
 permalink: /
+active_postal_codes: 9355, 9613
 hero_heading: Samen slim rijden
 hero_subheading: Elektrische deelauto’s voor jou en je buurt!
 hero_button_text: Meld je nu aan
@@ -41,7 +42,7 @@ how_it_works__text1: >-
   gebruik genomen worden.
 how_it_works__title2: Reserveer een auto
 how_it_works__text2: >-
-  Via onze mobiele app kun je vantevoren een auto reserveren. Reserveer per uur
+  Via onze mobiele app kun je vantevoren bij jou in de buurt een auto reserveren. Reserveer per uur
   of per dag. Alles kan.
 how_it_works__title3: Open de auto met de app
 how_it_works__text3: >-
@@ -55,59 +56,42 @@ how_it_works__text4: >-
 how_it_works_button_text: Meer informatie
 ---
 
-{% include hero.html %}
+{% include home/hero.html %}
 
-{% include our-cars.html %}
-
-<div class="s-usps">
-    <div class="l-wrapper">
-        <div class="s-usps__grid u-mb">
-            <div>
-                <img class="u-mb" src="{{ page.usps_1_image }}">
-                <h3 class="c-heading --medium u-mb">{{ page.usps_1_heading }}</h3>
-                <p class="c-paragraph">{{ page.usps_1_text }}</p>
-            </div>
-            <div>
-                <img class="u-mb" src="{{ page.usps_2_image }}">
-                <h3 class="c-heading --medium u-mb">{{ page.usps_2_heading }}</h3>
-                <p class="c-paragraph">{{ page.usps_2_text }}</p>
-            </div>
+<div class="s-availability" data-active-postal-codes="{{ page.active_postal_codes }}">
+    <div class="l-wrapper u-align-center">
+    <h2 class="c-heading --large u-mb+">Is EasyDriving al beschikbaar in jouw buurt?</h2>
+        <div style="display: nxone">
+            <form action="/" >
+                <label class="c-label u-mb-">Wat is je postcode?</label>
+                <input type="text" class="s-availability__postal-code-input c-input">
+                <button type="submit" class="s-availability__submit c-button --cta">Versturen</button>
+            </form>
         </div>
+        <div>
+            <p class="c-paragraph u-mb">Helaas, EasyDriving is nog niet in uw buurt beschikbaar. Vul hier uw e-mail adres in als u op de hoogte wil worden gehouden wanneer we in uw buurt van start gaan!</p>
 
-        <div class="u-align-center">
-            <a href="#" class="c-button --border u-align-center">{{ page.usps_button_text }}</a>
+            <form>
+                <label class="c-label u-mb-">E-mail adres</label>
+                <input type="email" class="s-availability__email-input c-input" required>
+                <label class="c-label u-mb-">Wat is je postcode?</label>
+                <input type="text" class="s-availability__postal-code-input c-input" value="9613 AZ" maxlength="7">
+                <button type="submit" class="c-button --cta">Hou mij op de hoogte</button>
+            </form>
+
         </div>
-    </div>
-</div>
+        <div>
+            <p class="c-paragraph u-mb">Goed nieuws! EasyDriving is in uw buurt beschikbaar!</p>
+            <a href="#" class="c-button --cta">{{ page.hero_button_text }}</a>
 
-<div class="s-how-it-works">
-    <div class="l-wrapper">
-        <h2 class="c-heading --large u-align-center u-mb+">{{ page.how_it_works__heading }}</h2>
-        <div class="s-how-it-works__grid">
-            <div>
-                <div class="s-how-it-works__number">1</div>
-                <div class="s-how-it-works__heading">{{ page.how_it_works__title1 }}</div>
-                <div class="s-how-it-works__text">{{ page.how_it_works__text1 }}</div>
-            </div>
-            <div>
-                <div class="s-how-it-works__number">2</div>
-                <div class="s-how-it-works__heading">{{ page.how_it_works__title2 }}</div>
-                <div class="s-how-it-works__text">{{ page.how_it_works__text2 }}</div>
-            </div>
-            <div>
-                <div class="s-how-it-works__number">3</div>
-                <div class="s-how-it-works__heading">{{ page.how_it_works__title3 }}</div>
-                <div class="s-how-it-works__text">{{ page.how_it_works__text3 }}</div>
-            </div>
-            <div>
-                <div class="s-how-it-works__number">4</div>
-                <div class="s-how-it-works__heading">{{ page.how_it_works__title4 }}</div>
-                <div class="s-how-it-works__text">{{ page.how_it_works__text4 }}</div>
-            </div>
-        </div>
 
-        <div class="u-align-center">
-            <a href="#" class="c-button --border u-align-center">{{ page.how_it_works_button_text }}</a>
         </div>
     </div>
 </div>
+
+{% include home/our-cars.html %}
+
+{% include home/usps.html %}
+
+{% include home/how-it-works.html %}
+

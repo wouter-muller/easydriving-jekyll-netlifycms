@@ -1,17 +1,28 @@
 .c-button
     border-radius: 8px
     display: inline-block
+    // text-transform: uppercase
+    transition: background-color $animation-delay ease-in-out
+    font-weight: $medium
+    font-size: 20px
+
+    &:active
+        transform: translateY(1px)
 
     &.\--cta
         background-color: $dark-green
         color: $inverted-text-color
         padding: 11px 30px
-        font-size: 20px
+
+        &:hover
+            background-color: darken($dark-green, $hover-darker-percentage)
+
 
     &.\--border
-        font-size: 20px
         padding: 7px 20px
         color: $main-text-color
         background-color: $main-bg-color
         border: 2px solid $dark-green
-        font-weight: $medium
+
+        &:hover
+            background-color: darken($main-bg-color, $hover-darker-percentage)
