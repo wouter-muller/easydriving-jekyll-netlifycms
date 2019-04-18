@@ -3,7 +3,7 @@ layout: default
 title: home
 title_tag: EasyDriving
 permalink: /
-active_postal_codes: 9355, 9613
+active_postal_codes: '9355, 9613'
 hero_heading: Samen slim rijden
 hero_subheading: Elektrische deelauto’s voor jou en je buurt!
 hero_button_text: Meld je nu aan
@@ -14,14 +14,14 @@ our_cars_car1_description: '€ 2,75 per uur of € 27,50 per dag'
 our_cars_car2_image: /uploads/hyundai-kona.png
 our_cars_car2_title: Hyundai Kona
 our_cars_car2_description: '€ 4,75 per uur of € 47,50 per dag'
-our_cars_car3_image: /uploads/tesla-model-s.png
-our_cars_car3_title: Tesla Model S
+our_cars_car3_image: /uploads/tesla-model-3.png
+our_cars_car3_title: Tesla Model 3
 our_cars_car3_description: 'vanaf € 15,00 per uur of € 150,00 per dag'
-our_cars_car4_image: /uploads/tesla-model-x.png
-our_cars_car4_title: Tesla Model X
+our_cars_car4_image: /uploads/tesla-model-s.png
+our_cars_car4_title: Tesla Model S
 our_cars_car4_description: 'vanaf € 17,50 per uur of € 175,00 per dag'
-our_cars_car5_image: /uploads/tesla-model-3.png
-our_cars_car5_title: Tesla Model 3
+our_cars_car5_image: /uploads/tesla-model-x.png
+our_cars_car5_title: Tesla Model X
 our_cars_car5_description: 'vanaf € 17,50 per uur of € 175,00 per dag'
 our_cars_button_text: Meer informatie
 usps_1_image: /uploads/usp1.svg
@@ -45,8 +45,8 @@ how_it_works__text1: >-
   gebruik genomen worden.
 how_it_works__title2: Reserveer een auto
 how_it_works__text2: >-
-  Via onze mobiele app kun je vantevoren bij jou in de buurt een auto reserveren. Reserveer per uur
-  of per dag. Alles kan.
+  Via onze mobiele app kun je vantevoren bij jou in de buurt een auto
+  reserveren. Reserveer per uur of per dag. Alles kan.
 how_it_works__title3: Open de auto met de app
 how_it_works__text3: >-
   Met de app kunnen gebruikers via een smartphone de auto openen.
