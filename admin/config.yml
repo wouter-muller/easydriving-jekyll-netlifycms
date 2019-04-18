@@ -21,7 +21,7 @@ collections: # A list of collections the CMS should be able to edit
       preview: false
     files:
       - name: 'general'
-        label: '2Instellingen'
+        label: 'Instellingen'
         file: "/_data/settings.yaml"
         description: "Algemene site instellingen"
         fields:
