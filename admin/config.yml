@@ -38,8 +38,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Layout", name: "layout", widget: "hidden"}
           - {label: "Title", name: "title", widget: "hidden"}
           - {label: "Title tag (SEO)", name: "title_tag", widget: "string"}
-          - {label: "Permalink", name: "permalink", widget: "string"}
-          - {label: "Name", name: "name", widget: "hidden"}
+          - {label: "Permalink", name: "permalink", widget: "hidden"}
           - {label: "Hero Heading", name: "hero_heading", widget: "string"}
           - {label: "Hero Subheading", name: "hero_subheading", widget: "string"}
           - {label: "Hero Button Text", name: "hero_button_text", widget: "string"}

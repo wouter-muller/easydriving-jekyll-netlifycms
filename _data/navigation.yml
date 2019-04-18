@@ -2,9 +2,9 @@
 
 - text: Home
   url: /
-- text: About
-  url: /about
-- text: Contact
-  url: /contact
-- text: Blog
-  url: /blog
+- text: Hoe werkt het?
+  url: /how-it-works
+- text: Onze auto's
+  url: /onze-autos
+- text: Over EasyDriving
+  url: /over-easydriving
