@@ -36,7 +36,10 @@ collections: # A list of collections the CMS should be able to edit
         file: "/_data/footer.yaml"
         fields:
           - { label: "Infotekst", name: "company_description", widget: "markdown" }
+          - { label: "Links heading", name: "links_heading", widget: "string" }
+          - { label: "Contact heading", name: "contact_heading", widget: "string" }
           - { label: "Adres", name: "company_address", widget: "markdown" }
+          - { label: "Copyright notice", name: "copyright_notice", widget: "string" }
   # HOMEPAGE
   - name: "homepage"
     label: "Homepage"
