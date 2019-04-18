@@ -52,23 +52,6 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Title", name: "title", widget: "hidden"}
           - {label: "Title tag (SEO)", name: "title_tag", widget: "string"}
           - {label: "Permalink", name: "permalink", widget: "hidden"}
-          - {label: "Onze auto's heading", name: "our_cars_heading", widget: "string"}
-          - {label: "Onze auto's - auto 1 - Foto", name: "our_cars_car1_image", widget: "image"}
-          - {label: "Onze auto's - auto 1 - Titel", name: "our_cars_car1_title", widget: "string"}
-          - {label: "Onze auto's - auto 1 - Beschrijving", name: "our_cars_car1_description", widget: "string"}
-          - {label: "Onze auto's - auto 2 - Foto", name: "our_cars_car2_image", widget: "image"}
-          - {label: "Onze auto's - auto 2 - Titel", name: "our_cars_car2_title", widget: "string"}
-          - {label: "Onze auto's - auto 2 - Beschrijving", name: "our_cars_car2_description", widget: "string"}
-          - {label: "Onze auto's - auto 3 - Foto", name: "our_cars_car3_image", widget: "image"}
-          - {label: "Onze auto's - auto 3 - Titel", name: "our_cars_car3_title", widget: "string"}
-          - {label: "Onze auto's - auto 3 - Beschrijving", name: "our_cars_car3_description", widget: "string"}
-          - {label: "Onze auto's - auto 4 - Foto", name: "our_cars_car4_image", widget: "image"}
-          - {label: "Onze auto's - auto 4 - Titel", name: "our_cars_car4_title", widget: "string"}
-          - {label: "Onze auto's - auto 4 - Beschrijving", name: "our_cars_car4_description", widget: "string"}
-          - {label: "Onze auto's - auto 5 - Foto", name: "our_cars_car5_image", widget: "image"}
-          - {label: "Onze auto's - auto 5 - Titel", name: "our_cars_car5_title", widget: "string"}
-          - {label: "Onze auto's - auto 5 - Beschrijving", name: "our_cars_car5_description", widget: "string"}
-          - {label: "Onze auto's - button text", name: "our_cars_button_text", widget: "string"}
           - {label: "USP 1 icon", name: "usps_1_image", widget: "image"}
           - {label: "USP 1 titel", name: "usps_1_heading", widget: "string"}
           - {label: "USP 1 text", name: "usps_1_text", widget: "markdown"}
@@ -87,7 +70,6 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "How it works text 4", name: "how_it_works__text4", widget: "text"}
           - {label: "How it works button text", name: "how_it_works_button_text", widget: "string"}
           - {label: "Body", name: "body", widget: "hidden"}
-
       - name: "hero"
         label: "Hero"
         file: "/_data/hero.yaml"
@@ -95,3 +77,24 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Heading", name: "heading", widget: "string"}
           - {label: "Subheading", name: "subheading", widget: "string"}
           - {label: "Button Text", name: "button_text", widget: "string"}
+      - name: "our_cars"
+        label: "Onze auto's"
+        file: "/_data/our-cars.yaml"
+        fields:
+          - {label: "Heading", name: "heading", widget: "string"}
+          - {label: "Auto 1 - Foto", name: "car1_image", widget: "image"}
+          - {label: "Auto 1 - Titel", name: "car1_title", widget: "string"}
+          - {label: "Auto 1 - Beschrijving", name: "car1_description", widget: "string"}
+          - {label: "Auto 2 - Foto", name: "car2_image", widget: "image"}
+          - {label: "Auto 2 - Titel", name: "car2_title", widget: "string"}
+          - {label: "Auto 2 - Beschrijving", name: "car2_description", widget: "string"}
+          - {label: "Auto 3 - Foto", name: "car3_image", widget: "image"}
+          - {label: "Auto 3 - Titel", name: "car3_title", widget: "string"}
+          - {label: "Auto 3 - Beschrijving", name: "car3_description", widget: "string"}
+          - {label: "Auto 4 - Foto", name: "car4_image", widget: "image"}
+          - {label: "Auto 4 - Titel", name: "car4_title", widget: "string"}
+          - {label: "Auto 4 - Beschrijving", name: "car4_description", widget: "string"}
+          - {label: "Auto 5 - Foto", name: "car5_image", widget: "image"}
+          - {label: "Auto 5 - Titel", name: "car5_title", widget: "string"}
+          - {label: "Auto 5 - Beschrijving", name: "car5_description", widget: "string"}
+          - {label: "Button text", name: "button_text", widget: "string"}
