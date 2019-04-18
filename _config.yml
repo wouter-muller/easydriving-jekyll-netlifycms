@@ -45,13 +45,13 @@ defaults:
       layout: "post" # set the correct default template for a post
       section: "post" # set the root section name
 
-# Build settings
-markdown: kramdown
+# # Build settings
+# markdown: kramdown
 
-# Kramdown options
-kramdown:
-  # Prevent IDs from being added to h1-h6 tags
-  auto_ids: false
+# # Kramdown options
+# kramdown:
+#   # Prevent IDs from being added to h1-h6 tags
+#   auto_ids: false
 
 # Include in processing (e.g. Netlify directives)
 # Uncomment before use
