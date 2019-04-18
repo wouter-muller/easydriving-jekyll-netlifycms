@@ -16,10 +16,10 @@ our_cars_car2_title: Hyundai Kona
 our_cars_car2_description: '€ 4,75 per uur of € 47,50 per dag'
 our_cars_car3_image: /uploads/tesla-model-3.png
 our_cars_car3_title: Tesla Model 3
-our_cars_car3_description: 'vanaf € 15,00 per uur of € 150,00 per dag'
+our_cars_car3_description: 'vanaf € 8,50 per uur of € 85,00 per dag'
 our_cars_car4_image: /uploads/tesla-model-s.png
 our_cars_car4_title: Tesla Model S
-our_cars_car4_description: 'vanaf € 17,50 per uur of € 175,00 per dag'
+our_cars_car4_description: 'vanaf € 15,00 per uur of € 150,00 per dag'
 our_cars_car5_image: /uploads/tesla-model-x.png
 our_cars_car5_title: Tesla Model X
 our_cars_car5_description: 'vanaf € 17,50 per uur of € 175,00 per dag'
