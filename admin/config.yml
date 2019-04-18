@@ -106,3 +106,14 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Title 4", name: "title4", widget: "string"}
           - {label: "Text 4", name: "text4", widget: "text"}
           - {label: "Button text", name: "button_text", widget: "string"}
+      - name: "availability"
+        label: "Availability"
+        file: "_data/availability.yaml"
+        fields:
+          - { label: "Heading", name: "heading", widget: "string" }
+          - { label: "Formulier vraag", name: "form_question", widget: "string" }
+          - { label: "Formulier button text", name: "form_submit_text", widget: "string" }
+          - { label: "Geen beschikbaarheid text", name: "negative_result_text", widget: "markdown" }
+          - { label: "E-mail adres", name: "email_address", widget: "string" }
+          - { label: "Geen beschikbaarheid button text", name: "negative_form_button_text", widget: "string" }
+          - { label: "Wel beschikbaarheid text", name: "positive_result_text", widget: "markdown" }
