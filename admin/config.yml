@@ -13,6 +13,13 @@ public_folder: "/uploads"
 logo_url: https://pensive-edison-7425f6.netlify.com/dist/img/logo.svg
 
 collections: # A list of collections the CMS should be able to edit
+  # SETTINGS
+  - name: "settings"
+    label: "Instellingen"
+    file: "/_data/settings.yaml"
+    description: "Algemene site instellingen"
+    fields:
+      - {label: "Adres", name: "footer_company_address", widget: "markdown"}
   # PAGES
   - name: "homepage"
     label: "Homepage"
