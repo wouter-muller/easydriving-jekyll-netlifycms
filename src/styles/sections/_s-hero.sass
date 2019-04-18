@@ -8,19 +8,11 @@
         +background-image('hero-bg.jpg')
         background-size: cover
         background-position: center center
-        position: absolute
-        top: 0
-        bottom: 0
-        left: 0
-        right: 0
+        +fill-space
 
         &:after
             content: ''
-            position: absolute
-            top: 0
-            bottom: 0
-            left: 0
-            right: 0
+            +fill-space
             background-color: rgba($brand-color, 0.35)
 
     &__inner

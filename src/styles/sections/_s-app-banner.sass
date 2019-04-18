@@ -1,0 +1,32 @@
+.s-app-banner
+    position: relative
+
+    &__bg
+        +background-image('app-banner-bg.jpg')
+        background-size: cover
+        background-position: center center
+        +fill-space
+
+        &:before
+            content: ''
+            +fill-space
+            background-color: rgba(black, 0.18)
+
+        &:after
+            content: ''
+            +fill-space
+            background-color: rgba($brand-color, 0.56)
+
+    &__inner
+        position: relative
+        padding: 160px 0
+        text-align: center
+
+    &__slogan
+        color: $inverted-text-color
+        font-size: 50px
+        font-weight: $bold
+        line-height: 1.2
+        max-width: 800px
+        margin: 0 auto
+        text-shadow: 0 0 30px rgba(black, 1)

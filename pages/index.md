@@ -20,6 +20,9 @@ our_cars_car3_description: 'vanaf € 15,00 per uur of € 150,00 per dag'
 our_cars_car4_image: /uploads/tesla-model-x.png
 our_cars_car4_title: Tesla Model X
 our_cars_car4_description: 'vanaf € 17,50 per uur of € 175,00 per dag'
+our_cars_car5_image: /uploads/tesla-model-3.png
+our_cars_car5_title: Tesla Model 3
+our_cars_car5_description: 'vanaf € 17,50 per uur of € 175,00 per dag'
 our_cars_button_text: Meer informatie
 usps_1_image: /uploads/usp1.svg
 usps_1_heading: Beter voor het milieu
@@ -58,33 +61,11 @@ how_it_works_button_text: Meer informatie
 
 {% include home/hero.html %}
 
-<div class="s-availability" data-active-postal-codes="{{ page.active_postal_codes }}">
-    <div class="l-wrapper u-align-center">
-    <h2 class="c-heading --large u-mb+">Is EasyDriving al beschikbaar in jouw buurt?</h2>
-        <div style="display: nxone">
-            <form action="/" >
-                <label class="c-label u-mb-">Wat is je postcode?</label>
-                <input type="text" class="s-availability__postal-code-input c-input">
-                <button type="submit" class="s-availability__submit c-button --cta">Versturen</button>
-            </form>
-        </div>
-        <div>
-            <p class="c-paragraph u-mb">Helaas, EasyDriving is nog niet in uw buurt beschikbaar. Vul hier uw e-mail adres in als u op de hoogte wilt worden gehouden wanneer we in uw buurt van start gaan!</p>
-
-            <form>
-                <label class="c-label u-mb-">E-mail adres</label>
-                <input type="email" class="s-availability__email-input c-input" required>
-                <label class="c-label u-mb-">Wat is je postcode?</label>
-                <input type="text" class="s-availability__postal-code-input c-input" value="9613 AZ" maxlength="7">
-                <button type="submit" class="c-button --cta">Hou mij op de hoogte</button>
-            </form>
-
-        </div>
-        <div>
-            <p class="c-paragraph u-mb">Goed nieuws! EasyDriving is in uw buurt beschikbaar!</p>
-            <a href="#" class="c-button --cta">{{ page.hero_button_text }}</a>
-
-
+<div class="s-app-banner">
+    <div class="s-app-banner__bg"></div>
+    <div class="s-app-banner__inner">
+        <div class="l-wrapper">
+            <h2 class="s-app-banner__slogan">Met onze app kun je de auto reserveren, openen, rijden en sluiten</h2>
         </div>
     </div>
 </div>
@@ -95,3 +76,4 @@ how_it_works_button_text: Meer informatie
 
 {% include home/how-it-works.html %}
 
+{% include home/availability.html %}
