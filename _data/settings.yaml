@@ -1,1 +1,7 @@
-footer_company_address: EasyDriving adress
+footer_company_address: |-
+  EasyDriving\
+  Hoofdstraat 125\
+  9355 TD Midwolde
+
+  **Tel**.: 06 12345678\
+  **E-mail**: <mailto:info@easy-driving.eu>
