@@ -16,10 +16,16 @@ collections: # A list of collections the CMS should be able to edit
   # SETTINGS
   - name: "settings"
     label: "Instellingen"
-    file: "/_data/settings.yaml"
-    description: "Algemene site instellingen"
-    fields:
-      - {label: "Adres", name: "footer_company_address", widget: "markdown"}
+    delete: "false"
+    editor:
+      preview: false
+    files:
+      - name: 'general'
+        label: '2Instellingen'
+        file: "/_data/settings.yaml"
+        description: "Algemene site instellingen"
+        fields:
+          - {label: "Adres", name: "footer_company_address", widget: "markdown"}
   # PAGES
   - name: "homepage"
     label: "Homepage"
