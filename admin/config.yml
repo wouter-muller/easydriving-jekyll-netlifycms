@@ -52,9 +52,6 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Title", name: "title", widget: "hidden"}
           - {label: "Title tag (SEO)", name: "title_tag", widget: "string"}
           - {label: "Permalink", name: "permalink", widget: "hidden"}
-          - {label: "Hero Heading", name: "hero_heading", widget: "string"}
-          - {label: "Hero Subheading", name: "hero_subheading", widget: "string"}
-          - {label: "Hero Button Text", name: "hero_button_text", widget: "string"}
           - {label: "Onze auto's heading", name: "our_cars_heading", widget: "string"}
           - {label: "Onze auto's - auto 1 - Foto", name: "our_cars_car1_image", widget: "image"}
           - {label: "Onze auto's - auto 1 - Titel", name: "our_cars_car1_title", widget: "string"}
@@ -90,3 +87,11 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "How it works text 4", name: "how_it_works__text4", widget: "text"}
           - {label: "How it works button text", name: "how_it_works_button_text", widget: "string"}
           - {label: "Body", name: "body", widget: "hidden"}
+
+      - name: "hero"
+        label: "Hero"
+        file: "/_data/hero.yaml"
+        fields:
+          - {label: "Heading", name: "heading", widget: "string"}
+          - {label: "Subheading", name: "subheading", widget: "string"}
+          - {label: "Button Text", name: "button_text", widget: "string"}
