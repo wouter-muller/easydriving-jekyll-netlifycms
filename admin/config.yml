@@ -30,51 +30,51 @@ collections: # A list of collections the CMS should be able to edit
   # PAGES
   - name: "homepage"
     label: "Homepage"
-    folder: "pages"
-    sort: "title:asc"
-    create: false
-    slug: "{{slug}}"
-    fields:
-      - {label: "Layout", name: "layout", widget: "hidden"}
-      - {label: "Title", name: "title", widget: "hidden"}
-      - {label: "Title tag (SEO)", name: "title_tag", widget: "string"}
-      - {label: "Permalink", name: "permalink", widget: "string"}
-      - {label: "Name", name: "name", widget: "hidden"}
-      - {label: "Hero Heading", name: "hero_heading", widget: "string"}
-      - {label: "Hero Subheading", name: "hero_subheading", widget: "string"}
-      - {label: "Hero Button Text", name: "hero_button_text", widget: "string"}
-      - {label: "Onze auto's heading", name: "our_cars_heading", widget: "string"}
-      - {label: "Onze auto's - auto 1 - Foto", name: "our_cars_car1_image", widget: "image"}
-      - {label: "Onze auto's - auto 1 - Titel", name: "our_cars_car1_title", widget: "string"}
-      - {label: "Onze auto's - auto 1 - Beschrijving", name: "our_cars_car1_description", widget: "string"}
-      - {label: "Onze auto's - auto 2 - Foto", name: "our_cars_car2_image", widget: "image"}
-      - {label: "Onze auto's - auto 2 - Titel", name: "our_cars_car2_title", widget: "string"}
-      - {label: "Onze auto's - auto 2 - Beschrijving", name: "our_cars_car2_description", widget: "string"}
-      - {label: "Onze auto's - auto 3 - Foto", name: "our_cars_car3_image", widget: "image"}
-      - {label: "Onze auto's - auto 3 - Titel", name: "our_cars_car3_title", widget: "string"}
-      - {label: "Onze auto's - auto 3 - Beschrijving", name: "our_cars_car3_description", widget: "string"}
-      - {label: "Onze auto's - auto 4 - Foto", name: "our_cars_car4_image", widget: "image"}
-      - {label: "Onze auto's - auto 4 - Titel", name: "our_cars_car4_title", widget: "string"}
-      - {label: "Onze auto's - auto 4 - Beschrijving", name: "our_cars_car4_description", widget: "string"}
-      - {label: "Onze auto's - auto 5 - Foto", name: "our_cars_car5_image", widget: "image"}
-      - {label: "Onze auto's - auto 5 - Titel", name: "our_cars_car5_title", widget: "string"}
-      - {label: "Onze auto's - auto 5 - Beschrijving", name: "our_cars_car5_description", widget: "string"}
-      - {label: "Onze auto's - button text", name: "our_cars_button_text", widget: "string"}
-      - {label: "USP 1 icon", name: "usps_1_image", widget: "image"}
-      - {label: "USP 1 titel", name: "usps_1_heading", widget: "string"}
-      - {label: "USP 1 text", name: "usps_1_text", widget: "markdown"}
-      - {label: "USP 2 icon", name: "usps_2_image", widget: "image"}
-      - {label: "USP 2 titel", name: "usps_2_heading", widget: "string"}
-      - {label: "USP 2 text", name: "usps_2_text", widget: "markdown"}
-      - {label: "USP button text", name: "usps_button_text", widget: "string"}
-      - {label: "How it works heading", name: "how_it_works__heading", widget: "string"}
-      - {label: "How it works title 1", name: "how_it_works__title1", widget: "string"}
-      - {label: "How it works text 1", name: "how_it_works__text1", widget: "text"}
-      - {label: "How it works title 2", name: "how_it_works__title2", widget: "string"}
-      - {label: "How it works text 2", name: "how_it_works__text2", widget: "text"}
-      - {label: "How it works title 3", name: "how_it_works__title3", widget: "string"}
-      - {label: "How it works text 3", name: "how_it_works__text3", widget: "text"}
-      - {label: "How it works title 4", name: "how_it_works__title4", widget: "string"}
-      - {label: "How it works text 4", name: "how_it_works__text4", widget: "text"}
-      - {label: "How it works button text", name: "how_it_works_button_text", widget: "string"}
-      - {label: "Body", name: "body", widget: "hidden"}
+    files:
+      - name: "homepage"
+        label: "Homepage"
+        file: "/pages/index.html"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden"}
+          - {label: "Title", name: "title", widget: "hidden"}
+          - {label: "Title tag (SEO)", name: "title_tag", widget: "string"}
+          - {label: "Permalink", name: "permalink", widget: "string"}
+          - {label: "Name", name: "name", widget: "hidden"}
+          - {label: "Hero Heading", name: "hero_heading", widget: "string"}
+          - {label: "Hero Subheading", name: "hero_subheading", widget: "string"}
+          - {label: "Hero Button Text", name: "hero_button_text", widget: "string"}
+          - {label: "Onze auto's heading", name: "our_cars_heading", widget: "string"}
+          - {label: "Onze auto's - auto 1 - Foto", name: "our_cars_car1_image", widget: "image"}
+          - {label: "Onze auto's - auto 1 - Titel", name: "our_cars_car1_title", widget: "string"}
+          - {label: "Onze auto's - auto 1 - Beschrijving", name: "our_cars_car1_description", widget: "string"}
+          - {label: "Onze auto's - auto 2 - Foto", name: "our_cars_car2_image", widget: "image"}
+          - {label: "Onze auto's - auto 2 - Titel", name: "our_cars_car2_title", widget: "string"}
+          - {label: "Onze auto's - auto 2 - Beschrijving", name: "our_cars_car2_description", widget: "string"}
+          - {label: "Onze auto's - auto 3 - Foto", name: "our_cars_car3_image", widget: "image"}
+          - {label: "Onze auto's - auto 3 - Titel", name: "our_cars_car3_title", widget: "string"}
+          - {label: "Onze auto's - auto 3 - Beschrijving", name: "our_cars_car3_description", widget: "string"}
+          - {label: "Onze auto's - auto 4 - Foto", name: "our_cars_car4_image", widget: "image"}
+          - {label: "Onze auto's - auto 4 - Titel", name: "our_cars_car4_title", widget: "string"}
+          - {label: "Onze auto's - auto 4 - Beschrijving", name: "our_cars_car4_description", widget: "string"}
+          - {label: "Onze auto's - auto 5 - Foto", name: "our_cars_car5_image", widget: "image"}
+          - {label: "Onze auto's - auto 5 - Titel", name: "our_cars_car5_title", widget: "string"}
+          - {label: "Onze auto's - auto 5 - Beschrijving", name: "our_cars_car5_description", widget: "string"}
+          - {label: "Onze auto's - button text", name: "our_cars_button_text", widget: "string"}
+          - {label: "USP 1 icon", name: "usps_1_image", widget: "image"}
+          - {label: "USP 1 titel", name: "usps_1_heading", widget: "string"}
+          - {label: "USP 1 text", name: "usps_1_text", widget: "markdown"}
+          - {label: "USP 2 icon", name: "usps_2_image", widget: "image"}
+          - {label: "USP 2 titel", name: "usps_2_heading", widget: "string"}
+          - {label: "USP 2 text", name: "usps_2_text", widget: "markdown"}
+          - {label: "USP button text", name: "usps_button_text", widget: "string"}
+          - {label: "How it works heading", name: "how_it_works__heading", widget: "string"}
+          - {label: "How it works title 1", name: "how_it_works__title1", widget: "string"}
+          - {label: "How it works text 1", name: "how_it_works__text1", widget: "text"}
+          - {label: "How it works title 2", name: "how_it_works__title2", widget: "string"}
+          - {label: "How it works text 2", name: "how_it_works__text2", widget: "text"}
+          - {label: "How it works title 3", name: "how_it_works__title3", widget: "string"}
+          - {label: "How it works text 3", name: "how_it_works__text3", widget: "text"}
+          - {label: "How it works title 4", name: "how_it_works__title4", widget: "string"}
+          - {label: "How it works text 4", name: "how_it_works__text4", widget: "text"}
+          - {label: "How it works button text", name: "how_it_works_button_text", widget: "string"}
+          - {label: "Body", name: "body", widget: "hidden"}
