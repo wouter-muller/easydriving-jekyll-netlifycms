@@ -61,15 +61,6 @@ how_it_works_button_text: Meer informatie
 
 {% include home/hero.html %}
 
-<div class="s-app-banner">
-    <div class="s-app-banner__bg"></div>
-    <div class="s-app-banner__inner">
-        <div class="l-wrapper">
-            <h2 class="s-app-banner__slogan">Met onze app kun je de auto reserveren, openen, rijden en sluiten</h2>
-        </div>
-    </div>
-</div>
-
 {% include home/our-cars.html %}
 
 {% include home/usps.html %}
@@ -77,3 +68,5 @@ how_it_works_button_text: Meer informatie
 {% include home/how-it-works.html %}
 
 {% include home/availability.html %}
+
+{% include home/app-banner.html %}

@@ -18,7 +18,7 @@ collections: # A list of collections the CMS should be able to edit
     label: "Homepage"
     folder: "pages"
     sort: "title:asc"
-    create: true
+    create: false
     slug: "{{slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden"}
