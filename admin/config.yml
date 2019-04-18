@@ -16,6 +16,7 @@ collections: # A list of collections the CMS should be able to edit
   # SETTINGS
   - name: "settings"
     label: "Instellingen"
+    description: "Algemene site instellingen"
     delete: "false"
     editor:
       preview: false
@@ -23,9 +24,9 @@ collections: # A list of collections the CMS should be able to edit
       - name: 'general'
         label: 'Instellingen'
         file: "/_data/settings.yaml"
-        description: "Algemene site instellingen"
         fields:
-          - {label: "Adres", name: "footer_company_address", widget: "markdown"}
+          - {label: "Adres (zoals getoond in de footer)", name: "footer_company_address", widget: "markdown"}
+          - {label: "Postcodes waarin EasyDriving beschikbaar is", "active_postal_codes", widget: "text"}
   # PAGES
   - name: "homepage"
     label: "Homepage"
