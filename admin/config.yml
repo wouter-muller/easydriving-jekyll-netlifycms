@@ -26,7 +26,7 @@ collections: # A list of collections the CMS should be able to edit
         file: "/_data/settings.yaml"
         fields:
           - {label: "Adres (zoals getoond in de footer)", name: "footer_company_address", widget: "markdown"}
-          - {label: "Postcodes waarin EasyDriving beschikbaar is", "active_postal_codes", widget: "text"}
+          - {label: "Postcodes waarin EasyDriving beschikbaar is", name: "active_postal_codes", widget: "text"}
   # PAGES
   - name: "homepage"
     label: "Homepage"
@@ -39,7 +39,6 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Title", name: "title", widget: "hidden"}
       - {label: "Title tag (SEO)", name: "title_tag", widget: "string"}
       - {label: "Permalink", name: "permalink", widget: "string"}
-      - {label: "Actieve postcodes", name: "active_postal_codes", widget: "text"}
       - {label: "Name", name: "name", widget: "hidden"}
       - {label: "Hero Heading", name: "hero_heading", widget: "string"}
       - {label: "Hero Subheading", name: "hero_subheading", widget: "string"}
