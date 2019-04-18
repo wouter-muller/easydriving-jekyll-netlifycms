@@ -25,9 +25,19 @@ collections: # A list of collections the CMS should be able to edit
         label: 'Instellingen'
         file: "/_data/settings.yaml"
         fields:
-          - {label: "Adres (zoals getoond in de footer)", name: "footer_company_address", widget: "markdown"}
           - {label: "Postcodes waarin EasyDriving beschikbaar is", name: "active_postal_codes", widget: "text"}
-  # PAGES
+  # FOOTER
+  - name: "footer"
+    label: "Footer"
+    delete: "false"
+    files:
+      - name: 'footer'
+        label: "Footer"
+        file: "/_data/footer.yaml"
+        fields:
+          - { label: "Infotekst", name: "company_description", widget: "markdown" }
+          - { label: "Adres", name: "company_address", widget: "markdown" }
+  # HOMEPAGE
   - name: "homepage"
     label: "Homepage"
     files:
