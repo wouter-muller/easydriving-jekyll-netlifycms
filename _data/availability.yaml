@@ -1,7 +1,10 @@
 heading: Is EasyDriving al beschikbaar in jouw buurt?
 form_question: Wat is je postcode?
 form_submit_text: Versturen
-negative_result_text: Helaas, EasyDriving is nog niet in uw buurt beschikbaar. Vul hier uw e-mail adres in als u op de hoogte wilt worden gehouden wanneer we in uw buurt van start gaan!
+negative_result_text: >-
+  Helaas, EasyDriving is nog niet in jouw buurt beschikbaar. Vul hier je e-mail
+  adres in als je op de hoogte wil worden gehouden wanneer we in jouw buurt van
+  start gaan!
 email_address: E-mail adres
 negative_form_button_text: Hou mij op de hoogte
-positive_result_text: Goed nieuws! EasyDriving is in uw buurt beschikbaar!
+positive_result_text: Goed nieuws! EasyDriving is in jouw buurt beschikbaar!
