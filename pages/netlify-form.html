@@ -1,0 +1,19 @@
+---
+layout: default
+title: netlify-form
+title_tag: Samen slim rijden - Elektrische auto's voor jou en je buurt - EasyDriving
+permalink: /netlify-form
+---
+<form
+    action="/"
+    name="availability-check-signup"
+    id="availability-check-signup"
+    data-netlify="true"
+    method="post"
+>
+    <label class="c-label u-mb-">{{ this.emailAddress }}</label>
+    <input type="email" class="s-availability__email-input c-input" required>
+    <label class="c-label u-mb-">{{ this.formQuestion }}</label>
+    <input type="text" class="s-availability__postal-code-input c-input" maxlength="7">
+    <button type="submit" class="c-button --cta">{{ this.negativeFormButtonText }}</button>
+</form>
