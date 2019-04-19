@@ -6,7 +6,12 @@
     &__grid
         padding: 50px
         display: grid
-        grid-template-columns: 1fr 1fr 1fr
+
+        +mobile
+            grid-template-columns: 1fr
+
+        +tablet-desktop
+            grid-template-columns: 1fr 1fr 1fr
 
     &__logo-symbol
         margin-bottom: 20px
