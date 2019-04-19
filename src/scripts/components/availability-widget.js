@@ -42,7 +42,7 @@ Vue.component('availability-widget', {
 
     data() {
         return {
-            postalCode: "9613 AZ",
+            postalCode: "",
             result: "unknown"
         }
     },
