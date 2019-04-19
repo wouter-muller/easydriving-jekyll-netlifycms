@@ -8,12 +8,11 @@ permalink: /netlify-form
     action="/"
     name="availability-check-signup"
     id="availability-check-signup"
-    data-netlify="true"
+    netlify
     method="post"
+    hidden
 >
-    <label class="c-label u-mb-">{{ this.emailAddress }}</label>
-    <input type="email" class="s-availability__email-input c-input" required>
-    <label class="c-label u-mb-">{{ this.formQuestion }}</label>
-    <input type="text" class="s-availability__postal-code-input c-input" maxlength="7">
-    <button type="submit" class="c-button --cta">{{ this.negativeFormButtonText }}</button>
+    <input type="email" name="email-address">
+    <input type="text" name="postal-code" class="s-availability__postal-code-input c-input" maxlength="7">
+    <button type="submit" class="c-button --cta">OK</button>
 </form>
