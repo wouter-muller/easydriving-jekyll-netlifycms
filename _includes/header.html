@@ -2,11 +2,15 @@
     <div class="l-wrapper">
         <div class="s-header__inner">
             <div class="s-header__logo">
-                <img src="{{ site.image_path }}/logo.svg">
+                <a href="/">
+                    <img src="{{ site.image_path }}/logo.svg">
+                </a>
             </div>
             <div class="s-header__nav">
                 {% for item in site.data.navigation %}
-                    <a class="s-header__nav-link" href="{{ item.url }}">{{ item.text }}</a>
+                    {% if item.include_in_header %}
+                        <a class="s-header__nav-link" href="{{ item.url }}">{{ item.text }}</a>
+                    {% endif %}
                 {% endfor %}
 
                 <a class="c-button --border" href="/">Aanmelden</a>
