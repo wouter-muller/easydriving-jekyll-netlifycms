@@ -1,7 +1,7 @@
 Vue.component('availability-widget', {
     template: `
         <div>
-            <div class="s-availability" data-active-postal-codes="site.data.settings.active_postal_codes">
+            <div class="s-availability">
                 <div class="l-wrapper u-align-center">
                 <h2 class="c-heading --large --green u-mb+">{{ this.heading }}</h2>
                     <div v-if="result === 'unknown'">
@@ -22,6 +22,7 @@ Vue.component('availability-widget', {
                             data-netlify="true"
                             method="post"
                         >
+                            <input type="hidden" name="form-name" value="availability-check-signup" />
                             <label class="c-label u-mb-">{{ this.emailAddress }}</label>
                             <input type="email" class="s-availability__email-input c-input" required>
                             <label class="c-label u-mb-">{{ this.formQuestion }}</label>
