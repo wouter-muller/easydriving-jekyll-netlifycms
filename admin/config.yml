@@ -101,27 +101,27 @@ collections: # A list of collections the CMS should be able to edit
         label: "Kostenvergelijker tool"
         file: "_data/compare_costs.yaml"
         fields:
-          - { label: "heading", name: "Heading", widget: "string" }
-          - { label: "description", name: "Beschrijving", widget: "text" }
-          - { label: "distance_label", name: "Afstand label", widget: "string" }
-          - { label: "car1", name: "Auto 1 (in iegen bezit)", widget: "string" }
-          - { label: "car2", name: "Auto 2 (via EasyDriving)", widget: "string" }
-          - { label: "afschrijvingskosten_label", name: "Afschrijvingskosten label", widget: "string" }
-          - { label: "verzekering_label", name: "Verzekering label", widget: "string" }
-          - { label: "belasting_label", name: "Belasting label", widget: "string" }
-          - { label: "onderhoud_label", name: "Onderhoud label", widget: "string" }
-          - { label: "benzine_label", name: "Benzine label", widget: "string" }
-          - { label: "subscription_label", name: "Lidmaatschap EasyDriving label", widget: "string" }
-          - { label: "deelauto_label", name: "Kosten deelauto label", widget: "string" }
-          - { label: "distance", name: "Initiële afstand", widget: "string" }
-          - { label: "maximum", name: "Maximum aantal km per jaar", widget: "string" }
-          - { label: "afschrijvingskosten", name: "Afschrijvingskosten per jaar", widget: "string" }
-          - { label: "verzekering", name: "Verzekeringskosten per jaar", widget: "string" }
-          - { label: "belasting", name: "Belasting per jaar", widget: "string" }
-          - { label: "onderhoud", name: "Onderhoud kosten per jaar", widget: "string" }
-          - { label: "benzineprijs", name: "Benzine literprijs", widget: "string" }
-          - { label: "subscription_costs", name: "Kosten lidmaatschap EasyDriving (per jaar)", widget: "string" }
-          - { label: "stroomkosten", name: "Stroomkosten (per km)", widget: "string" }
+          - { name: "heading", label: "Heading", widget: "string" }
+          - { name: "description", label: "Beschrijving", widget: "text" }
+          - { name: "distance_label", label: "Afstand label", widget: "string" }
+          - { name: "car1", label: "Auto 1 (in iegen bezit)", widget: "string" }
+          - { name: "car2", label: "Auto 2 (via EasyDriving)", widget: "string" }
+          - { name: "afschrijvingskosten_label", label: "Afschrijvingskosten label", widget: "string" }
+          - { name: "verzekering_label", label: "Verzekering label", widget: "string" }
+          - { name: "belasting_label", label: "Belasting label", widget: "string" }
+          - { name: "onderhoud_label", label: "Onderhoud label", widget: "string" }
+          - { name: "benzine_label", label: "Benzine label", widget: "string" }
+          - { name: "subscription_label", label: "Lidmaatschap EasyDriving label", widget: "string" }
+          - { name: "deelauto_label", label: "Kosten deelauto label", widget: "string" }
+          - { name: "distance", label: "Initiële afstand", widget: "string" }
+          - { name: "maximum", label: "Maximum aantal km per jaar", widget: "string" }
+          - { name: "afschrijvingskosten", label: "Afschrijvingskosten per jaar", widget: "string" }
+          - { name: "verzekering", label: "Verzekeringskosten per jaar", widget: "string" }
+          - { name: "belasting", label: "Belasting per jaar", widget: "string" }
+          - { name: "onderhoud", label: "Onderhoud kosten per jaar", widget: "string" }
+          - { name: "benzineprijs", label: "Benzine literprijs", widget: "string" }
+          - { name: "subscription_costs", label: "Kosten lidmaatschap EasyDriving (per jaar)", widget: "string" }
+          - { name: "stroomkosten", label: "Stroomkosten (per km)", widget: "string" }
       - name: "availability"
         label: "Availability"
         file: "_data/availability.yaml"
