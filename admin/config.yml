@@ -26,20 +26,11 @@ collections: # A list of collections the CMS should be able to edit
         file: "/_data/settings.yaml"
         fields:
           - {label: "Postcodes waarin EasyDriving beschikbaar is", name: "active_postal_codes", widget: "text"}
-  # FOOTER
-  - name: "footer"
-    label: "Footer"
-    delete: "false"
-    files:
-      - name: 'footer'
-        label: "Footer"
-        file: "/_data/footer.yaml"
-        fields:
-          - { label: "Infotekst", name: "company_description", widget: "markdown" }
-          - { label: "Links heading", name: "links_heading", widget: "string" }
-          - { label: "Contact heading", name: "contact_heading", widget: "string" }
-          - { label: "Adres", name: "company_address", widget: "markdown" }
-          - { label: "Copyright notice", name: "copyright_notice", widget: "string" }
+          - {label: "Link naar de Apple Store app", name: "app_store_url", widget: "string"}
+          - {label: "Link naar de Google Play Store app", name: "google_play_store_url:", widget: "string"}
+          - {label: "Facebook profile link", name: "facebook_url:", widget: "string"}
+          - {label: "Instagram profile link", name: "facebook_url:", widget: "string"}
+          - {label: "Facebook profile link", name: "facebook_url:", widget: "string"}
   # HOMEPAGE
   - name: "homepage"
     label: "Homepage"
@@ -117,3 +108,17 @@ collections: # A list of collections the CMS should be able to edit
           - { label: "E-mail adres", name: "email_address", widget: "string" }
           - { label: "Geen beschikbaarheid button text", name: "negative_form_button_text", widget: "string" }
           - { label: "Wel beschikbaarheid text", name: "positive_result_text", widget: "markdown" }
+  # FOOTER
+  - name: "footer"
+    label: "Footer"
+    delete: "false"
+    files:
+      - name: 'footer'
+        label: "Footer"
+        file: "/_data/footer.yaml"
+        fields:
+          - { label: "Infotekst", name: "company_description", widget: "markdown" }
+          - { label: "Links heading", name: "links_heading", widget: "string" }
+          - { label: "Contact heading", name: "contact_heading", widget: "string" }
+          - { label: "Adres", name: "company_address", widget: "markdown" }
+          - { label: "Copyright notice", name: "copyright_notice", widget: "string" }

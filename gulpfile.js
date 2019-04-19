@@ -69,17 +69,16 @@ gulp.task('fonts', function() {
 gulp.task('js', function() {
   return gulp
     .src(config.sourceDir + '/scripts/**/*')
-    .pipe(order(['modules/**','app.js']))
+    .pipe(order(['components/**','app.js']))
     .pipe(concat('scripts.js'))
-    .pipe(uglify())
+    // .pipe(uglify())
     .pipe(gulp.dest(config.outputDir + '/js'));
 });
 
 gulp.task('js-third-party', function() {
   return gulp
     .src([
-      './node_modules/scrollmonitor/scrollMonitor.js',
-      './node_modules/jquery/dist/jquery.min.js'
+      './node_modules/vue/dist/vue.js'
       ])
     .pipe(concat('third-party.js'))
     .pipe(gulp.dest(config.outputDir + '/js'));

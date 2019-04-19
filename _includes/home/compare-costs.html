@@ -1,0 +1,14 @@
+<div class="s-compare-costs">
+    <div class="s-compare-costs__bg"></div>
+    <div class="s-compare-costs__inner">
+        <div class="l-wrapper">
+            <div class="s-compare-costs__overlay">
+                <h2 class="c-heading --large --black u-align-center u-mb+">
+                    {{ site.data.compare_costs.heading }}
+                </h2>
+                <p class="c-paragraph u-mb">{{ site.data.compare_costs.description }}</p>
+                <range-slider description="{{ site.data.compare_costs.distance_label }}" :subscription-costs={{ site.data.compare_costs.subscription_costs }}></range-slider>
+            </div>
+        </div>
+    </div>
+</div>

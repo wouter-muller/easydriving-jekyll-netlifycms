@@ -32,7 +32,8 @@
     "lodash": ">=4.17.5",
     "minimatch": ">=3.0.2",
     "node-sass-magic-importer": "^5.2.0",
-    "scrollmonitor": "^1.2.4"
+    "scrollmonitor": "^1.2.4",
+    "vue": "^2.6.7"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

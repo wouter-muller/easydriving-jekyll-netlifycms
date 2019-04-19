@@ -22,6 +22,18 @@
         padding: 160px 0
         text-align: center
 
+        a
+            opacity: 0.7
+            width: 200px // app store links
+            display: inline-block
+            transition: opacity 0.3s ease-in-out
+
+            &:hover
+                opacity: 1
+
+        a + a
+            margin-left: 30px
+
     &__slogan
         color: $inverted-text-color
         font-size: 50px

@@ -1,0 +1,52 @@
+.s-compare-costs
+    position: relative
+
+    &__bg
+        +background-image('compare-costs-bg.jpg')
+        background-size: cover
+        background-position: center center
+        +fill-space
+
+        &:before
+            content: ''
+            +fill-space
+            background-color: rgba(black, 0.18)
+
+        &:after
+            content: ''
+            +fill-space
+            background-color: rgba($brand-color, 0.56)
+
+    &__overlay
+        background-color: rgba($main-bg-color, 0.8)
+        position: relative
+        padding: 50px
+        max-width: 663px
+        margin: 0 auto
+        text-align: center
+
+    &__range-slider
+        &-wrapper
+            display: grid
+            grid-template-columns: 20px 1fr 40px
+            grid-gap: 20px
+            justify-content: center
+            align-items: center
+            margin-bottom: 20px
+
+    &__legend
+        font-size: 20px
+        font-weight: $medium
+        color: $slightly-muted-text-color
+
+    &__distance
+        p
+            span
+                font-size: 30px
+                color: $main-text-color
+
+    &__table
+        &-totals
+            td
+                font-size: 30px
+                padding-top: 20px

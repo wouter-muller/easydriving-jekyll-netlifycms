@@ -1,10 +1,12 @@
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ page.title_tag }}</title>
-  <link rel="stylesheet" href="/dist/css/styles.css">
-  {% if jekyll.environment == 'production' and site.analytics %}
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title_tag }}</title>
+    <link rel="stylesheet" href="/dist/css/styles.css">
+    <script defer src="/dist/js/third-party.js"></script>
+    <script defer src="/dist/js/scripts.js"></script>
+    {% if jekyll.environment == 'production' and site.analytics %}
     {% include analytics.html %}
-  {% endif %}
-  <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    {% endif %}
+    <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
