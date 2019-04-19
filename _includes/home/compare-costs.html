@@ -7,7 +7,27 @@
                     {{ site.data.compare_costs.heading }}
                 </h2>
                 <p class="c-paragraph u-mb">{{ site.data.compare_costs.description }}</p>
-                <range-slider description="{{ site.data.compare_costs.distance_label }}" :subscription-costs={{ site.data.compare_costs.subscription_costs }}></range-slider>
+                <range-slider
+                    description="{{ site.data.compare_costs.distance_label }}"
+                    :subscription-costs="{{ site.data.compare_costs.subscription_costs }}"
+                    :stroomkosten="{{ site.data.compare_costs.stroomkosten }}"
+                    :distance-prop="{{ site.data.compare_costs.distance }}"
+                    :maximum-prop="{{ site.data.compare_costs.maximum }}"
+                    :afschrijvingskosten-prop="{{ site.data.compare_costs.afschrijvingskosten }}"
+                    :verzekering-prop="{{ site.data.compare_costs.verzekering }}"
+                    :belasting-prop="{{ site.data.compare_costs.belasting }}"
+                    :onderhoud-prop="{{ site.data.compare_costs.onderhoud }}"
+                    :benzineprijs="{{ site.data.compare_costs.benzineprijs }}"
+                    car-one="{{ site.data.compare_costs.car1 }}"
+                    car-two="{{ site.data.compare_costs.car2 }}"
+                    afschrijvingskosten-label="{{ site.data.compare_costs.afschrijvingskosten_label }}"
+                    verzekering-label="{{ site.data.compare_costs.verzekering_label }}"
+                    belasting-label="{{ site.data.compare_costs.belasting_label }}"
+                    onderhoud-label="{{ site.data.compare_costs.onderhoud_label }}"
+                    benzine-label="{{ site.data.compare_costs.benzine_label }}"
+                    subscription-label="{{ site.data.compare_costs.subscription_label }}"
+                    deelauto-label="{{ site.data.compare_costs.deelauto_label }}"
+                ></range-slider>
             </div>
         </div>
     </div>

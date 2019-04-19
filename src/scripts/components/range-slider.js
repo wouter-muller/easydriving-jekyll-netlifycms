@@ -10,7 +10,7 @@ Vue.component('range-slider', {
                         v-model.number="distance"
                         min="0"
                         :max="maximum"
-                        @change="calculateCosts"
+                        @input="calculateCosts"
                     >
                 </div>
                 <div class="s-compare-costs__legend">{{ this.maximum }}</div>
@@ -22,43 +22,43 @@ Vue.component('range-slider', {
                 <thead>
                     <tr>
                         <td></td>
-                        <td>VW Golf<br><span>(in eigen bezit)</span></td>
-                        <td>Nissan Leaf<br><span>(via EasyDriving)</span></td>
+                        <td>{{ this.carOne }}<br><span>(in eigen bezit)</span></td>
+                        <td>{{ this.carTwo }}<br><span>(via EasyDriving)</span></td>
                     </tr>
                 </thead>
                 <tbody>
                     <tr>
-                        <td>Afschrijvingskosten</td>
+                        <td>{{ this.afschrijvingskostenLabel }}</td>
                         <td>€ {{ this.afschrijvingskosten }}</td>
                         <td>€ 0</td>
                     </tr>
                     <tr>
-                        <td>Verzekering</td>
+                        <td>{{ this.verzekeringLabel }}</td>
                         <td>€ {{ this.verzekering }}</td>
                         <td>€ 0</td>
                     </tr>
                     <tr>
-                        <td>Motorrijtuigenbelasting</td>
+                        <td>{{ this.belastingLabel }}</td>
                         <td>€ {{ this.belasting }}</td>
                         <td>€ 0</td>
                     </tr>
                     <tr>
-                        <td>Onderhoud/reparaties</td>
+                        <td>{{ this.onderhoudLabel }}</td>
                         <td>€ {{ this.onderhoud }}</td>
                         <td>€ 0</td>
                     </tr>
                     <tr>
-                        <td>Benzine</td>
+                        <td>{{ this.benzineLabel }}</td>
                         <td>€ {{ this.benzine }}</td>
                         <td>€ 0</td>
                     </tr>
                     <tr>
-                        <td>Lidmaatschap EasyDriving</td>
+                        <td>{{ this.subscriptionLabel }}</td>
                         <td>-</td>
-                        <td>€ 5</td>
+                        <td>€ {{ this.subscriptionCosts }}</td>
                     </tr>
                     <tr>
-                        <td>Huurkosten deelauto</td>
+                        <td>{{ this.deelautoLabel }}</td>
                         <td>-</td>
                         <td>€ {{ this.huurkosten }}</td>
                     </tr>
@@ -77,12 +77,12 @@ Vue.component('range-slider', {
 
     data() {
         return {
-            distance: 5000,
-            maximum: 20000,
-            afschrijvingskosten: 3537,
-            verzekering: 540,
-            belasting: 600,
-            onderhoud: 350,
+            distance: 0,
+            maximum: 0,
+            afschrijvingskosten: 0,
+            verzekering: 0,
+            belasting: 0,
+            onderhoud: 0,
             benzine: 0,
             huurkosten: 0,
             totalOwn: 0,
@@ -95,21 +95,82 @@ Vue.component('range-slider', {
         },
         subscriptionCosts: {
             type: Number
+        },
+        distanceProp: {
+            type: Number
+        },
+        maximumProp: {
+            type: Number
+        },
+        afschrijvingskostenProp: {
+            type: Number
+        },
+        verzekeringProp: {
+            type: Number
+        },
+        belastingProp: {
+            type: Number
+        },
+        onderhoudProp: {
+            type: Number
+        },
+        benzineprijs: {
+            type: Number
+        },
+        stroomkosten: {
+            type: Number
+        },
+        carOne: {
+            type: String
+        },
+        carTwo: {
+            type: String
+        },
+        afschrijvingskostenLabel: {
+            type: String
+        },
+        verzekeringLabel: {
+            type: String
+        },
+        belastingLabel: {
+            type: String
+        },
+        onderhoudLabel: {
+            type: String
+        },
+        benzineLabel: {
+            type: String
+        },
+        subscriptionLabel: {
+            type: String
+        },
+        deelautoLabel: {
+            type: String
         }
     },
 
     methods: {
         calculateCosts: function() {
-            console.log('trigger');
-            this.benzine = parseInt(this.distance / 16.5 * 1.7);
-            this.huurkosten = parseInt(this.distance / 120 * 27.5);
+            this.benzine = parseInt(this.distance / 16.5 * this.benzineprijs);
+            this.huurkosten = parseInt(this.distance / 120 * 27.5 + (this.distance * this.stroomkosten));
 
-            this.totalOwn = parseInt(this.afschrijvingskosten) + parseInt(this.benzine) + parseInt(this.belasting) + parseInt(this.verzekering) + parseInt(this.onderhoud);
-            this.totalShare = parseInt(this.subscriptionCosts) + parseInt(this.huurkosten);
+            this.totalOwn = parseInt(this.afschrijvingskosten)
+                            + parseInt(this.benzine)
+                            + parseInt(this.belasting)
+                            + parseInt(this.verzekering)
+                            + parseInt(this.onderhoud);
+            this.totalShare = parseInt(this.subscriptionCosts)
+                              + parseInt(this.huurkosten);
         }
     },
 
     created() {
-        this.calculateCosts()
+        this.distance = this.distanceProp;
+        this.maximum = this.maximumProp;
+        this.afschrijvingskosten = this.afschrijvingskostenProp;
+        this.verzekering = this.verzekeringProp;
+        this.belasting = this.belastingProp;
+        this.onderhoud = this.onderhoudProp;
+        this.calculateCosts();
     }
 })

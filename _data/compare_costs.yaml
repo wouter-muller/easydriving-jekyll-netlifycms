@@ -1,4 +1,21 @@
 heading: Kostenvergelijker
 description: Vergelijk hier de jaarlijkse kosten tussen een eigen auto en een deelauto van EasyDriving!
 distance_label: Aantal gereden km's per jaar
-subscription_costs: 5
+car1: VW Golf
+car2: Nissan Leaf
+afschrijvingskosten_label: Afschrijvingskosten
+verzekering_label: Verzekering
+belasting_label: Motorrijtuigenbelasting
+onderhoud_label: Onderhoud/reparaties
+benzine_label: Benzine
+subscription_label: Lidmaatschap EasyDriving
+deelauto_label: Kosten deelauto
+distance: 5000
+maximum: 20000
+afschrijvingskosten: 3537
+verzekering: 540
+belasting: 600
+onderhoud: 350
+benzineprijs: 1.7
+subscription_costs: 60
+stroomkosten: 0.05
