@@ -9,9 +9,15 @@
                     {{ site.data.footer.company_description | markdownify }}
                 </div>
                 <div class="s-footer__social-media-links">
-                    <img src="{{ site.image_path }}/icons/social-media/facebook.svg">
-                    <img src="{{ site.image_path }}/icons/social-media/instagram.svg">
-                    <img src="{{ site.image_path }}/icons/social-media/linkedin.svg">
+                    <a href="{{ site.data.settings.facebook_url }}" target="_blank">
+                        <img src="{{ site.image_path }}/icons/social-media/facebook.svg">
+                    </a>
+                    <a href="{{ site.data.settings.twitter_url }}" target="_blank">
+                        <img src="{{ site.image_path }}/icons/social-media/twitter.svg">
+                    </a>
+                    <a href="{{ site.data.settings.linkedin_url }}" target="_blank">
+                        <img src="{{ site.image_path }}/icons/social-media/linkedin.svg">
+                    </a>
                 </div>
             </div>
             <div>
