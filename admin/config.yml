@@ -82,6 +82,9 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "USP 2 icon", name: "usps_2_image", widget: "image"}
           - {label: "USP 2 titel", name: "usps_2_heading", widget: "string"}
           - {label: "USP 2 text", name: "usps_2_text", widget: "markdown"}
+          - {label: "USP 3 icon", name: "usps_3_image", widget: "image"}
+          - {label: "USP 3 titel", name: "usps_3_heading", widget: "string"}
+          - {label: "USP 3 text", name: "usps_3_text", widget: "markdown"}
           - {label: "USP button text", name: "usps_button_text", widget: "string"}
       - name: "how_it_works"
         label: "Hoe werkt het?"
