@@ -15,7 +15,13 @@ Vue.component('availability-widget', {
                     <div v-if="result === 'negative'">
                         <p class="c-paragraph u-mb">{{ this.negativeResultText }}</p>
 
-                        <form action="/" name="availability-check-signup" id="availability-check-signup" netlify>
+                        <form
+                            action="/"
+                            name="availability-check-signup"
+                            id="availability-check-signup"
+                            data-netlify="true"
+                            method="post"
+                        >
                             <label class="c-label u-mb-">{{ this.emailAddress }}</label>
                             <input type="email" class="s-availability__email-input c-input" required>
                             <label class="c-label u-mb-">{{ this.formQuestion }}</label>
