@@ -24,9 +24,9 @@ Vue.component('availability-widget', {
                         >
                             <input type="hidden" name="form-name" value="availability-check-signup" />
                             <label class="c-label u-mb-">{{ this.emailAddress }}</label>
-                            <input type="email" class="s-availability__email-input c-input" required>
+                            <input type="email" name="email-address" class="s-availability__email-input c-input" required>
                             <label class="c-label u-mb-">{{ this.formQuestion }}</label>
-                            <input type="text" class="s-availability__postal-code-input c-input" v-model="postalCode" maxlength="7">
+                            <input type="text" name="postal-code" class="s-availability__postal-code-input c-input" v-model="postalCode" maxlength="7">
                             <button type="submit" class="c-button --cta">{{ this.negativeFormButtonText }}</button>
                         </form>
 
