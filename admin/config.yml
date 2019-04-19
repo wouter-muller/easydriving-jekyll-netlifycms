@@ -29,8 +29,8 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Link naar de Apple Store app", name: "app_store_url", widget: "string"}
           - {label: "Link naar de Google Play Store app", name: "google_play_store_url:", widget: "string"}
           - {label: "Facebook profile link", name: "facebook_url:", widget: "string"}
-          - {label: "Instagram profile link", name: "facebook_url:", widget: "string"}
-          - {label: "Facebook profile link", name: "facebook_url:", widget: "string"}
+          - {label: "Twitter profile link", name: "twitter_url:", widget: "string"}
+          - {label: "LinkedIn profile link", name: "linkedin_url:", widget: "string"}
   # HOMEPAGE
   - name: "homepage"
     label: "Homepage"
