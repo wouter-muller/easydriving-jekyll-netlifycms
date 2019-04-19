@@ -1,6 +1,9 @@
 .s-hero
     position: relative
 
+    +mobile
+        height: 400px
+
     +tablet-desktop
         height: 636px
 
@@ -17,16 +20,33 @@
 
     &__inner
         position: relative
-        padding-top: 140px
+
+        +mobile
+            padding-top: 50px
+
+        +tablet-desktop
+            padding-top: 140px
 
     &__heading
-        font-size: 70px
         color: $inverted-text-color
         text-shadow: 0 0 30px rgba(black, 0.17)
 
+        +mobile
+            font-size: 32px
+            margin-bottom: 10px
+
+        +tablet-desktop
+            font-size: 70px
+
     &__sub-heading
-        font-size: 27px
         color: $inverted-text-color
         font-weight: $medium
         text-shadow: 0 0 16px rgba(black, 0.2)
         margin-bottom: 40px
+
+        +mobile
+            font-size: 20px
+            padding-right: 80px
+
+        +tablet-desktop
+            font-size: 27px

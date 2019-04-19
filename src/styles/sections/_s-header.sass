@@ -18,7 +18,11 @@
         margin-top: 9px // actual vertical alignment
 
         img
-            width: 250px
+            +mobile
+                width: 200px
+
+            +tablet-desktop
+                width: 250px
 
     &__nav
         +mobile-tablet
