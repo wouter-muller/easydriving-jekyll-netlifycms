@@ -150,3 +150,7 @@ collections: # A list of collections the CMS should be able to edit
           - { label: "Contact heading", name: "contact_heading", widget: "string" }
           - { label: "Adres", name: "company_address", widget: "markdown" }
           - { label: "Copyright notice", name: "copyright_notice", widget: "string" }
+          - { label: "Newsletter heading", name: "newsletter_heading", widget: "string" }
+          - { label: "Newsletter beschrijving", name: "newsletter_description", widget: "string" }
+          - { label: "Newsletter text in inputveld (placeholder)", name: "newsletter_input_placeholder", widget: "string" }
+          - { label: "Newsletter text op submit knop", name: "newsletter_submit_text", widget: "string" }
