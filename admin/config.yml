@@ -34,6 +34,7 @@ collections: # A list of collections the CMS should be able to edit
   # HOMEPAGE
   - name: "homepage"
     label: "Homepage"
+    delete: "false"
     files:
       - name: "homepage"
         label: "Homepage"
