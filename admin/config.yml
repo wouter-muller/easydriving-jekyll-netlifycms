@@ -153,6 +153,7 @@ collections: # A list of collections the CMS should be able to edit
       - { label: "Titel", name: "title", widget: "string" }
       - { label: "Datum", name: "friendly_date", widget: "string" }
       - { label: "URL", name: "permalink", widget: "string" }
+      - { label: "Inhoud", name: "body", widget: "markdown" }
   # FOOTER
   - name: "footer"
     label: "Footer"
