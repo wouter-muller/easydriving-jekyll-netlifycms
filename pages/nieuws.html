@@ -12,7 +12,7 @@ permalink: /nieuws
 
         {% for post in site.posts %}
         <a href="{{ post.permalink }}" class="s-news-overview__post u-mb">
-            <p class="s-news-overview__category">Persbericht</p>
+            <p class="s-news-overview__category">{{ post.category }}</p>
             <p class="s-news-overview__date">{{ post.friendly_date }}</p>
             <h3 class="c-heading --medium u-mb">{{ post.title }}</h3>
             <p class="c-paragraph">{{ post.excerpt  | strip_html }} - <span class="s-news-overview__fake-link">Lees verder</span></p>

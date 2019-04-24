@@ -3,6 +3,7 @@ layout: post
 title: First news post!
 friendly_date: 21 april 2019
 permalink: /nieuws/first-news-post
+category: Persbericht
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur laborum ratione.
 

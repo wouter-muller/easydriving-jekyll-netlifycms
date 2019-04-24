@@ -3,6 +3,7 @@ layout: post
 title: Second news post!
 friendly_date: 22 april 2019
 permalink: /nieuws/second-news-post
+category: Persbericht
 ---
 Neque ratione, iure at delectus amet ullam quasi labore aliquid reprehenderit.
 
