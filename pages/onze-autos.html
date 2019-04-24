@@ -1,0 +1,52 @@
+---
+layout: default
+title: Onze auto's
+title_tag: Samen slim rijden - Elektrische auto's voor jou en je buurt - EasyDriving
+permalink: /onze-autos
+---
+
+<div class="s-our-cars-page">
+    <div class="l-wrapper">
+        <h2 class="c-heading --large --green u-align-center u-mb+">Onze auto's</h2>
+        <h3 class="c-heading --medium u-align-center u-mb">Een passende auto voor elke rit</h3>
+        <p class="c-paragraph u-align-center u-mb">
+            Er zijn verschillende types volledig elektrische auto's beschikbaar voor het deelauto project. De auto's kunnen per uur, per dagdeel of per dag worden gereserveerd. Voor iedere rit kan de meest geschikte auto worden gereserveerd; voor een afspraak of familiebezoekje in de buurt kies je voor bijv. de Nissan Leaf en voor de langere afstanden kan de Hyundai Kona worden ingezet, en als je echt luxe wilt reserveer je één van de Tesla's.
+        </p>
+
+        <div class="u-align-center u-mb+">
+            <a href="#" class="c-button --cta">{{ site.data.hero.button_text }}</a>
+        </div>
+
+        <div class="u-mb++">
+            {% for car in site.data.cars %}
+                <div class="s-our-cars-page__grid">
+                    <div class="s-our-cars-page__image">
+                        <img src="{{ car.image }}">
+                    </div>
+                    <div class="s-our-cars-page__text">
+                        <h3 class="c-heading --medium --brand-color u-mb-">{{ car.title }}</h3>
+                        <p class="c-paragraph --small u-mb">
+                            Actieradius: {{ car.actieradius }} km<br>
+                            Zitplaatsen: {{ car.seats }}<br>
+                            {% if car.price_per_km != 0 %}
+                                Stroomkosten: {{ car.price_per_km }} per km
+                            {% endif %}
+                        </p>
+                        <p class="s-our-cars-page__price-per-hour u-mb-">{{ car.price_per_hour }} p/uur</p>
+                        <p class="s-our-cars-page__price-per-day">of {{ car.price_per_day }} p/dag</p>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+
+        <div class="u-align-center u-mb">
+            <a href="#" class="c-button --cta">{{ site.data.hero.button_text }}</a>
+        </div>
+    </div>
+</div>
+
+{% include home/usps.html %}
+
+{% include home/app-banner.html %}
+
+{% include home/availability.html %}
