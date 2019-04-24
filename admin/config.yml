@@ -86,6 +86,11 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "USP 3 titel", name: "usps_3_heading", widget: "string"}
           - {label: "USP 3 text", name: "usps_3_text", widget: "markdown"}
           - {label: "USP button text", name: "usps_button_text", widget: "string"}
+      - name: "app_banner"
+        label: "App banner"
+        file: "_data/app_banner.yaml"
+        fields:
+          - { label: "Tekst", name: "text", widget: "string" }
       - name: "how_it_works"
         label: "Hoe werkt het?"
         file: "_data/how_it_works.yaml"
@@ -136,6 +141,18 @@ collections: # A list of collections the CMS should be able to edit
           - { label: "E-mail adres", name: "email_address", widget: "string" }
           - { label: "Geen beschikbaarheid button text", name: "negative_form_button_text", widget: "string" }
           - { label: "Wel beschikbaarheid text", name: "positive_result_text", widget: "markdown" }
+  # NEWS
+  - name: "news"
+    label: "Nieuws"
+    folder: "_posts"
+    sort: "date:desc"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
+      - { label: "Titel", name: "title", widget: "string" }
+      - { label: "Datum", name: "friendly_date", widget: "string" }
+      - { label: "URL", name: "permalink", widget: "string" }
   # FOOTER
   - name: "footer"
     label: "Footer"

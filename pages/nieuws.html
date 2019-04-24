@@ -1,0 +1,28 @@
+---
+layout: default
+title: news
+title_tag: Samen slim rijden - Elektrische auto's voor jou en je buurt - EasyDriving
+permalink: /nieuws
+---
+
+<div class="s-news-overview">
+    <div class="l-wrapper">
+
+        <h2 class="c-heading --large --green u-mb+">{{ site.data.news.heading }}</h2>
+
+        {% for post in site.posts %}
+        <a href="{{ post.permalink }}" class="s-news-overview__post u-mb">
+            <p class="s-news-overview__category">Persbericht</p>
+            <p class="s-news-overview__date">{{ post.friendly_date }}</p>
+            <h3 class="c-heading --medium u-mb">{{ post.title }}</h3>
+            <p class="c-paragraph">{{ post.excerpt  | strip_html }}</p>
+        </a>
+        {% endfor %}
+    </div>
+</div>
+
+{% include home/usps.html %}
+
+{% include home/app-banner.html %}
+
+{% include home/availability.html %}
