@@ -10,15 +10,17 @@
             </header>
 
             <main class="c-content">
-                <div class="s-news-overview">
+                <div class="s-news">
                     <div class="l-wrapper">
-                        <div class="s-news-overview__post">
-                            <p class="s-news-overview__category">{{ page.category }}</p>
-                            <p class="s-news-overview__date">{{ page.friendly_date }}</p>
+                        <a href="/nieuws" class="s-news__back-link u-mb+">Terug naar het overzicht</a>
+                        <div class="s-news__post">
+                            <p class="s-news__category">{{ page.category }}</p>
+                            <p class="s-news__date">{{ page.friendly_date }}</p>
                             <h2 class="c-heading --large --green u-mb+">{{ page.title }}</h2>
 
                             {{ content | replace: "<p>", "<p class='c-paragraph u-mb'>" }}
                         </div>
+                        <a href="/nieuws" class="s-news__back-link">Terug naar het overzicht</a>
                     </div>
                 </div>
             </main>

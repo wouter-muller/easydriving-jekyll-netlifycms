@@ -1,4 +1,4 @@
-.s-news-overview
+.s-news
     padding: 50px 0
     max-width: 750px
     margin: 0 auto
@@ -10,6 +10,7 @@
         box-shadow: 0 5px 10px rgba(black, 0.05)
         display: block
         text-align: left
+        margin-bottom: 40px
 
     &__category
         text-transform: uppercase
@@ -26,3 +27,14 @@
 
         &:hover
             text-decoration: underline
+
+    &__back-link
+        display: block
+        color: $brand-color
+        font-size: 16px
+        +background-image("icons/chevron-left.svg")
+        background-position: left center
+        padding-left: 20px
+        text-align: left
+        text-transform: uppercase
+        background-size: 8px
