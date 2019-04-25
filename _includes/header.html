@@ -1,3 +1,5 @@
+{% assign navurl = page.url | remove: 'index.html' %}
+
 <div class="s-header">
     <div class="l-wrapper">
         <div class="s-header__inner">
@@ -9,11 +11,11 @@
             <div class="s-header__nav">
                 {% for item in site.data.navigation %}
                     {% if item.include_in_header %}
-                        <a class="s-header__nav-link" href="{{ item.url }}">{{ item.text }}</a>
+                        <a class="s-header__nav-link {% if item.url == navurl %}--current{% endif %}" href="{{ item.url }}">{{ item.text }}</a>
                     {% endif %}
                 {% endfor %}
 
-                <a class="c-button --border" href="/">Aanmelden</a>
+                <a class="c-button --border" href="/aanmelden">Aanmelden</a>
             </div>
         </div>
     </div>

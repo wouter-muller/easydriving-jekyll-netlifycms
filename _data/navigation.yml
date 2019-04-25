@@ -4,7 +4,7 @@
   url: /
   include_in_header: false
 - text: Hoe werkt het?
-  url: /how-it-works
+  url: /hoe-werkt-het
   include_in_header: true
 - text: Onze auto's
   url: /onze-autos

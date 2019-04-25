@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html class="{{ page.title }}" lang="nl">
+<html class="{{ page.url | replace: "/", "" }}" lang="nl">
 
     {% include head.html %}
 
@@ -17,7 +17,7 @@
                             <p class="s-news-overview__date">{{ page.friendly_date }}</p>
                             <h2 class="c-heading --large --green u-mb+">{{ page.title }}</h2>
 
-                            {{ content  | replace: "<p>", "<p class='c-paragraph u-mb'>" }}
+                            {{ content | replace: "<p>", "<p class='c-paragraph u-mb'>" }}
                         </div>
                     </div>
                 </div>
