@@ -1,3 +1,5 @@
 var app = new Vue({
     el: '#vue',
-    data: {},})
+    data: {
+        signUpModalVisible: false
+    },})

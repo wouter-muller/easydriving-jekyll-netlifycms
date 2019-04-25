@@ -1,0 +1,57 @@
+<div
+    class="s-sign-up__overlay"
+    v-show="signUpModalVisible"
+    style="display: none"
+    @click="signUpModalVisible = false"
+></div>
+
+<div class="s-sign-up" v-show="signUpModalVisible" style="display: none">
+    <button class="s-sign-up__close" @click="signUpModalVisible = false">
+        <img src="{{ site.image_path }}/icons/close.svg">
+    </button>
+    <h1 class="c-heading --large --green u-align-center u-mb">Aanmelden</h1>
+
+    <form
+        action="/"
+        name="signup"
+        id="signup"
+        netlify
+        method="post"
+    >
+        <div class="s-sign-up__input-wrapper">
+            <input type="text" class="s-sign-up__input" name="naam" id="naam" required>
+            <label for="naam" class="s-sign-up__label">Naam</label>
+        </div>
+        <div class="s-sign-up__input-wrapper">
+            <input type="text" class="s-sign-up__input" name="adres" id="adres" required>
+            <label class="s-sign-up__label" for="adres">Straat/huisnr.</label>
+        </div>
+
+        <div class="l-flex">
+            <div class="s-sign-up__input-wrapper">
+                <input type="text" class="s-sign-up__input" name="postcode" id="postcode" required>
+                <label class="s-sign-up__label" for="postcode">Postcode</label>
+            </div>
+            <div class="s-sign-up__input-wrapper">
+                <input type="text" class="s-sign-up__input" name="plaats" id="plaats" required>
+                <label class="s-sign-up__label" for="plaats">Plaats</label>
+            </div>
+        </div>
+
+        <div class="s-sign-up__input-wrapper">
+            <input type="text" class="s-sign-up__input" name="telefoonnummer" id="telefoonnummer" required>
+            <label for="telefoonnummer" class="s-sign-up__label">Telefoonnummer</label>
+        </div>
+        <div class="s-sign-up__input-wrapper">
+            <input type="text" class="s-sign-up__input" name="geboortedatum" id="geboortedatum" required>
+            <label class="s-sign-up__label" for="geboortedatum">Geboortedatum (dd-mm-jjjj)</label>
+        </div>
+        <div class="s-sign-up__input-wrapper u-mb+">
+            <input type="text" class="s-sign-up__input" name="rijbewijsnummer" id="rijbewijsnummer" required>
+            <label class="s-sign-up__label" for="rijbewijsnummer">Rijbewijs nummer</label>
+        </div>
+
+        <button type="submit" class="c-button --full-width --cta">Aanmelden</button>
+    </form>
+
+</div>

@@ -32,7 +32,7 @@ Vue.component('availability-widget', {
                     </div>
                     <div v-if="result === 'positive'">
                         <p class="c-paragraph u-mb">{{ this.positiveResultText }}</p>
-                        <a href="#" class="c-button --cta">{{ this.positiveResultButtonText }}</a>
+                        <button class="c-button --cta" @click="$root.signUpModalVisible = true">{{ this.positiveResultButtonText }}</button>
                     </div>
                 </div>
             </div>

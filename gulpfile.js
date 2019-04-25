@@ -78,7 +78,7 @@ gulp.task('js', function() {
 gulp.task('js-third-party', function() {
   return gulp
     .src([
-      './node_modules/vue/dist/vue.min.js'
+      './node_modules/vue/dist/vue.js'
       ])
     .pipe(concat('third-party.js'))
     .pipe(gulp.dest(config.outputDir + '/js'));
