@@ -146,7 +146,7 @@ collections: # A list of collections the CMS should be able to edit
   - name: "news"
     label: "Nieuws"
     folder: "_posts"
-    sort: "date:desc"
+    sort: "date:asc"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
