@@ -41,7 +41,7 @@ collections: # A list of collections the CMS should be able to edit
             widget: list
             fields:
               - { label: "Merk + model", name: "title", widget: "string" }
-              - { label: "Foto", name: "image", widget: "string" }
+              - { label: "Foto", name: "image", widget: "image" }
               - { label: "Actieradius", name: "actieradius", widget: "string" }
               - { label: "Aantal zitplaatsen", name: "seats", widget: "string" }
               - { label: "Prijs per uur", name: "price_per_hour", widget: "string" }
