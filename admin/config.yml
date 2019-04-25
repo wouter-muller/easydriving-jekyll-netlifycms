@@ -31,6 +31,19 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Facebook profile link", name: "facebook_url:", widget: "string"}
           - {label: "Twitter profile link", name: "twitter_url:", widget: "string"}
           - {label: "LinkedIn profile link", name: "linkedin_url:", widget: "string"}
+      - name: "cars"
+        label: "Auto's"
+        file: "/_data/cars.yaml"
+        create: true
+        fields:
+          - { label: "Merk + model", name: "title", widget: "string" }
+          - { label: "Foto", name: "image", widget: "string" }
+          - { label: "Actieradius", name: "actieradius", widget: "string" }
+          - { label: "Aantal zitplaatsen", name: "seats", widget: "string" }
+          - { label: "Prijs per uur", name: "price_per_hour", widget: "string" }
+          - { label: "Prijs per dag", name: "price_per_day", widget: "string" }
+          - { label: "Prijs per km", name: "price_per_km", widget: "string" }
+
   # HOMEPAGE
   - name: "homepage"
     label: "Homepage"
