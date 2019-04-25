@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html class="{{ page.url | replace: "/", "" }}" lang="nl">
+<html lang="nl">
 
     {% include head.html %}
 
@@ -11,7 +11,7 @@
                 {% include header.html %}
             </header>
 
-            <main class="c-content">
+            <main {% if page.title != 'home' %}class="c-content"{% endif %}>
                 {{ content }}
             </main>
 

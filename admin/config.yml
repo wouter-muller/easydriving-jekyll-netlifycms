@@ -57,21 +57,6 @@ collections: # A list of collections the CMS should be able to edit
         file: "/_data/our_cars.yaml"
         fields:
           - {label: "Heading", name: "heading", widget: "string"}
-          - {label: "Auto 1 - Foto", name: "car1_image", widget: "image"}
-          - {label: "Auto 1 - Titel", name: "car1_title", widget: "string"}
-          - {label: "Auto 1 - Beschrijving", name: "car1_description", widget: "string"}
-          - {label: "Auto 2 - Foto", name: "car2_image", widget: "image"}
-          - {label: "Auto 2 - Titel", name: "car2_title", widget: "string"}
-          - {label: "Auto 2 - Beschrijving", name: "car2_description", widget: "string"}
-          - {label: "Auto 3 - Foto", name: "car3_image", widget: "image"}
-          - {label: "Auto 3 - Titel", name: "car3_title", widget: "string"}
-          - {label: "Auto 3 - Beschrijving", name: "car3_description", widget: "string"}
-          - {label: "Auto 4 - Foto", name: "car4_image", widget: "image"}
-          - {label: "Auto 4 - Titel", name: "car4_title", widget: "string"}
-          - {label: "Auto 4 - Beschrijving", name: "car4_description", widget: "string"}
-          - {label: "Auto 5 - Foto", name: "car5_image", widget: "image"}
-          - {label: "Auto 5 - Titel", name: "car5_title", widget: "string"}
-          - {label: "Auto 5 - Beschrijving", name: "car5_description", widget: "string"}
           - {label: "Button text", name: "button_text", widget: "string"}
       - name: "usps"
         label: "USP's"

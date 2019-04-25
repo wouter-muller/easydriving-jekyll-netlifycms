@@ -1,17 +1,2 @@
 heading: Onze auto's
-car1_image: /uploads/nissan-leaf.png
-car1_title: Nissan Leaf
-car1_description: '€ 2,75 per uur of € 27,50 per dag'
-car2_image: /uploads/hyundai-kona.png
-car2_title: Hyundai Kona
-car2_description: '€ 4,75 per uur of € 47,50 per dag'
-car3_image: /uploads/tesla-model-3.png
-car3_title: Tesla Model 3
-car3_description: '€ 8,50 per uur of € 85,00 per dag'
-car4_image: /uploads/tesla-model-s.png
-car4_title: Tesla Model S
-car4_description: '€ 15,00 per uur of € 150,00 per dag'
-car5_image: /uploads/tesla-model-x.png
-car5_title: Tesla Model X
-car5_description: '€ 17,50 per uur of € 175,00 per dag'
 button_text: Meer informatie

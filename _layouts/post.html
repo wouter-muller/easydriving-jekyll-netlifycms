@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<html class="{{ page.url | replace: "/", "" }}" lang="nl">
+<html lang="nl">
 
     {% include head.html %}
 
     <body>
         <div id="vue">
-            <div class="s-sign-up__overlay" v-show="signUpModalVisible"></div>
+            {% include sign-up-modal.html %}
 
             <header>
                 {% include header.html %}

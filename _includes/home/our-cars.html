@@ -2,45 +2,18 @@
     <div class="l-wrapper">
         <h2 class="c-heading --large --green u-align-center u-mb+">{{ site.data.our_cars.heading }}</h2>
         <div class="s-our-cars__grid u-mb">
-             <div class="s-our-cars__car-wrapper">
-                <div class="s-our-cars__car-image">
-                    <img src="{{ site.data.our_cars.car1_image }}">
-                </div>
-                <h3 class="c-heading --medium --brand-color u-align-center u-mb-">{{ site.data.our_cars.car1_title }}</h3>
-                <p class="c-paragraph u-align-center">{{ site.data.our_cars.car1_description }}</p>
-            </div>
 
-             <div class="s-our-cars__car-wrapper">
-                <div class="s-our-cars__car-image">
-                    <img src="{{ site.data.our_cars.car2_image }}">
+            {% for car in site.data.cars %}
+                 <div class="s-our-cars__car-wrapper">
+                    <div class="s-our-cars__car-image">
+                        <img src="{{ car.image }}">
+                    </div>
+                    <h3 class="c-heading --medium --brand-color u-align-center u-mb-">{{ car.title }}</h3>
+                    <p class="c-paragraph u-align-center">{{ car.price_per_hour }} per uur<br>
+                    of {{ car.price_per_day }} per dag</p>
                 </div>
-                <h3 class="c-heading --medium --brand-color u-align-center u-mb-">{{ site.data.our_cars.car2_title }}</h3>
-                <p class="c-paragraph u-align-center">{{ site.data.our_cars.car2_description }}</p>
-            </div>
+            {% endfor %}
 
-             <div class="s-our-cars__car-wrapper">
-                <div class="s-our-cars__car-image">
-                    <img src="{{ site.data.our_cars.car3_image }}">
-                </div>
-                <h3 class="c-heading --medium --brand-color u-align-center u-mb-">{{ site.data.our_cars.car3_title }}</h3>
-                <p class="c-paragraph u-align-center">{{ site.data.our_cars.car3_description }}</p>
-            </div>
-
-             <div class="s-our-cars__car-wrapper">
-                <div class="s-our-cars__car-image">
-                    <img src="{{ site.data.our_cars.car4_image }}">
-                </div>
-                <h3 class="c-heading --medium --brand-color u-align-center u-mb-">{{ site.data.our_cars.car4_title }}</h3>
-                <p class="c-paragraph u-align-center">{{ site.data.our_cars.car4_description }}</p>
-            </div>
-
-             <div class="s-our-cars__car-wrapper">
-                <div class="s-our-cars__car-image">
-                    <img src="{{ site.data.our_cars.car5_image }}">
-                </div>
-                <h3 class="c-heading --medium --brand-color u-align-center u-mb-">{{ site.data.our_cars.car5_title }}</h3>
-                <p class="c-paragraph u-align-center">{{ site.data.our_cars.car5_description }}</p>
-            </div>
         </div>
         <div class="u-align-center">
             <a href="/onze-autos" class="c-button --border u-align-center">{{ site.data.our_cars.button_text }}</a>
