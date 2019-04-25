@@ -13,7 +13,7 @@
 // https://www.smashingmagazine.com/2014/06/sassy-z-index-management-for-complex-layouts/
 //----------------------------------------------------------
 
-$z-index-elements: (header)
+$z-index-elements: (header overlay modal)
 
 @mixin z-index($element)
   z-index: 1000 + index($z-index-elements, $element) * 10

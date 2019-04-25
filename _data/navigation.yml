@@ -6,6 +6,9 @@
 - text: Hoe werkt het?
   url: /hoe-werkt-het
   include_in_header: true
+- text: Prijzen
+  url: /prijzen
+  include_in_header: true
 - text: Onze auto's
   url: /onze-autos
   include_in_header: true
