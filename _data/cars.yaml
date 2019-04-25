@@ -1,5 +1,4 @@
 # specify cars here
-car:
 - title: Nissan Leaf
   image: /uploads/nissan-leaf.png
   actieradius: 120

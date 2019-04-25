@@ -19,13 +19,13 @@ collections: # A list of collections the CMS should be able to edit
     description: "Algemene site instellingen"
     delete: "false"
     editor:
-      preview: false
+      preview: true
     files:
       - name: 'general'
         label: 'Instellingen'
         file: "/_data/settings.yaml"
         fields:
-          - {label: "Postcodes waarin EasyDriving beschikbaar is", name: "active_postal_codes", widget: "text"}
+          - {label: "Postcodes waarin EasyDriving beschikbaar is (spatie tussen de 4-cijferige postcodes)", name: "active_postal_codes", widget: "text"}
           - {label: "Link naar de Apple Store app", name: "app_store_url", widget: "string"}
           - {label: "Link naar de Google Play Store app", name: "google_play_store_url:", widget: "string"}
           - {label: "Facebook profile link", name: "facebook_url:", widget: "string"}
@@ -37,7 +37,6 @@ collections: # A list of collections the CMS should be able to edit
         create: true
         fields:
           - label: "Auto"
-            name: "car"
             widget: list
             fields:
               - { label: "Merk + model", name: "title", widget: "string" }
