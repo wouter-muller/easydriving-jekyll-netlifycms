@@ -20,7 +20,7 @@ cars:
   seats: 5
   price_per_hour: "€ 8,50"
   price_per_day: "€ 85,00"
-  price_per_km: "-"
+  price_per_km: € 0,05
 - title: Tesla Model S
   image: /uploads/tesla-model-s.png
   actieradius: 350
