@@ -1,0 +1,25 @@
+.s-rates
+    padding: 50px 0
+    max-width: 750px
+    margin: 0 auto
+
+    &__grid
+        display: grid
+        grid-template-columns: 1fr 120px 120px 120px
+        align-items: center
+
+        &.\--with-border
+            border-bottom: 1px solid rgba(black, 0.1)
+            padding-bottom: 20px
+            margin-bottom: 20px
+
+    &__label
+        font-weight: $bold
+        font-size: 20px
+        color: $main-text-color
+        justify-self: center
+
+    &__price
+        color: $brand-color
+        font-size: 24px
+        justify-self: center

@@ -3,4 +3,39 @@ layout: default
 title_tag: Prijzen - Elektrische auto's voor jou en je buurt - EasyDriving
 permalink: /prijzen
 ---
+<div class="s-rates">
+    <div class="l-wrapper">
+        <h1 class="c-heading --large --green u-align-center u-mb+">Prijzen</h1>
 
+        <div class="c-card">
+            <h2 class="c-heading --medium u-align-center u-mb+">Wat kost EasyDriving?</h2>
+            <div class="s-rates__grid --with-border">
+                <div></div>
+                <p class="s-rates__label">Per maand</p>
+                <div></div>
+                <div></div>
+
+                <p class="c-paragraph">Lidmaatschap</p>
+                <p class="s-rates__price">€5</p>
+                <div></div>
+                <div></div>
+            </div>
+            <div class="s-rates__grid --with-border">
+                <div></div>
+                <p class="s-rates__label">Per uur</p>
+                <p class="s-rates__label">Per dag</p>
+                <p class="s-rates__label">Per km</p>
+
+                {% for car in site.data.cars.cars %}
+                    <p class="c-paragraph u-mb--">{{ car.title }}</p>
+                    <p class="s-rates__price">{{ car.price_per_hour }}</p>
+                    <p class="s-rates__price">{{ car.price_per_day }}</p>
+                    <p class="s-rates__price">{{ car.price_per_km }}</p>
+                {% endfor %}
+            </div>
+
+            <p class="c-paragraph">- Rij je meer dan 200 km per dag, geldt er een extra vergoeding van € 0,20 per extra gereden km. </p>
+            <p class="c-paragraph">- De kosten voor tussentijds laden onderweg komen voor eigen rekening.</p>
+        </div>
+    </div>
+</div>

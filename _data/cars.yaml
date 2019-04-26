@@ -19,19 +19,19 @@ cars:
   actieradius: XXX
   seats: 5
   price_per_hour: "€ 8,50"
-  price_per_day: "€ 85"
-  price_per_km: 0
+  price_per_day: "€ 85,00"
+  price_per_km: "-"
 - title: Tesla Model S
   image: /uploads/tesla-model-s.png
   actieradius: 350
   seats: 5
-  price_per_hour: "€ 15"
-  price_per_day: "€ 150"
-  price_per_km: 0
+  price_per_hour: "€ 15,00"
+  price_per_day: "€ 150,00"
+  price_per_km: "-"
 - title: Tesla Model X
   image: /uploads/tesla-model-x.png
   actieradius: 410
   seats: 7
   price_per_hour: "€ 17,50"
-  price_per_day: "€ 175"
-  price_per_km: 0
+  price_per_day: "€ 175,00"
+  price_per_km: "-"
