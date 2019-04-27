@@ -20,15 +20,20 @@
     &__overlay
         background-color: rgba($main-bg-color, 0.8)
         position: relative
-        padding: 50px
         max-width: 663px
         margin: 0 auto
         text-align: center
 
+        +mobile
+            padding: 50px 10px
+
+        +tablet-desktop
+            padding: 50px
+
     &__range-slider
         &-wrapper
             display: grid
-            grid-template-columns: 20px 1fr 40px
+            grid-template-columns: 20px 1fr 60px
             grid-gap: 20px
             justify-content: center
             align-items: center

@@ -36,9 +36,14 @@
 
     &__slogan
         color: $inverted-text-color
-        font-size: 50px
         font-weight: $bold
         line-height: 1.2
         max-width: 800px
         margin: 0 auto
         text-shadow: 0 0 30px rgba(black, 1)
+
+        +mobile
+            font-size: 30px
+
+        +tablet-desktop
+            font-size: 50px

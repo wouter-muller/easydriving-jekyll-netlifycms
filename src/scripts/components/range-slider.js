@@ -21,43 +21,43 @@ Vue.component('range-slider', {
             <table class="c-table s-compare-costs__table">
                 <thead>
                     <tr>
-                        <td></td>
+                        <td class="u-hide@mobile"></td>
                         <td>{{ this.carOne }}<br><span>(in eigen bezit)</span></td>
                         <td>{{ this.carTwo }}<br><span>(via EasyDriving)</span></td>
                     </tr>
                 </thead>
                 <tbody>
-                    <tr>
+                    <tr class="u-hide@mobile">
                         <td>{{ this.afschrijvingskostenLabel }}</td>
                         <td>€ {{ this.afschrijvingskosten }}</td>
                         <td>€ 0</td>
                     </tr>
-                    <tr>
+                    <tr class="u-hide@mobile">
                         <td>{{ this.verzekeringLabel }}</td>
                         <td>€ {{ this.verzekering }}</td>
                         <td>€ 0</td>
                     </tr>
-                    <tr>
+                    <tr class="u-hide@mobile">
                         <td>{{ this.belastingLabel }}</td>
                         <td>€ {{ this.belasting }}</td>
                         <td>€ 0</td>
                     </tr>
-                    <tr>
+                    <tr class="u-hide@mobile">
                         <td>{{ this.onderhoudLabel }}</td>
                         <td>€ {{ this.onderhoud }}</td>
                         <td>€ 0</td>
                     </tr>
-                    <tr>
+                    <tr class="u-hide@mobile">
                         <td>{{ this.benzineLabel }}</td>
                         <td>€ {{ this.benzine }}</td>
                         <td>€ 0</td>
                     </tr>
-                    <tr>
+                    <tr class="u-hide@mobile">
                         <td>{{ this.subscriptionLabel }}</td>
                         <td>-</td>
                         <td>€ {{ this.subscriptionCosts }}</td>
                     </tr>
-                    <tr>
+                    <tr class="u-hide@mobile">
                         <td>{{ this.deelautoLabel }}</td>
                         <td>-</td>
                         <td>€ {{ this.huurkosten }}</td>
@@ -65,7 +65,7 @@ Vue.component('range-slider', {
                 </tbody>
                 <thead class="s-compare-costs__table-totals">
                     <tr>
-                        <td>TOTAAL</td>
+                        <td class="u-hide@mobile">TOTAAL</td>
                         <td>€ {{ this.totalOwn }}</td>
                         <td>€ {{ this.totalShare }}</td>
                     </tr>

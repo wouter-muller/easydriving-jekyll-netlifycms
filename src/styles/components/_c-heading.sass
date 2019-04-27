@@ -2,8 +2,12 @@
     font-weight: $bold
 
     &.\--large
-        font-size: 44px
-        line-height: 0.9
+        +mobile
+            font-size: 30px
+
+        +tablet-desktop
+            line-height: 0.9
+            font-size: 44px
 
         &.\--green
             color: $brand-color
@@ -12,9 +16,14 @@
             color: $main-text-color
 
     &.\--medium
-        font-size: 30px
-        line-height: 1
         color: $main-text-color
+
+        +mobile
+            font-size: 24px
+
+        +tablet-desktop
+            font-size: 30px
+            line-height: 1
 
     &.\--brand-color
         color: $brand-color
