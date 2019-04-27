@@ -11,11 +11,12 @@
         width: 100%
 
     &__inner
+        justify-content: space-between
+        display: flex
+        align-items: center
+
         +desktop
             height: 70px
-            display: flex
-            justify-content: space-between
-            align-items: center
 
     &__logo
         margin-top: 9px // actual vertical alignment
@@ -27,21 +28,40 @@
             +tablet-desktop
                 width: 250px
 
+    &__mobile-nav-trigger
+        img
+            width: 30px
+            display: block
+
+        +desktop
+            display: none
+
     &__nav
         +mobile-tablet
-            position: absolute
+            position: fixed
             transform: translateX(100%)
             top: 0
             right: 0
             background-color: $brand-color
             padding: 30px 0
             text-align: center
-            min-width: 300px
+            width: 100%
+            transition: transform 0.3s ease-out
+            height: 100%
+
+            &.\--active
+                transform: translateX(0)
+
+        &-close
+            position: absolute
+            top: -20px
+            right: 0
+            padding: 20px
 
         &-link
             color: $brand-color
             font-weight: $medium
-            font-size: 18px
+            font-size: 16px
             text-transform: uppercase
             transition: color $animation-delay ease-in-out
 
@@ -59,3 +79,6 @@
 
             &.\--current
                 color: $main-text-color
+
+        button
+            margin-top: 20px

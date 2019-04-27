@@ -1,5 +1,7 @@
 var app = new Vue({
     el: '#vue',
     data: {
-        signUpModalVisible: false
-    },})
+        signUpModalVisible: false,
+        mobileMenuIsVisible: false
+    }
+})

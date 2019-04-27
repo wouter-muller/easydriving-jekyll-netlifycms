@@ -8,7 +8,13 @@
                     <img src="{{ site.image_path }}/logo.svg">
                 </a>
             </div>
-            <div class="s-header__nav">
+            <div class="s-header__mobile-nav-trigger" @click="mobileMenuIsVisible = true">
+                <img src="{{ site.image_path }}/icons/hamburger.svg">
+            </div>
+            <div class="s-header__nav" :class="{ '--active': mobileMenuIsVisible }">
+                <button class="s-header__nav-close" @click="mobileMenuIsVisible = false">
+                    <img src="{{ site.image_path }}/icons/close-white.svg">
+                </button>
                 {% for item in site.data.navigation %}
                     {% if item.include_in_header %}
                         <a class="s-header__nav-link {% if item.url == navurl %}--current{% endif %}" href="{{ item.url }}">{{ item.text }}</a>
