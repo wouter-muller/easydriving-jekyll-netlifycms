@@ -16,8 +16,10 @@
                     <img src="{{ site.image_path }}/icons/close-white.svg">
                 </button>
                 {% for item in site.data.navigation %}
-                    {% if item.include_in_header %}
+                    {% if item.include_in_desktop_header %}
                         <a class="s-header__nav-link {% if item.url == navurl %}--current{% endif %}" href="{{ item.url }}">{{ item.text }}</a>
+                    {% else %}
+                        <a class="s-header__nav-link u-hide@desktop {% if item.url == navurl %}--current{% endif %}" href="{{ item.url }}">{{ item.text }}</a>
                     {% endif %}
                 {% endfor %}
 

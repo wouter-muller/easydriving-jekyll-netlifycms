@@ -2,19 +2,19 @@
 
 - text: Home
   url: /
-  include_in_header: false
+  include_in_desktop_header: false
 - text: Hoe werkt het?
   url: /hoe-werkt-het
-  include_in_header: true
-- text: Prijzen
-  url: /prijzen
-  include_in_header: true
+  include_in_desktop_header: true
 - text: Onze auto's
   url: /onze-autos
-  include_in_header: true
+  include_in_desktop_header: true
+- text: Prijzen
+  url: /prijzen
+  include_in_desktop_header: true
 - text: Over EasyDriving
   url: /over-easydriving
-  include_in_header: true
+  include_in_desktop_header: true
 - text: Nieuws
   url: /nieuws
-  include_in_header: false
+  include_in_desktop_header: false
