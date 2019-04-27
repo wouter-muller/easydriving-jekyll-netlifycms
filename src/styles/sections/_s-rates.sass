@@ -5,8 +5,14 @@
 
     &__grid
         display: grid
-        grid-template-columns: 1fr 120px 120px 120px
         align-items: center
+        grid-gap: 10px
+
+        +mobile
+            grid-template-columns: 1fr 1fr 1fr 1fr
+
+        +tablet-desktop
+            grid-template-columns: 1fr 120px 120px 120px
 
         &.\--with-border
             border-bottom: 1px solid rgba(black, 0.1)
@@ -15,20 +21,36 @@
 
     &__label
         font-weight: $bold
-        font-size: 20px
         color: $main-text-color
         justify-self: center
 
+        +mobile
+            font-size: 16px
+
+        +tablet-desktop
+            font-size: 20px
+
     &__price
         color: $brand-color
-        font-size: 24px
         justify-self: center
+        white-space: nowrap
+
+        +mobile
+            font-size: 18px
+
+        +tablet-desktop
+            font-size: 24px
 
     &__example
         display: grid
-        grid-template-columns: 1fr 1fr
         grid-gap: 40px
         align-items: center
+
+        +mobile
+            grid-template-columns: 1fr
+
+        +tablet-desktop
+            grid-template-columns: 1fr 1fr
 
         &.\--with-border
             border-bottom: 1px solid rgba(black, 0.1)
