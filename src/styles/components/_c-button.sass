@@ -5,9 +5,13 @@
     transition: background-color $animation-delay ease-in-out
     font-weight: $medium
     cursor: pointer
+    border: 0
 
     &:active
         transform: translateY(1px)
+
+    &:focus
+        outline: none
 
     &.\--cta
         font-size: 18px

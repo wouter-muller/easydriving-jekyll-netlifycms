@@ -2,6 +2,7 @@
     text-align: center
     background-color: $brand-color
     color: $inverted-text-color
+    font-size: 16px
 
     &__grid
         padding: 50px 0
@@ -32,32 +33,16 @@
     &__link-list
         a
             color: $inverted-text-color
-            font-size: 20px
+            padding: 1px 0
+            display: block
+            // font-size: 20px
 
             &:hover
                 // text-decoration: underline
                 color: darken($inverted-text-color, 10%)
 
     &__address
-        font-size: 20px
-
-    &__newsletter-label
-        font-size: 20px
-        margin-bottom: 10px
-        display: block
-
-    &__newsletter-grid
-        display: flex
-
-        .c-input
-            border-radius: 8px 0 0 8px
-
-        .c-button
-            border-radius: 0 8px 8px 0
-            line-height: 1
-            position: relative
-            padding-left: 10px
-            padding-right: 10px
+        // font-size: 20px
 
     &__sub-footer
         border-top: 1px solid rgba(white, 0.32)
