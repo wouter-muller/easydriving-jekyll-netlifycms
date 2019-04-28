@@ -153,6 +153,7 @@ collections: # A list of collections the CMS should be able to edit
         file: "pages/privacy.html"
         fields:
           - { label: "Layout", name: "layout", widget: "hidden" }
+          - { label: "Title", name: "title", widget: "string" }
           - { label: "Title tag (SEO)", name: "title_tag", widget: "string" }
           - { label: "Description tag (SEO)", name: "description_tag", widget: "string" }
           - { label: "Permalink", name: "permalink", widget: "string" }

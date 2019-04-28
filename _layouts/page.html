@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="nl">
+
+    {% include head.html %}
+
+    <body>
+        <div id="vue">
+            {% include sign-up-modal.html %}
+
+            <header>
+                {% include header.html %}
+            </header>
+
+            <main class="c-content">
+                <div class="l-wrapper">
+                    <div class="c-page">
+                        <h1 class="c-heading --large --green u-align-center u-mb+">{{ page.title }}</h1>
+                        <div class="c-card c-paragraph">
+                            {{ content | markdownify }}
+                        </div>
+                    </div>
+                </div>
+            </main>
+
+            <footer>
+                {% include footer.html %}
+            </footer>
+        </div>
+    </body>
+
+</html>
