@@ -150,7 +150,7 @@ collections: # A list of collections the CMS should be able to edit
     files:
       - name: 'privacy'
         label: "Privacy"
-        file: "_data/privacy.yaml"
+        file: "pages/privacy.html"
         fields:
           - { label: "Layout", name: "layout", widget: "hidden" }
           - { label: "Title tag (SEO)", name: "title_tag", widget: "string" }
@@ -161,7 +161,7 @@ collections: # A list of collections the CMS should be able to edit
   - name: "news"
     label: "Nieuws"
     folder: "_posts"
-    sort: "date:asc"
+    sort: "date:desc"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
