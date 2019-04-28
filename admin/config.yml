@@ -26,8 +26,6 @@ collections: # A list of collections the CMS should be able to edit
         file: "/_data/settings.yaml"
         fields:
           - {label: "Postcodes waarin EasyDriving beschikbaar is (spatie tussen de 4-cijferige postcodes)", name: "active_postal_codes", widget: "text"}
-          - {label: "Link naar de Apple Store app", name: "app_store_url", widget: "string"}
-          - {label: "Link naar de Google Play Store app", name: "google_play_store_url:", widget: "string"}
           - {label: "Facebook profile link", name: "facebook_url:", widget: "string"}
           - {label: "Twitter profile link", name: "twitter_url:", widget: "string"}
           - {label: "LinkedIn profile link", name: "linkedin_url:", widget: "string"}
@@ -60,6 +58,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Layout", name: "layout", widget: "hidden"}
           - {label: "Title", name: "title", widget: "hidden"}
           - {label: "Title tag (SEO)", name: "title_tag", widget: "string"}
+          - {label: "Description tag (SEO)", name: "description_tag", widget: "string"}
           - {label: "Permalink", name: "permalink", widget: "hidden"}
           - {label: "Body", name: "body", widget: "hidden"}
       - name: "hero"
@@ -158,6 +157,17 @@ collections: # A list of collections the CMS should be able to edit
       - { label: "URL", name: "permalink", widget: "string" }
       - { label: "Categorie", name: "category", widget: "string" }
       - { label: "Inhoud", name: "body", widget: "markdown" }
+  # PRIVACY
+  - name: "privacy"
+    label: "Privacy pagina"
+    file: "_data/privacy.yaml"
+    delete: "false"
+    fields:
+      - { label: "Layout", name: "layout", widget: "hidden" }
+      - { label: "Title tag (SEO)", name: "title_tag", widget: "string" }
+      - { label: "Description tag (SEO)", name: "description_tag", widget: "string" }
+      - { label: "Permalink", name: "permalink", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
   # FOOTER
   - name: "footer"
     label: "Footer"
