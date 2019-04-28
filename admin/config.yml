@@ -143,6 +143,20 @@ collections: # A list of collections the CMS should be able to edit
           - { label: "E-mail adres", name: "email_address", widget: "string" }
           - { label: "Geen beschikbaarheid button text", name: "negative_form_button_text", widget: "string" }
           - { label: "Wel beschikbaarheid text", name: "positive_result_text", widget: "markdown" }
+  # PRIVACY
+  - name: "other_pages"
+    label: "Overige pagina's"
+    delete: "false"
+    files:
+      - name: 'privacy'
+        label: "Privacy"
+        name: "_data/privacy.yaml"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden" }
+          - { label: "Title tag (SEO)", name: "title_tag", widget: "string" }
+          - { label: "Description tag (SEO)", name: "description_tag", widget: "string" }
+          - { label: "Permalink", name: "permalink", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
   # NEWS
   - name: "news"
     label: "Nieuws"
@@ -157,17 +171,6 @@ collections: # A list of collections the CMS should be able to edit
       - { label: "URL", name: "permalink", widget: "string" }
       - { label: "Categorie", name: "category", widget: "string" }
       - { label: "Inhoud", name: "body", widget: "markdown" }
-  # PRIVACY
-  - name: "privacy"
-    label: "Privacy pagina"
-    file: "_data/privacy.yaml"
-    delete: "false"
-    fields:
-      - { label: "Layout", name: "layout", widget: "hidden" }
-      - { label: "Title tag (SEO)", name: "title_tag", widget: "string" }
-      - { label: "Description tag (SEO)", name: "description_tag", widget: "string" }
-      - { label: "Permalink", name: "permalink", widget: "string" }
-      - { label: "Body", name: "body", widget: "markdown" }
   # FOOTER
   - name: "footer"
     label: "Footer"
