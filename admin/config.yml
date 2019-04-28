@@ -150,7 +150,7 @@ collections: # A list of collections the CMS should be able to edit
     files:
       - name: 'privacy'
         label: "Privacy"
-        name: "_data/privacy.yaml"
+        file: "_data/privacy.yaml"
         fields:
           - { label: "Layout", name: "layout", widget: "hidden" }
           - { label: "Title tag (SEO)", name: "title_tag", widget: "string" }
