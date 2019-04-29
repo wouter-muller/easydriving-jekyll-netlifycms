@@ -9,8 +9,8 @@
 - text: Onze auto's
   url: /onze-autos
   include_in_desktop_header: true
-- text: Prijzen
-  url: /prijzen
+- text: Tarieven
+  url: /tarieven
   include_in_desktop_header: true
 - text: Over EasyDriving
   url: /over-easydriving

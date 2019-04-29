@@ -27,11 +27,11 @@ cars:
   seats: 5
   price_per_hour: "€ 15,00"
   price_per_day: "€ 150,00"
-  price_per_km: "-"
+  price_per_km: "nvt"
 - title: Tesla Model X
   image: /uploads/tesla-model-x.png
   actieradius: 410
   seats: 7
   price_per_hour: "€ 17,50"
   price_per_day: "€ 175,00"
-  price_per_km: "-"
+  price_per_km: "nvt"
