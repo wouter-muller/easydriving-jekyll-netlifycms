@@ -132,6 +132,7 @@ collections: # A list of collections the CMS should be able to edit
           - { name: "benzineprijs", label: "Benzine literprijs", widget: "string" }
           - { name: "subscription_costs", label: "Kosten lidmaatschap EasyDriving (per jaar)", widget: "string" }
           - { name: "stroomkosten", label: "Stroomkosten (per km)", widget: "string" }
+          - { name: "button_text", label: "Button tekst", widget: "string" }
       - name: "availability"
         label: "Availability"
         file: "_data/availability.yaml"

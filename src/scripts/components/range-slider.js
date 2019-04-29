@@ -18,7 +18,7 @@ Vue.component('range-slider', {
             <div class="s-compare-costs__distance">
                 <p class="c-paragraph u-mb+">{{ this.description }}: <span><b>{{ this.distance }}</b> km</span></p>
             </div>
-            <table class="c-table s-compare-costs__table">
+            <table class="c-table s-compare-costs__table u-mb">
                 <thead>
                     <tr>
                         <td class="u-hide@mobile"></td>

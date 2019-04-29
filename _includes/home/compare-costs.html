@@ -1,9 +1,8 @@
 <div class="s-compare-costs">
-    <div class="s-compare-costs__bg"></div>
     <div class="s-compare-costs__inner">
         <div class="l-wrapper">
             <div class="s-compare-costs__overlay">
-                <h2 class="c-heading --large --black u-align-center u-mb+">
+                <h2 class="c-heading --large --green u-align-center u-mb+">
                     {{ site.data.compare_costs.heading }}
                 </h2>
                 <p class="c-paragraph u-mb">{{ site.data.compare_costs.description }}</p>
@@ -29,9 +28,11 @@
                     deelauto-label="{{ site.data.compare_costs.deelauto_label }}"
                 ></range-slider>
 
-                <div class="u-align-center">
-                    <a href="/tarieven" class="c-button --border u-align-center">{{ site.data.how_it_works.button_text }}</a>
-                </div>
+                {% if page.url == "/" %}
+                    <div class="u-align-center">
+                        <a href="/tarieven" class="c-button --border u-align-center">{{ site.data.compare_costs.button_text }}</a>
+                    </div>
+                {% endif %}
             </div>
         </div>
     </div>
