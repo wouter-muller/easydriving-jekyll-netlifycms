@@ -41,10 +41,18 @@
         +tablet-desktop
             font-size: 24px
 
+    &__examples
+        background-color: $main-bg-color
+        padding: 50px 0
+
+    &__examples-grid
+        display: grid
+        grid-template-columns: 1fr 1fr
+        grid-gap: 80px
+
     &__example
         display: grid
         grid-gap: 40px
-        align-items: center
 
         +mobile
             grid-template-columns: 1fr
@@ -52,7 +60,7 @@
         +tablet-desktop
             grid-template-columns: 1fr 1fr
 
-        &.\--with-border
-            border-bottom: 1px solid rgba(black, 0.1)
-            padding-bottom: 20px
-            margin-bottom: 20px
+    &__example-price
+        font-size: 30px
+        color: $brand-color
+        font-weight: $bold

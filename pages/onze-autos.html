@@ -28,11 +28,6 @@ permalink: /onze-autos
                         <p class="c-paragraph --small u-mb">
                             Actieradius: {{ car.actieradius }} km<br>
                             Zitplaatsen: {{ car.seats }}<br>
-                            {% if car.price_per_km != "nvt" %}
-                                Stroomkosten: {{ car.price_per_km }} per km
-                            {% else %}
-                                Stroomkosten: {{ car.price_per_km }}
-                            {% endif %}
                         </p>
                         <p class="s-our-cars-page__price-per-hour u-mb-">{{ car.price_per_hour }} p/uur</p>
                         <p class="s-our-cars-page__price-per-day">of {{ car.price_per_day }} p/dag</p>
@@ -46,5 +41,3 @@ permalink: /onze-autos
         </div>
     </div>
 </div>
-
-{% include home/availability.html %}
