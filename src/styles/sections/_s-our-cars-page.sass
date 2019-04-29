@@ -1,11 +1,18 @@
 .s-our-cars-page
     padding: 50px 0
-    max-width: 750px
-    margin: 0 auto
+
+    &__wrapper
+        display: grid
+        grid-gap: 20px
+
+        +mobile
+            grid-template-columns: 1fr
+
+        +tablet-desktop
+            grid-template-columns: 1fr 1fr
 
     &__grid
         display: grid
-        margin-bottom: 20px
 
         +mobile
             grid-template-columns: 1fr
@@ -29,3 +36,6 @@
     &__price-per-day
         font-size: 20px
         color: $slightly-muted-text-color
+
+    .c-card
+        padding: 20px

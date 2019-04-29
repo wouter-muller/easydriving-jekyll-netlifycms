@@ -17,7 +17,7 @@ permalink: /onze-autos
             <button class="c-button --cta" @click="signUpModalVisible = true">{{ site.data.hero.button_text }}</button>
         </div>
 
-        <div class="u-mb++">
+        <div class="s-our-cars-page__wrapper u-mb++">
             {% for car in site.data.cars.cars %}
                 <div class="c-card s-our-cars-page__grid">
                     <div class="s-our-cars-page__image">
@@ -28,8 +28,10 @@ permalink: /onze-autos
                         <p class="c-paragraph --small u-mb">
                             Actieradius: {{ car.actieradius }} km<br>
                             Zitplaatsen: {{ car.seats }}<br>
-                            {% if car.price_per_km != 0 %}
+                            {% if car.price_per_km != "nvt" %}
                                 Stroomkosten: {{ car.price_per_km }} per km
+                            {% else %}
+                                Stroomkosten: {{ car.price_per_km }}
                             {% endif %}
                         </p>
                         <p class="s-our-cars-page__price-per-hour u-mb-">{{ car.price_per_hour }} p/uur</p>
@@ -44,3 +46,5 @@ permalink: /onze-autos
         </div>
     </div>
 </div>
+
+{% include home/availability.html %}
