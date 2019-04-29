@@ -6,6 +6,10 @@ var app = new Vue({
     }
 })
 
+// ---------------------------------------------------
+// Sign up form ajax request
+// ---------------------------------------------------
+
 let testForm = document.querySelector("#signup");
 
 testForm.addEventListener('submit', e => {
@@ -21,7 +25,8 @@ testForm.addEventListener('submit', e => {
   })
   .then(res => {
     if (res) {
-      console.log('true')
+      document.querySelector('.js-sign-up-form').style.display = 'none';
+      document.querySelector('.js-sign-up-success').style.display = 'block';
     }
   });
 });
