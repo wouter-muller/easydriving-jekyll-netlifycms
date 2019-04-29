@@ -13,20 +13,21 @@ var app = new Vue({
 let testForm = document.querySelector("#signup");
 
 testForm.addEventListener('submit', e => {
-  e.preventDefault();
-  const formData = new FormData(testForm);
-  fetch(testForm.getAttribute('action'), {
-    method: 'POST',
-    headers: {
-      'Accept': 'application/x-www-form-urlencoded;charset=UTF-8',
-      'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8'
+    document.querySelector('.js-sign-up-submit').setAttribute('disabled', 'disabled');
+    e.preventDefault();
+    const formData = new FormData(testForm);
+    fetch(testForm.getAttribute('action'), {
+        method: 'POST',
+        headers: {
+            'Accept': 'application/x-www-form-urlencoded;charset=UTF-8',
+            'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8'
     },
     body: new URLSearchParams(formData).toString()
   })
   .then(res => {
     if (res) {
-      document.querySelector('.js-sign-up-form').style.display = 'none';
-      document.querySelector('.js-sign-up-success').style.display = 'block';
+        document.querySelector('.js-sign-up-form').style.display = 'none';
+        document.querySelector('.js-sign-up-success').style.display = 'block';
     }
   });
 });
