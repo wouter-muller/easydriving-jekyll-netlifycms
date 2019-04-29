@@ -1,5 +1,6 @@
 .s-compare-costs
     position: relative
+    background-color: $main-bg-color
 
     &__bg
         +background-image('compare-costs-bg.jpg')
@@ -10,15 +11,15 @@
         &:before
             content: ''
             +fill-space
-            background-color: rgba(black, 0.18)
+            background-color: rgba(white, 0.94)
 
         &:after
             content: ''
             +fill-space
-            background-color: rgba($brand-color, 0.56)
+            background-color: rgba($brand-color, 0.1)
 
     &__overlay
-        background-color: rgba($main-bg-color, 0.8)
+        // background-color: rgba($main-bg-color, 0.8)
         position: relative
         max-width: 663px
         margin: 0 auto
