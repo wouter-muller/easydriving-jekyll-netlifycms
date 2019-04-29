@@ -47,8 +47,14 @@
 
     &__examples-grid
         display: grid
-        grid-template-columns: 1fr 1fr
-        grid-gap: 80px
+
+        +mobile
+            text-align: center
+            grid-gap: 40px
+
+        +tablet-desktop
+            grid-template-columns: 1fr 1fr
+            grid-gap: 80px
 
     &__example
         display: grid
