@@ -149,7 +149,7 @@ collections: # A list of collections the CMS should be able to edit
     label: "Overige pagina's"
     delete: "false"
     editor:
-      preview: true
+      preview: false
     files:
       - name: 'privacy'
         label: "Privacy"
