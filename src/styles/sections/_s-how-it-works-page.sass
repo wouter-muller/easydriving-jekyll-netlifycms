@@ -4,6 +4,25 @@
     padding: 50px 0
     text-align: center
 
+    &__hero
+        padding: 100px 0
+        position: relative
+
+        &-bg
+            +background-image('/how-it-works-page-bg.jpg')
+            +fill-space
+            background-size: cover
+            background-position: center center
+
+            &:after
+                content: ''
+                +fill-space
+                background-color: rgba(mix(white, $brand-color, 70%), 0.9)
+
+        &-text
+            position: relative
+            color: $main-text-color
+
     &__step
         padding-bottom: 20px
         margin-bottom: 30px

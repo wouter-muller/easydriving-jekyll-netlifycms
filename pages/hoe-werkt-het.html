@@ -4,18 +4,25 @@ title_tag: Hoe werkt het? - Elektrische auto's voor jou en je buurt - EasyDrivin
 description_tag: EasyDriving
 permalink: /hoe-werkt-het
 ---
+<div class="s-how-it-works-page__hero">
+    <div class="s-how-it-works-page__hero-bg"></div>
+    <div class="s-how-it-works-page__hero-text u-align-center">
+        <div class="l-wrapper">
+            <h2 class="c-heading --large --black u-mb+">{{ site.data.how_it_works_page.heading }}</h2>
+
+            <p class="c-paragraph u-mb+">
+                {{ site.data.how_it_works_page.intro_text | markdownify }}
+            </p>
+        </div>
+    </div>
+</div>
+
 <div class="s-how-it-works-page">
     <div class="l-wrapper">
-        <h2 class="c-heading --large --green u-mb+">{{ site.data.how_it_works_page.heading }}</h2>
-
-        <p class="c-paragraph u-mb+">
-            {{ site.data.how_it_works_page.intro_text }}
-        </p>
 
         <div class="c-card">
             {% for step in site.data.how_it_works_page.steps %}
                 <div class="s-how-it-works-page__step">
-                    <!-- <div class="s-how-it-works-page__step u-mb"><span>{{ step.step }}</span></div> -->
                     <div class="s-how-it-works-page__grid">
                         <span>{{ step.step }}</span>
                         <div>
