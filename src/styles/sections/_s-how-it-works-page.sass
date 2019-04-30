@@ -18,9 +18,14 @@
 
     &__grid
         display: grid
-        grid-template-columns: $step-size 1fr
-        grid-gap: 40px
         align-items: center
+
+        +mobile
+            grid-template-columns: 1fr
+
+        +tablet-desktop
+            grid-template-columns: $step-size 1fr
+            grid-gap: 40px
 
     span
         background-color: $brand-color
