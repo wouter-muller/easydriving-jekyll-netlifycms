@@ -2,10 +2,15 @@
     position: relative
 
     &__bg
-        +background-image('app-banner-bg.jpg')
         background-size: cover
         background-position: center center
         +fill-space
+
+        +mobile
+            +background-image('app-banner-bg-mobile.jpg')
+
+        +tablet-desktop
+            +background-image('app-banner-bg.jpg')
 
         &:before
             content: ''

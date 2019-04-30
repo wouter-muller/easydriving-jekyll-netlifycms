@@ -2,6 +2,29 @@
     position: relative
     background-color: rgba($brand-color, 0.16)
 
+    &__bg
+        background-size: cover
+        background-position: center center
+        +fill-space
+
+        +mobile
+            +background-image('compare-costs-bg-mobile.jpg')
+
+        +tablet-desktop
+            +background-image('compare-costs-bg.jpg')
+
+        // white
+        &:before
+            +fill-space
+            background-color: rgba(white, 0.85)
+            content: ''
+
+        // green
+        &:after
+            +fill-space
+            background-color: rgba($brand-color, 0.3)
+            content: ''
+
     &__overlay
         position: relative
         max-width: 663px
