@@ -1,19 +1,47 @@
 heading: Hoe werkt het?
-intro_text: EasyDriving stimuleert ondernemers en particulieren om een elektrische auto te delen. Als bedrijven of bewoners van dorpen en wijken interesse hebben in het delen van een elektrische auto, dan kan EasyDriving de auto(‘s) en het systeem faciliteren. Als er een deelauto in de buurt of bij het bedrijf staat, dan kan elke gebruiker met de app de auto reserveren, openen, ermee rijden en de auto sluiten. Sleuteloverdracht is dus niet nodig en de verrekening volgt achteraf.
+intro_text: >-
+  EasyDriving stimuleert ondernemers en particulieren om een elektrische auto te
+  delen. Als bedrijven of bewoners van dorpen en wijken interesse hebben in het
+  delen van een elektrische auto, dan kan EasyDriving de auto(‘s) en het systeem
+  faciliteren. 
+
+
+  Als er een deelauto in de buurt of bij het bedrijf staat, dan kan elke
+  gebruiker met de app de auto reserveren, openen, ermee rijden en de auto
+  sluiten. Sleuteloverdracht is dus niet nodig en de verrekening volgt achteraf.
 steps:
-- step: 1
-  image: /icons/1sign-up.svg
-  title: Meld je aan
-  text: Via de aanmeld knop op de website kun je je gemakkelijk aanmelden bij EasyDriving. Als je aangemeld bent, krijg je een e-mail van OnzeAuto met daarin een link om de app te downloaden (‘OnzeAuto’). Vanaf dat moment kun je de gewenste deelauto in de buurt reserveren en gebruiken.
-- step: 2
-  image: /icons/2reserve-car.svg
-  title: Reserveer een auto
-  text: In de e-mail die je hebt ontvangen, vind je een uitleg van hoe de app werkt. In de app zie je welke deelauto’s op welke locaties staan. Op die manier kun je gemakkelijk zien welke deelauto het dichtste bij jou in de buurt staat.
-- step: 3
-  image: /icons/3open-car-with-app.svg
-  title: Open de auto met de app
-  text: Als je de deelauto hebt gereserveerd kun je deze vanuit de app openen. Dat doe je via een virtuele sleutel die in gebruik genomen kan worden vanaf het moment dat de reservering is gestart.
-- step: 4
-  image: /icons/4drive-car.svg
-  title: Rijd met de auto!
-  text: Nu de auto geopend is, kan de oplaadkabel verwijderd worden alvorens er met de auto gereden kan worden. In de e-mail die je hebt ontvangen staat een uitleg over het loskoppelen van de oplaadkabel. Als de laadkabel eruit is, kun je deze in de achterbak van de auto leggen en beginnen met de rit. De sleutel van de auto ligt in de console en deze kan gebruikt worden voor het tussentijds afsluiten van de auto. Als de reservering is afgelopen en je weer op de vaste parkeerplaats bent aangekomen, kan de auto weer opgeladen worden bij de laadpaal.
+  - image: /icons/1sign-up.svg
+    step: 1
+    text: >-
+      Via de aanmeld knop op de website kun je je gemakkelijk aanmelden bij
+      EasyDriving. Als je aangemeld bent, krijg je een e-mail van OnzeAuto met
+      daarin een link om de app te downloaden (‘OnzeAuto’). Vanaf dat moment kun
+      je de gewenste deelauto in de buurt reserveren en gebruiken.
+    title: Meld je aan
+  - image: /icons/2reserve-car.svg
+    step: 2
+    text: >-
+      In de e-mail die je hebt ontvangen, vind je een uitleg van hoe de app
+      werkt. In de app zie je welke deelauto’s op welke locaties staan. Op die
+      manier kun je gemakkelijk zien welke deelauto het dichtste bij jou in de
+      buurt staat.
+    title: Reserveer een auto
+  - image: /icons/3open-car-with-app.svg
+    step: 3
+    text: >-
+      Als je de deelauto hebt gereserveerd kun je deze vanuit de app openen. Dat
+      doe je via een virtuele sleutel die in gebruik genomen kan worden vanaf
+      het moment dat de reservering is gestart.
+    title: Open de auto met de app
+  - image: /icons/4drive-car.svg
+    step: 4
+    text: >-
+      Nu de auto geopend is, kan de oplaadkabel verwijderd worden alvorens er
+      met de auto gereden kan worden. In de e-mail die je hebt ontvangen staat
+      een uitleg over het loskoppelen van de oplaadkabel. Als de laadkabel eruit
+      is, kun je deze in de achterbak van de auto leggen en beginnen met de rit.
+      De sleutel van de auto ligt in de console en deze kan gebruikt worden voor
+      het tussentijds afsluiten van de auto. Als de reservering is afgelopen en
+      je weer op de vaste parkeerplaats bent aangekomen, kan de auto weer
+      opgeladen worden bij de laadpaal.
+    title: Rijd met de auto!
