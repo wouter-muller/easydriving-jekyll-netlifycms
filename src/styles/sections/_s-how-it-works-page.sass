@@ -9,10 +9,15 @@
         position: relative
 
         &-bg
-            +background-image('/how-it-works-page-bg.jpg')
             +fill-space
             background-size: cover
             background-position: center center
+
+            +mobile
+                +background-image('/how-it-works-page-bg-mobile.jpg')
+
+            +tablet-desktop
+                +background-image('/how-it-works-page-bg.jpg')
 
             &:after
                 content: ''

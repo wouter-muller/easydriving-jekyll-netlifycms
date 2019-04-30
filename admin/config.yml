@@ -146,7 +146,7 @@ collections: # A list of collections the CMS should be able to edit
           - { label: "Wel beschikbaarheid text", name: "positive_result_text", widget: "markdown" }
   # HOE HET WERKT
   - name: "how_it_works_page"
-    label: "Hoe werkt het?"
+    label: "Hoe werkt het? (pagina)"
     delete: "false"
     files:
       - name: "how_it_works_page_settings"
