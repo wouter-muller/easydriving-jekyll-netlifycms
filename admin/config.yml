@@ -144,6 +144,35 @@ collections: # A list of collections the CMS should be able to edit
           - { label: "E-mail adres", name: "email_address", widget: "string" }
           - { label: "Geen beschikbaarheid button text", name: "negative_form_button_text", widget: "string" }
           - { label: "Wel beschikbaarheid text", name: "positive_result_text", widget: "markdown" }
+  # HOE HET WERKT
+  - name: "how_it_works_page"
+    label: "Hoe werkt het?"
+    delete: "false"
+    files:
+      - name: "how_it_works_page_settings"
+        label: "Hoe werkt het (pagina instellingen)"
+        file: "/pages/hoe-werkt-het.html"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden"}
+          - {label: "Title", name: "title", widget: "hidden"}
+          - {label: "Title tag (SEO)", name: "title_tag", widget: "string"}
+          - {label: "Description tag (SEO)", name: "description_tag", widget: "string"}
+          - {label: "Permalink", name: "permalink", widget: "hidden"}
+          - {label: "Body", name: "body", widget: "hidden"}
+      - name: "how_it_works_page_steps"
+        label: "Hoe werkt het (stappen 1 t/m 4)"
+        file: "/_data/how_it_works_page.yaml"
+        fields:
+          - {label: "Heading", name: "heading", widget: "string"}
+          - {label: "Intro tekst", name: "intro_text", widget: "markdown"}
+          - label: "Stappen 1 t/m 4"
+            name: "steps"
+            widget: list
+            fields:
+              - { label: "Stap", name: "step", widget: "string" }
+              - { label: "Icon", name: "image", widget: "hidden" }
+              - { label: "Titel", name: "title", widget: "string" }
+              - { label: "Tekst", name: "text", widget: "markdown" }
   # OTHER PAGES
   - name: "other_pages"
     label: "Overige pagina's"
