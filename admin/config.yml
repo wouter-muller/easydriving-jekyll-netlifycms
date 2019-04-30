@@ -154,7 +154,6 @@ collections: # A list of collections the CMS should be able to edit
         file: "/pages/hoe-werkt-het.html"
         fields:
           - {label: "Layout", name: "layout", widget: "hidden"}
-          - {label: "Title", name: "title", widget: "hidden"}
           - {label: "Title tag (SEO)", name: "title_tag", widget: "string"}
           - {label: "Description tag (SEO)", name: "description_tag", widget: "string"}
           - {label: "Permalink", name: "permalink", widget: "hidden"}
@@ -173,6 +172,28 @@ collections: # A list of collections the CMS should be able to edit
               - { label: "Icon", name: "image", widget: "hidden" }
               - { label: "Titel", name: "title", widget: "string" }
               - { label: "Tekst", name: "text", widget: "markdown" }
+  # ONZE AUTO's PAGE
+  - name: "our_cars_page"
+    label: "Onze auto's (pagina)"
+    delete: false
+    files:
+      - name: "our_cars_page_settings"
+        label: "Onze auto's (pagina instellingen)"
+        file: "/pages/onze-autos.html"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden"}
+          - {label: "Title tag (SEO)", name: "title_tag", widget: "string"}
+          - {label: "Description tag (SEO)", name: "description_tag", widget: "string"}
+          - {label: "Permalink", name: "permalink", widget: "hidden"}
+          - {label: "Body", name: "body", widget: "hidden"}
+      - name: "our_cars_page_texts"
+        label: "Onze auto's (pagina teksten)"
+        file: "/_data/our_cars_page.yaml"
+        fields:
+          - {label: "Heading", name: "heading", widget: "string"}
+          - {label: "Sub heading", name: "sub_heading", widget: "string"}
+          - {label: "Intro tekst", name: "intro_text", widget: "markdown"}
+          - {label: "Button naar tarieven pagina tekst", name: "button_text", widget: "string"}
   # OTHER PAGES
   - name: "other_pages"
     label: "Overige pagina's"

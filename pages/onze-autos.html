@@ -7,11 +7,9 @@ permalink: /onze-autos
 
 <div class="s-our-cars-page">
     <div class="l-wrapper">
-        <h1 class="c-heading --large --green u-align-center u-mb+">Onze auto's</h1>
-        <h2 class="c-heading --medium u-align-center u-mb">Een passende auto voor elke rit</h2>
-        <p class="c-paragraph u-align-center u-mb">
-            Er zijn verschillende typen elektrische auto's beschikbaar. Deze auto's kunnen per uur of per dag worden gereserveerd via de app. Voor iedere rit kan de meest geschikte auto worden gereserveerd: voor een afspraak of familiebezoekje in de buurt kies je bijvoorbeeld de Nissan Leaf en voor de langere afstanden kan de Hyundai Kona worden gebruikt. Als je echt voor luxe wilt gaan, dan reserveer je één van de Tesla's.
-        </p>
+        <h1 class="c-heading --large --green u-align-center u-mb+">{{ site.data.our_cars_page.heading }}</h1>
+        <h2 class="c-heading --medium u-align-center u-mb">{{ site.data.our_cars_page.sub_heading }}</h2>
+        <p class="c-paragraph u-align-center u-mb">{{ site.data.our_cars_page.intro_text }}</p>
 
         <div class="u-align-center u-mb+">
             <button class="c-button --cta" @click="signUpModalVisible = true">{{ site.data.hero.button_text }}</button>
@@ -37,7 +35,7 @@ permalink: /onze-autos
         </div>
 
         <div class="u-align-center u-mb">
-            <button class="c-button --cta" @click="signUpModalVisible = true">{{ site.data.hero.button_text }}</button>
+            <a href="/tarieven" class="c-button --border">{{ site.data.our_cars_page.button_text }}</a>
         </div>
     </div>
 </div>
