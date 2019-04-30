@@ -3,12 +3,15 @@ intro_text: >-
   EasyDriving stimuleert ondernemers en particulieren om een elektrische auto te
   delen. Als bedrijven of bewoners van dorpen en wijken interesse hebben in het
   delen van een elektrische auto, dan kan EasyDriving de auto(‘s) en het systeem
-  faciliteren.
+  faciliteren. 
 
 
   Als er een deelauto in de buurt of bij het bedrijf staat, dan kan elke
   gebruiker met de app de auto reserveren, openen, ermee rijden en de auto
-  sluiten. Sleuteloverdracht is dus niet nodig en de verrekening volgt achteraf.
+  sluiten. 
+
+
+  Sleuteloverdracht is dus niet nodig en de verrekening volgt achteraf.
 steps:
   - image: /icons/1sign-up.svg
     step: 1
