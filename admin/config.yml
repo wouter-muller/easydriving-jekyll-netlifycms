@@ -144,10 +144,12 @@ collections: # A list of collections the CMS should be able to edit
           - { label: "E-mail adres", name: "email_address", widget: "string" }
           - { label: "Geen beschikbaarheid button text", name: "negative_form_button_text", widget: "string" }
           - { label: "Wel beschikbaarheid text", name: "positive_result_text", widget: "markdown" }
-  # PRIVACY
+  # OTHER PAGES
   - name: "other_pages"
     label: "Overige pagina's"
     delete: "false"
+    editor:
+      preview: true
     files:
       - name: 'privacy'
         label: "Privacy"
