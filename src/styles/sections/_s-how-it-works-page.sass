@@ -11,7 +11,7 @@
         &-bg
             +fill-space
             background-size: cover
-            background-position: center center
+            background-position: center top
 
             +mobile
                 +background-image('/how-it-works-page-bg-mobile.jpg')
@@ -22,11 +22,13 @@
             &:after
                 content: ''
                 +fill-space
-                background-color: rgba(mix(white, $brand-color, 70%), 0.9)
+                background-color: rgba(mix(white, $brand-color, 70%), 0.85)
 
         &-text
             position: relative
-            color: $main-text-color
+
+            p
+                text-shadow: 0 0 10px white
 
     &__step
         padding-bottom: 20px
