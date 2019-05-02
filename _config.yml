@@ -73,5 +73,6 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - src/
+  - design/
 
 keep_files: [dist, uploads]

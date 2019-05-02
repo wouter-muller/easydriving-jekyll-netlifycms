@@ -4,3 +4,4 @@ _site
 .users.yml
 node_modules
 .DS_Store
+design/

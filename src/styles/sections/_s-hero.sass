@@ -5,36 +5,37 @@
         height: 400px
 
     +tablet-desktop
-        height: 636px
+        // height: 636px
 
     &__bg
         background-size: cover
-        background-position: center center
+        background-position: center top
         +fill-space
 
         +mobile
-            +background-image('hero-bg-mobile.jpg')
+            +background-image('hero-bg2-mobile.jpg')
 
         +tablet-desktop
-            +background-image('hero-bg.jpg')
+            +background-image('hero-bg2.jpg')
 
         &:after
             content: ''
             +fill-space
-            background-color: rgba($brand-color, 0.20)
+            background-color: rgba(mix(white, $brand-color, 50%), 0.4)
 
     &__inner
         position: relative
+
 
         +mobile
             padding-top: 50px
 
         +tablet-desktop
-            padding-top: 140px
+            padding: 140px 0 240px
 
     &__heading
-        color: $inverted-text-color
-        text-shadow: 0 0 30px rgba(black, 0.17)
+        color: $brand-color
+        text-shadow: 0 0 20px white
 
         +mobile
             font-size: 32px
@@ -44,9 +45,9 @@
             font-size: 70px
 
     &__sub-heading
-        color: $inverted-text-color
+        color: $main-text-color
         font-weight: $medium
-        text-shadow: 0 0 16px rgba(black, 0.2)
+        text-shadow: 0 0 10px white
         margin-bottom: 40px
 
         +mobile
