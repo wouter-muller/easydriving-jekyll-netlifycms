@@ -10,7 +10,7 @@ steps:
   - image: /icons/1sign-up.svg
     step: 1
     text: >-
-      Via de aanmeld knop op de website kun je je gemakkelijk aanmelden bij
+      Via de <a href="#" @click="signUpModalVisible = true">aanmeld knop op de website</a> kun je je gemakkelijk aanmelden bij
       EasyDriving. Als je aangemeld bent, krijg je een e-mail van OnzeAuto met
       daarin een link om de app te downloaden (‘OnzeAuto’). Vanaf dat moment kun
       je de gewenste deelauto in de buurt reserveren en gebruiken.
