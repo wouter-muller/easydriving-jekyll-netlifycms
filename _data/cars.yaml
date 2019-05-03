@@ -1,34 +1,39 @@
 # specify cars here
 cars:
-- title: Nissan Leaf
+- id: 1
+  title: Nissan Leaf
   image: /uploads/nissan-leaf.png
   actieradius: 120
   seats: 5
   price_per_hour: "€ 2,75"
   price_per_day: "€ 27,50"
   price_per_km: € 0,05
-- title: Hyundai Kona
+- id: 2
+  title: Hyundai Kona
   image: /uploads/hyundai-kona.png
   actieradius: 350
   seats: 5
   price_per_hour: "€ 4,75"
   price_per_day: "€ 47,50"
   price_per_km: € 0,05
-- title: Tesla Model 3
+- id: 3
+  title: Tesla Model 3
   image: /uploads/tesla-model-3.png
   actieradius: XXX
   seats: 5
   price_per_hour: "€ 8,50"
   price_per_day: "€ 85,00"
   price_per_km: € 0,05
-- title: Tesla Model S
+- id: 4
+  title: Tesla Model S
   image: /uploads/tesla-model-s.png
   actieradius: 350
   seats: 5
   price_per_hour: "€ 15,00"
   price_per_day: "€ 150,00"
   price_per_km: "nvt"
-- title: Tesla Model X
+- id: 5
+  title: Tesla Model X
   image: /uploads/tesla-model-x.png
   actieradius: 410
   seats: 7

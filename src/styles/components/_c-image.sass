@@ -1,0 +1,27 @@
+.c-image
+    display: block
+    position: relative
+
+    img
+        display: block
+
+    &:after
+        content: ''
+        +fill-space
+        background-color: rgba($brand-color, 0.3)
+
+    +mobile
+        margin-bottom: 20px
+
+    +tablet-desktop
+        &.\--right
+            float: right
+            width: 50%
+            margin-left: 40px
+            margin-bottom: 20px
+
+        &.\--left
+            float: left
+            width: 50%
+            margin-right: 40px
+            margin-bottom: 20px

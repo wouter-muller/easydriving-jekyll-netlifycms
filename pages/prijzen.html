@@ -4,6 +4,45 @@ title_tag: Prijzen - Elektrische auto's voor jou en je buurt - EasyDriving
 description_tag: EasyDriving
 permalink: /tarieven
 ---
+<div class="s-rates__ride-calculator">
+    <div class="l-wrapper">
+        <h2 class="c-heading --large --green u-align-center u-mb+">Bereken wat een rit kost</h2>
+        <form class="s-rates__ride-grid">
+            {% for car in site.data.cars.cars %}
+                <input
+                    class="s-rates__radio"
+                    type="radio"
+                    name="car"
+                    id="{{ car.title | replace: " ", "" }}"
+                    value="{{ car.title | replace: " ", "" }}"
+                    {% if car.id == 1 %} checked {% endif %}
+                >
+                <label
+                    class="s-rates__radio-label"
+                    for="{{ car.title | replace: " ", "" }}"
+                >
+                    <img src="{{ car.image }}">
+                    {{ car.title }}
+                </label>
+            {% endfor %}
+
+            <div>
+                <label>Aantal uren</label>
+                <input type="range">
+            </div>
+
+            <div>
+                <label>Aantal km</label>
+                <input type="range">
+            </div>
+
+            <div>
+                Ritprijs: € 14,50
+            </div>
+        </form>
+    </div>
+</div>
+
 <div class="s-rates">
     <div class="l-wrapper">
         <h1 class="c-heading --large --green u-align-center u-mb+">Tarieven</h1>
@@ -43,6 +82,7 @@ permalink: /tarieven
 
     </div>
 </div>
+
 
 <div class="s-rates__examples">
 
