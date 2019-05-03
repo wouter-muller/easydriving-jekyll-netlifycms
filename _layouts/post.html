@@ -20,7 +20,7 @@
                             <p class="s-news__date">{{ page.friendly_date }}</p>
                             <h2 class="c-heading --large --green u-mb+">{{ page.title }}</h2>
 
-                            {{ content | replace: "<p>", "<p class='c-paragraph u-mb'>" }}
+                            {{ content | replace: "<p>", "<p class='c-paragraph u-mb'>" | replace: "<a ", "<a target='_blank'" }}
                         </div>
                         <a href="/nieuws" class="s-news__back-link">Terug naar het overzicht</a>
                     </div>
