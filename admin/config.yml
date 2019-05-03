@@ -10,7 +10,7 @@ public_folder: "/uploads"
 
 # publish_mode: editorial_workflow # Enable drafts
 
-logo_url: https://pensive-edison-7425f6.netlify.com/dist/img/logo.svg
+logo_url: https://easydriving.eu/dist/img/logo.svg
 
 collections: # A list of collections the CMS should be able to edit
   # SETTINGS

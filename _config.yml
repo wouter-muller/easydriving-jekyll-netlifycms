@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   line in _config.yml.
 baseurl: "" # the subpath of your site if applicable, e.g. /blog
 image_path: "/dist/img"
-url: "https://jekyll-netlify-boilerplate.netlify.com" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://easydriving.eu" # the base hostname & protocol for your site, e.g. https://example.com
 
 # Permalink format (/blog/ is ignored for pages)
 permalink: /blog/:title
@@ -28,6 +28,9 @@ permalink: /blog/:title
 # Enable section IDs in frontmatter, useful for identifying current page
 # (used as a hook for styling etc)
 section: true
+
+plugins:
+  - jekyll-sitemap
 
 # set to 'true' to enable Netlify CMS (/admin) in production builds
 netlifycms: true
