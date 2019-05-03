@@ -3,6 +3,11 @@ var app = new Vue({
     data: {
         signUpModalVisible: false,
         mobileMenuIsVisible: false
+    },
+    methods: {
+        changeCar: function() {
+            console.log('trigger')
+        }
     }
 })
 

@@ -4,44 +4,6 @@ title_tag: Prijzen - Elektrische auto's voor jou en je buurt - EasyDriving
 description_tag: EasyDriving
 permalink: /tarieven
 ---
-<div class="s-rates__ride-calculator">
-    <div class="l-wrapper">
-        <h2 class="c-heading --large --green u-align-center u-mb+">Bereken wat een rit kost</h2>
-        <form class="s-rates__ride-grid">
-            {% for car in site.data.cars.cars %}
-                <input
-                    class="s-rates__radio"
-                    type="radio"
-                    name="car"
-                    id="{{ car.title | replace: " ", "" }}"
-                    value="{{ car.title | replace: " ", "" }}"
-                    {% if car.id == 1 %} checked {% endif %}
-                >
-                <label
-                    class="s-rates__radio-label"
-                    for="{{ car.title | replace: " ", "" }}"
-                >
-                    <img src="{{ car.image }}">
-                    {{ car.title }}
-                </label>
-            {% endfor %}
-
-            <div>
-                <label>Aantal uren</label>
-                <input type="range">
-            </div>
-
-            <div>
-                <label>Aantal km</label>
-                <input type="range">
-            </div>
-
-            <div>
-                Ritprijs: € 14,50
-            </div>
-        </form>
-    </div>
-</div>
 
 <div class="s-rates">
     <div class="l-wrapper">
@@ -63,14 +25,14 @@ permalink: /tarieven
             <div class="s-rates__grid --with-border">
                 <div></div>
                 <p class="s-rates__label">Per uur</p>
-                <p class="s-rates__label">Per dag</p>
-                <p class="s-rates__label">Per km</p>
+                <p class="s-rates__label">of Per dag</p>
+                <p class="s-rates__label">+ Per km</p>
 
                 {% for car in site.data.cars.cars %}
                     <p class="c-paragraph u-mb-">{{ car.title }}</p>
-                    <p class="s-rates__price">{{ car.price_per_hour }}</p>
-                    <p class="s-rates__price">{{ car.price_per_day }}</p>
-                    <p class="s-rates__price">{{ car.price_per_km }}</p>
+                    <p class="s-rates__price">{{ car.price_per_hour_label }}</p>
+                    <p class="s-rates__price">{{ car.price_per_day_label }}</p>
+                    <p class="s-rates__price">{{ car.price_per_km | replace: ".", "," }}</p>
                 {% endfor %}
             </div>
 
@@ -83,6 +45,30 @@ permalink: /tarieven
     </div>
 </div>
 
+<div class="s-ride-tool">
+    <div class="l-wrapper">
+        <h2 class="c-heading --large --green u-align-center u-mb+">Bereken wat een rit kost</h2>
+        {% for car in site.data.cars.cars limit:1 %}
+            <ride-tool :price-per-km-prop="{{ car.price_per_km }}" :price-per-hour-prop="{{ car.price_per_hour }}">
+                <input
+                    class="s-ride-tool__radio"
+                    type="radio"
+                    name="car"
+                    id="{{ car.title | replace: " ", "" }}"
+                    value="{{ car.title | replace: " ", "" }}"
+                    {% if car.id == 1 %} checked {% endif %}
+                >
+                <label
+                    class="s-ride-tool__radio-label"
+                    for="{{ car.title | replace: " ", "" }}"
+                >
+                    <img src="{{ car.image }}">
+                    {{ car.title }}
+                </label>
+            </ride-tool>
+        {% endfor %}
+    </div>
+</div>
 
 <div class="s-rates__examples">
 

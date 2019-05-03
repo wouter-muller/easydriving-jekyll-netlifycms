@@ -9,8 +9,8 @@
                         <img src="{{ car.image }}">
                     </div>
                     <h3 class="c-heading --medium --brand-color u-align-center u-mb-">{{ car.title }}</h3>
-                    <p class="c-paragraph u-align-center">{{ car.price_per_hour }} per uur<br>
-                    of {{ car.price_per_day }} per dag</p>
+                    <p class="c-paragraph u-align-center">€ {{ car.price_per_hour_label }} per uur<br>
+                    of € {{ car.price_per_day_label }} per dag</p>
                 </div>
             {% endfor %}
 

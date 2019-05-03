@@ -27,8 +27,8 @@ permalink: /onze-autos
                             Actieradius: {{ car.actieradius }} km<br>
                             Zitplaatsen: {{ car.seats }}<br>
                         </p>
-                        <p class="s-our-cars-page__price-per-hour u-mb-">{{ car.price_per_hour }} p/uur</p>
-                        <p class="s-our-cars-page__price-per-day">of {{ car.price_per_day }} p/dag</p>
+                        <p class="s-our-cars-page__price-per-hour u-mb-">€ {{ car.price_per_hour_label }} p/uur</p>
+                        <p class="s-our-cars-page__price-per-day">of € {{ car.price_per_day_label }} p/dag</p>
                     </div>
                 </div>
             {% endfor %}
