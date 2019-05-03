@@ -11,7 +11,7 @@ Vue.component('ride-tool', {
                     type="range"
                     v-model.number="hours"
                     min="1"
-                    max="10"
+                    max="24"
                     @input="calculateCosts"
                 >
                 <div>{{ this.hours }} uur</div>
@@ -21,7 +21,7 @@ Vue.component('ride-tool', {
                     type="range"
                     v-model.number="distance"
                     min="0"
-                    max="200"
+                    max="100"
                     @input="calculateCosts"
                 >
                 <div>{{ this.distance }} km</div>
@@ -55,7 +55,11 @@ Vue.component('ride-tool', {
         calculateCosts: function() {
             this.pricePerHour = this.pricePerHourProp;
             this.pricePerKm = this.pricePerKmProp;
-            this.price = (this.hours * this.pricePerHour) + (this.distance * this.pricePerKm)
+            if (this.hours > 10) {
+                this.price = (10 * this.pricePerHour) + (this.distance * this.pricePerKm)
+            } else {
+                this.price = (this.hours * this.pricePerHour) + (this.distance * this.pricePerKm)
+            }
             this.price = this.price.toFixed(2).replace(".", ",")
         }
     },
