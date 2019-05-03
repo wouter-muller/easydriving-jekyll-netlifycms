@@ -23,7 +23,7 @@ cars:
 - id: 3
   title: Tesla Model 3
   image: /uploads/tesla-model-3.png
-  actieradius: XXX
+  actieradius: 350
   seats: 5
   price_per_hour: 8.50
   price_per_hour_label: "8,50"
@@ -33,7 +33,7 @@ cars:
 - id: 4
   title: Tesla Model S
   image: /uploads/tesla-model-s.png
-  actieradius: 350
+  actieradius: 280
   seats: 5
   price_per_hour: 15
   price_per_hour_label: "15,00"
