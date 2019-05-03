@@ -23,12 +23,23 @@
         font-weight: $bold
         color: $main-text-color
         justify-self: center
+        position: relative
 
         +mobile
             font-size: 16px
 
         +tablet-desktop
             font-size: 20px
+
+        span
+            color: $brand-color
+            position: absolute
+
+            +mobile
+                left: -17px
+
+            +tablet-desktop
+                left: -40px
 
     &__price
         color: $brand-color
