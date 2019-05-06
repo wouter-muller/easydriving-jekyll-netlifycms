@@ -6,11 +6,9 @@ subscription_costs: 5,00
 per_hour: Per uur
 per_day: Per dag
 per_km: Per km
-specs: >-
-  <ul>
-    <li>Rijd je meer dan 200 kilometer per dag, dan geldt er voor elke extra gereden kilometer een vergoeding van € 0,20.</li>
-    <li>De kosten voor tussentijds laden onderweg komen voor eigen rekening.</li>
-    <li>Het dagtarief is op basis van 24 uur. Dus als je de auto reserveert met als begintijd bijv. 14:00, is hij tot 14:00 de volgende dag voor jou gereserveerd.</li>
-  </ul>
+specs: |-
+  * Rijd je meer dan 200 kilometer per dag, dan geldt er voor elke extra gereden kilometer een vergoeding van € 0,20.
+  * De kosten voor tussentijds laden onderweg komen voor eigen rekening.
+  * Het dagtarief is op basis van 24 uur. Dus als je de auto reserveert met als begintijd bijv. 14:00, is hij tot 14:00 de volgende dag voor jou gereserveerd.
 disclaimer: "* - Per km wordt een vergoeding voor de stroomkosten gevraagd."
 ride_costs_tool_heading: Bereken wat een rit kost
