@@ -221,9 +221,9 @@ collections: # A list of collections the CMS should be able to edit
   # OTHER PAGES
   - name: "other_pages"
     label: "Overige pagina's"
-    delete: "false"
+    delete: false
     editor:
-      preview: false
+      preview: true
     files:
       - name: 'about_easydriving'
         label: "Over EasyDriving"
