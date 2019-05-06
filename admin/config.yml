@@ -230,19 +230,19 @@ collections: # A list of collections the CMS should be able to edit
         create: true
         fields:
           - { label: "Heading", name: "heading", widget: "string" }
-          - label: "FAQ"
+          - label: "FAQ (Algemeen)"
             name: "general_faqs"
             widget: list
             fields:
               - { label: "Vraag", name: "question", widget: "string" }
               - { label: "Antwoord", name: "answer", widget: "markdown" }
-          - label: "FAQ"
+          - label: "FAQ (Betaling en tarieven)"
             name: "payment_faqs"
             widget: list
             fields:
               - { label: "Vraag", name: "question", widget: "string" }
               - { label: "Antwoord", name: "answer", widget: "markdown" }
-          - label: "FAQ"
+          - label: "FAQ (Laden)"
             name: "charging_faqs"
             widget: list
             fields:
