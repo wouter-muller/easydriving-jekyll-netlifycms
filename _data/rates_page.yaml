@@ -14,5 +14,5 @@ specs: >-
   * Het dagtarief is op basis van 24 uur. Dus als de auto bijvoorbeeld om 14:00
   gereserveerd wordt, dan is deze tot 14:00 de volgende dag beschikbaar voor
   maximaal tienmaal het uurtarief
-disclaimer: '* Per km vragen wij een vergoeding voor de stroomkosten.'
+disclaimer: '* Per gereden km vragen wij een vergoeding voor de stroomkosten.'
 ride_costs_tool_heading: Bereken wat een rit kost
