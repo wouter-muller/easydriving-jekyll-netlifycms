@@ -233,7 +233,7 @@ collections: # A list of collections the CMS should be able to edit
           - { label: "Title tag (SEO)", name: "title_tag", widget: "string" }
           - { label: "Description tag (SEO)", name: "description_tag", widget: "string" }
           - { label: "Permalink", name: "permalink", widget: "string" }
-          - { label: "Body", name: "body", widget: "markdown" }
+          - { label: "Body", name: "body", widget: "text" }
       - name: 'voorwaarden'
         label: "Voorwaarden"
         file: "pages/voorwaarden.html"
