@@ -1,0 +1,26 @@
+.s-faq
+    padding: 50px 0
+
+    &__grid
+        display: grid
+        margin-bottom: 20px
+        padding-top: 20px
+
+        &.\--with-border
+            border-top: 1px solid rgba(black, 0.1)
+
+        +mobile
+            grid-gap: 20px
+
+        +tablet-desktop
+            grid-gap: 40px
+            grid-template-columns: 33% 1fr
+
+    &__question
+        font-weight: $bold
+        font-size: 20px
+        color: $main-text-color
+
+    &__answer
+        font-size: 20px
+        color: $slightly-muted-text-color

@@ -217,8 +217,37 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Details", name: "specs", widget: "markdown"}
           - {label: "Disclaimer", name: "disclaimer", widget: "string"}
           - {label: "Rit kosten bereken tool heading", name: "ride_costs_tool_heading", widget: "string"}
-
   # OTHER PAGES
+  - name: "faq"
+    label: "FAQ"
+    delete: false
+    editor:
+      preview: false
+    files:
+      - name: "faq_page"
+        label: "FAQ (pagina)"
+        file: "/_data/faq.yaml"
+        create: true
+        fields:
+          - { label: "Heading", name: "heading", widget: "string" }
+          - label: "FAQ"
+            name: "general_faqs"
+            widget: list
+            fields:
+              - { label: "Vraag", name: "question", widget: "string" }
+              - { label: "Antwoord", name: "answer", widget: "markdown" }
+          - label: "FAQ"
+            name: "payment_faqs"
+            widget: list
+            fields:
+              - { label: "Vraag", name: "question", widget: "string" }
+              - { label: "Antwoord", name: "answer", widget: "markdown" }
+          - label: "FAQ"
+            name: "charging_faqs"
+            widget: list
+            fields:
+              - { label: "Vraag", name: "question", widget: "string" }
+              - { label: "Antwoord", name: "answer", widget: "markdown" }
   - name: "other_pages"
     label: "Overige pagina's"
     delete: false

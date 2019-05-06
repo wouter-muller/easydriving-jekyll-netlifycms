@@ -1,0 +1,56 @@
+---
+layout: default
+title_tag: FAQ - Elektrische auto's voor jou en je buurt - EasyDriving
+description_tag: EasyDriving
+permalink: /faq
+---
+<div class="s-faq">
+    <div class="l-wrapper">
+        <h1 class="c-heading --large --green u-align-center u-mb+">{{ site.data.faq.heading }}</h1>
+
+        <div class="c-card">
+
+            <div class="s-faq__grid">
+                <div></div>
+                <h2 class="c-heading --medium --green">Algemeen</h2>
+            </div>
+
+            <div class="u-mb++">
+                {% for faq in site.data.faq.general_faqs %}
+                    <div class="s-faq__grid --with-border">
+                        <div class="s-faq__question">{{ faq.question }}</div>
+                        <div class="s-faq__answer">{{ faq.answer }}</div>
+                    </div>
+                {% endfor %}
+            </div>
+
+            <div class="s-faq__grid">
+                <div></div>
+                <h2 class="c-heading --medium --green">Betaling en tarieven</h2>
+            </div>
+
+            <div class="u-mb++">
+                {% for faq in site.data.faq.payment_faqs %}
+                    <div class="s-faq__grid --with-border">
+                        <div class="s-faq__question">{{ faq.question }}</div>
+                        <div class="s-faq__answer">{{ faq.answer }}</div>
+                    </div>
+                {% endfor %}
+            </div>
+
+            <div class="s-faq__grid">
+                <div></div>
+                <h2 class="c-heading --medium --green">Laden</h2>
+            </div>
+
+            <div>
+                {% for faq in site.data.faq.charging_faqs %}
+                    <div class="s-faq__grid --with-border">
+                        <div class="s-faq__question">{{ faq.question }}</div>
+                        <div class="s-faq__answer">{{ faq.answer }}</div>
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</div>
