@@ -197,6 +197,26 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Sub heading", name: "sub_heading", widget: "string"}
           - {label: "Intro tekst", name: "intro_text", widget: "markdown"}
           - {label: "Button naar tarieven pagina tekst", name: "button_text", widget: "string"}
+  # ONZE AUTO's PAGE
+  - name: "rates_page"
+    label: "Tarieven (pagina)"
+    delete: false
+    files:
+      - name: "rates_page"
+        label: "Tarieven (pagina)"
+        file: "/_data/rates_page.yaml"
+        fields:
+          - {label: "Heading", name: "heading", widget: "string"}
+          - {label: "Sub heading", name: "sub_heading", widget: "string"}
+          - {label: "Per maand", name: "per_month", widget: "string"}
+          - {label: "Per uur", name: "per_hour", widget: "string"}
+          - {label: "Per dag", name: "per_day", widget: "string"}
+          - {label: "Lidmaatschap", name: "subscription", widget: "string"}
+          - {label: "Lidmaatschapskosten", name: "subscription_costs", widget: "string"}
+          - {label: "Details", name: "specs", widget: "markdown"}
+          - {label: "Disclaimer", name: "disclaimer", widget: "string"}
+          - {label: "Rit kosten bereken tool heading", name: "ride_costs_tool_heading", widget: "string"}
+
   # OTHER PAGES
   - name: "other_pages"
     label: "Overige pagina's"
