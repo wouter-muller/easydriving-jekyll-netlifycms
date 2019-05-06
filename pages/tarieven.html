@@ -32,7 +32,7 @@ permalink: /tarieven
                     <p class="c-paragraph u-mb-">{{ car.title }}</p>
                     <p class="s-rates__price">€ {{ car.price_per_hour_label }}</p>
                     <p class="s-rates__price">€ {{ car.price_per_day_label }}</p>
-                    <p class="s-rates__price">€ {{ car.price_per_km | replace: ".", "," }}</p>
+                    <p class="s-rates__price">{% if car.price_per_km != "nvt" %}€{% endif %} {{ car.price_per_km | replace: ".", "," }}</p>
                 {% endfor %}
             </div>
 
