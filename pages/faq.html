@@ -8,7 +8,7 @@ permalink: /faq
     <div class="l-wrapper">
         <h1 class="c-heading --large --green u-align-center u-mb+">{{ site.data.faq.heading }}</h1>
 
-        <div class="c-card">
+        <div class="c-card u-markdown">
 
             <div class="s-faq__grid">
                 <div></div>
@@ -19,7 +19,7 @@ permalink: /faq
                 {% for faq in site.data.faq.general_faqs %}
                     <div class="s-faq__grid --with-border">
                         <div class="s-faq__question">{{ faq.question }}</div>
-                        <div class="s-faq__answer">{{ faq.answer | markdownify }}</div>
+                        <div class="s-faq__answer">{{ faq.answer | markdownify | replace: "<a ", "<a target='_blank'" }}</div>
                     </div>
                 {% endfor %}
             </div>
@@ -33,7 +33,7 @@ permalink: /faq
                 {% for faq in site.data.faq.payment_faqs %}
                     <div class="s-faq__grid --with-border">
                         <div class="s-faq__question">{{ faq.question }}</div>
-                        <div class="s-faq__answer">{{ faq.answer | markdownify }}</div>
+                        <div class="s-faq__answer">{{ faq.answer | markdownify | replace: "<a ", "<a target='_blank'" }}</div>
                     </div>
                 {% endfor %}
             </div>
@@ -47,7 +47,7 @@ permalink: /faq
                 {% for faq in site.data.faq.charging_faqs %}
                     <div class="s-faq__grid --with-border">
                         <div class="s-faq__question">{{ faq.question }}</div>
-                        <div class="s-faq__answer">{{ faq.answer | markdownify }}</div>
+                        <div class="s-faq__answer">{{ faq.answer | markdownify | replace: "<a ", "<a target='_blank'" }}</div>
                     </div>
                 {% endfor %}
             </div>
