@@ -211,6 +211,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Per maand", name: "per_month", widget: "string"}
           - {label: "Per uur", name: "per_hour", widget: "string"}
           - {label: "Per dag", name: "per_day", widget: "string"}
+          - {label: "Per km", name: "per_km", widget: "string"}
           - {label: "Lidmaatschap", name: "subscription", widget: "string"}
           - {label: "Lidmaatschapskosten", name: "subscription_costs", widget: "string"}
           - {label: "Details", name: "specs", widget: "markdown"}
