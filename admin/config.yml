@@ -225,12 +225,11 @@ collections: # A list of collections the CMS should be able to edit
     editor:
       preview: false
     files:
-      - name: 'privacy'
-        label: "Privacy"
-        file: "pages/privacy.html"
+      - name: 'about_easydriving'
+        label: "Over EasyDriving"
+        file: "pages/over-easydriving.html"
         fields:
           - { label: "Layout", name: "layout", widget: "hidden" }
-          - { label: "Title", name: "title", widget: "string" }
           - { label: "Title tag (SEO)", name: "title_tag", widget: "string" }
           - { label: "Description tag (SEO)", name: "description_tag", widget: "string" }
           - { label: "Permalink", name: "permalink", widget: "string" }
