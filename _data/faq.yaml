@@ -1,28 +1,76 @@
 heading: FAQ
 general_faqs:
-- question: Hoe reserveer ik een auto?
-  answer: Zodra je je aangemeld hebt bij Easy Driving, kun je de auto via de app reserveren. In de app vul je de gewenste dag en het gewenste tijdstip van reservering in, waarna alle beschikbare auto’s worden weergegeven. De auto kan nu gereserveerd worden. Je betaalt vanaf de aanvang van de reservering.
-- question: Wanneer kan ik de auto reserveren?
-  answer: De auto is 24/7 beschikbaar. Ook ’s nachts kan de auto worden gebruikt omdat sleuteloverdracht niet nodig is. De auto kan zelfs minuten voor aanvang van de reservering nog ingepland worden. Bij herhaaldelijk gebruik van de auto, kun je ook aangeven dat de rit elke dag, week of maand gemaakt wordt. De reservering zal vervolgens herhaaldelijk ingepland worden op dezelfde dag op hetzelfde tijdstip.
-- question: Mag ik naar het buitenland met de auto?
-  answer: Ja, elke deelauto kan gebruikt worden in het buitenland. Vaak zien we dat de Tesla’s worden gebruikt voor ritten naar het buitenland, zoals voor een zakenreis of een vakantie. Zo zijn er verschillende gebruikers die zonder ongemakken naar Italië of Polen op vakantie zijn geweest. Met de Tesla gaat dat gemakkelijk, omdat de accu bij een supercharge punt (verspreid over heel Europa) binnen een uur volledig opgeladen is.
-- question: Is er een limiet op het reserveren van een auto?
-  answer: In principe niet. Echter, wil je langer dan 5 dagen gebruik maken van de deelauto, stuur dan een mail naar info@easy-driving.eu met deze aanvraag.
-- question: Hoe meld ik me aan?
-  answer: Door op de website te klikken op de knop ‘aanmelden’. Vervolgens kun je je gegevens invullen. Binnen een werkdag ontvang je een e-mail van OnzeAuto met daarin een activatielink zodat je de app kunt downloaden en direct een reservering kan aanmaken.
-- question: Aan welke voorwaarden moet ik voldoen om me aan te kunnen melden?
-  answer: Je bent 18 jaar of ouder en beschikt minimaal 1 jaar over een geldig rijbewijs.
-- question: Is er een handleiding?
-  answer: Ja, deze kun je hier downloaden.
+  - answer: >-
+      Zodra je je aangemeld hebt bij Easy Driving, kun je de auto via de app
+      reserveren. In de app vul je de gewenste dag en het gewenste tijdstip van
+      reservering in, waarna alle beschikbare auto’s worden weergegeven. De auto
+      kan nu gereserveerd worden. Je betaalt vanaf de aanvang van de
+      reservering.
+    question: Hoe reserveer ik een auto?
+  - answer: >-
+      De auto is 24/7 beschikbaar. Ook ’s nachts kan de auto worden gebruikt
+      omdat sleuteloverdracht niet nodig is. De auto kan zelfs minuten voor
+      aanvang van de reservering nog ingepland worden. Bij herhaaldelijk gebruik
+      van de auto, kun je ook aangeven dat de rit elke dag, week of maand
+      gemaakt wordt. De reservering zal vervolgens herhaaldelijk ingepland
+      worden op dezelfde dag op hetzelfde tijdstip.
+    question: Wanneer kan ik de auto reserveren?
+  - answer: >-
+      Ja, elke deelauto kan gebruikt worden in het buitenland. Vaak zien we dat
+      de Tesla’s worden gebruikt voor ritten naar het buitenland, zoals voor een
+      zakenreis of een vakantie. Zo zijn er verschillende gebruikers die zonder
+      ongemakken naar Italië of Polen op vakantie zijn geweest. Met de Tesla
+      gaat dat gemakkelijk, omdat de accu bij een supercharge punt (verspreid
+      over heel Europa) binnen een uur volledig opgeladen is.
+    question: Mag ik naar het buitenland met de auto?
+  - answer: >-
+      In principe niet. Echter, wil je langer dan 5 dagen gebruik maken van de
+      deelauto, stuur dan een mail naar info@easy-driving.eu met deze aanvraag.
+    question: Is er een limiet op het reserveren van een auto?
+  - answer: >-
+      Door op de website te klikken op de knop ‘aanmelden’. Vervolgens kun je je
+      gegevens invullen. Binnen een werkdag ontvang je een e-mail van OnzeAuto
+      met daarin een activatielink zodat je de app kunt downloaden en direct een
+      reservering kan aanmaken.
+    question: Hoe meld ik me aan?
+  - answer: >-
+      Je bent 18 jaar of ouder en beschikt minimaal 1 jaar over een geldig
+      rijbewijs.
+    question: Aan welke voorwaarden moet ik voldoen om me aan te kunnen melden?
+  - answer: 'Ja, deze kun je [hier](/uploads/sy-driving-30.01.2019-1-.pdf) downloaden.'
+    question: Is er een handleiding?
 payment_faqs:
-- question: Wat kost de auto?
-  answer: Er gelden verschillende tarieven per auto. Er wordt onderscheid gemaakt tussen een uur- en dagtarief. Je kunt dus per uur betalen, ook per dag. Het dagtarief is op basis van 24 uur. Hierbij geldt dat er maximaal voor tien uren betaald wordt als de auto een volledige dag gereserveerd wordt. Daarnaast geldt een tarief voor de stroom die gebruikt wordt. Voor een uitgebreid overzicht klik je hier.
-- question: Wat is (niet) inbegrepen?
-  answer: De tarieven zijn all-in. Dat houdt in dat er geen additionele kosten voor verzekering, belasting, onderhoud, reparaties en afschrijvingen zijn. Ook zijn er geen borgkosten. Tot 200 gereden kilometers per dag, zijn er geen additionele kosten. Daarboven vragen wij een vergoeding van € 0,20 per gereden kilometer. In geval van schade geldt een eigen risico van € 250 (Nissan Leaf en Hyundai Kona) of € 750 (Tesla modellen) per schadegeval. Verder geldt dat gebruikers die de auto tijdens de rit willen opladen bij een (fastned) laadpunt, een eigen laadpas dienen aan te schaffen om in deze kosten te voorzien.
-- question: Hoe betaal ik?
-  answer: Aan het einde van de maand ontvang je een factuur van de ritten die gemaakt zijn. Je kunt ook kiezen voor een automatische incasso.
+  - answer: >-
+      Er gelden verschillende tarieven per auto. Er wordt onderscheid gemaakt
+      tussen een uur- en dagtarief. Je kunt dus per uur betalen, ook per dag.
+      Het dagtarief is op basis van 24 uur. Hierbij geldt dat er maximaal voor
+      tien uren betaald wordt als de auto een volledige dag gereserveerd wordt.
+      Daarnaast geldt een tarief voor de stroom die gebruikt wordt. Voor een
+      uitgebreid overzicht klik je hier.
+    question: Wat kost de auto?
+  - answer: >-
+      De tarieven zijn all-in. Dat houdt in dat er geen additionele kosten voor
+      verzekering, belasting, onderhoud, reparaties en afschrijvingen zijn. Ook
+      zijn er geen borgkosten. Tot 200 gereden kilometers per dag, zijn er geen
+      additionele kosten. Daarboven vragen wij een vergoeding van € 0,20 per
+      gereden kilometer. In geval van schade geldt een eigen risico van € 250
+      (Nissan Leaf en Hyundai Kona) of € 750 (Tesla modellen) per schadegeval.
+      Verder geldt dat gebruikers die de auto tijdens de rit willen opladen bij
+      een (fastned) laadpunt, een eigen laadpas dienen aan te schaffen om in
+      deze kosten te voorzien.
+    question: Wat is (niet) inbegrepen?
+  - answer: >-
+      Aan het einde van de maand ontvang je een factuur van de ritten die
+      gemaakt zijn. Je kunt ook kiezen voor een automatische incasso.
+    question: Hoe betaal ik?
 charging_faqs:
-- question: Hoe moet ik opladen?
-  answer: Een handleiding voor het opladen van de auto of het loskoppelen van de laadkabel, vind je hier.
-- question: Moet de auto opgeladen worden ingeleverd?
-  answer: Nee. De accu van de auto mag (bijna) leeg ingeleverd worden. De auto dient bij terugkomst wel ten alle tijden opgeladen te worden. Een handleiding van het opladen van de auto of het loskoppelen van de laadkabel, vind je hier.
+  - answer: >-
+      Een handleiding voor het opladen van de auto of het loskoppelen van de
+      laadkabel, vind je hier.
+    question: Hoe moet ik opladen?
+  - answer: >-
+      Nee. De accu van de auto mag (bijna) leeg ingeleverd worden. De auto dient
+      bij terugkomst wel ten alle tijden opgeladen te worden. Een handleiding
+      van het opladen van de auto of het loskoppelen van de laadkabel, vind je
+      hier.
+    question: Moet de auto opgeladen worden ingeleverd?
