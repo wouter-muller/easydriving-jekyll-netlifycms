@@ -29,7 +29,7 @@ general_faqs:
     question: Is er een limiet op het reserveren van een auto?
   - answer: >-
       Door op de website te klikken op de knop ‘aanmelden’. Vervolgens kun je je
-      gegevens invullen. Binnen een werkdag ontvang je een e-mail van OnzeAuto
+      gegevens invullen. Binnen één werkdag ontvang je een e-mail van OnzeAuto
       met daarin een activatielink zodat je de app kunt downloaden en direct een
       reservering kan aanmaken.
     question: Hoe meld ik me aan?
@@ -42,22 +42,27 @@ general_faqs:
 payment_faqs:
   - answer: >-
       Er gelden verschillende tarieven per auto. Er wordt onderscheid gemaakt
-      tussen een uur- en dagtarief. Je kunt dus per uur betalen, ook per dag.
-      Het dagtarief is op basis van 24 uur. Hierbij geldt dat er maximaal voor
-      tien uren betaald wordt als de auto een volledige dag gereserveerd wordt.
-      Daarnaast geldt een tarief voor de stroom die gebruikt wordt. Voor een
-      uitgebreid overzicht klik je [hier](/tarieven).
+      tussen een uur- en dagtarief. Je kunt dus per uur betalen, maar ook per
+      dag. Het dagtarief is op basis van 24 uur. Hierbij geldt dat er maximaal
+      voor tien uren betaald wordt als de auto een volledige dag gereserveerd
+      wordt. Daarnaast geldt een tarief voor de stroom die gebruikt wordt. Voor
+      een uitgebreid overzicht klik je [hier](/tarieven).
     question: Wat kost de auto?
   - answer: >-
-      De tarieven zijn all-in. Dat houdt in dat er geen additionele kosten voor
+      De uurtarieven zijn all-in. Dat houdt in dat er geen extra kosten voor
       verzekering, belasting, onderhoud, reparaties en afschrijvingen zijn. Ook
-      zijn er geen borgkosten. Tot 200 gereden kilometers per dag, zijn er geen
-      additionele kosten. Daarboven vragen wij een vergoeding van € 0,20 per
-      gereden kilometer. In geval van schade geldt een eigen risico van € 250
-      (Nissan Leaf en Hyundai Kona) of € 750 (Tesla modellen) per schadegeval.
-      Verder geldt dat gebruikers die de auto tijdens de rit willen opladen bij
-      een (fastned) laadpunt, een eigen laadpas dienen aan te schaffen om in
-      deze kosten te voorzien.
+      zijn er geen borgkosten. Om de stroomkosten te dekken, vragen we € 0,05
+      per gereden kilometer.\
+
+      Verder vragen we voor elke extra gereden kilometer boven de 200 kilometer
+      per dag, een vergoeding van € 0,20 per (extra) gereden kilometer. De
+      eerste 200 kilometer worden deze extra kosten dus niet berekend.\
+
+      In geval van schade geldt een eigen risico van € 250 (Nissan Leaf en
+      Hyundai Kona) of € 750 (Tesla modellen) per schadegeval. Verder geldt dat
+      gebruikers die de auto tijdens de rit willen opladen bij een (fastned)
+      laadpunt, een eigen laadpas dienen aan te schaffen om in deze kosten te
+      voorzien.
     question: Wat is (niet) inbegrepen?
   - answer: >-
       Aan het einde van de maand ontvang je een factuur van de ritten die
