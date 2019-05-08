@@ -26,9 +26,9 @@ collections: # A list of collections the CMS should be able to edit
         file: "/_data/settings.yaml"
         fields:
           - {label: "Postcodes waarin EasyDriving beschikbaar is (spatie tussen de 4-cijferige postcodes)", name: "active_postal_codes", widget: "text"}
-          - {label: "Facebook profile link", name: "facebook_url:", widget: "string"}
-          - {label: "Twitter profile link", name: "twitter_url:", widget: "string"}
-          - {label: "LinkedIn profile link", name: "linkedin_url:", widget: "string"}
+          - {label: "Facebook profile link", name: "facebook_url", widget: "string"}
+          - {label: "Twitter profile link", name: "twitter_url", widget: "string"}
+          - {label: "LinkedIn profile link", name: "linkedin_url", widget: "string"}
       - name: "cars"
         label: "Auto's"
         file: "/_data/cars.yaml"
