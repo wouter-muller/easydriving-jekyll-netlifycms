@@ -24,3 +24,9 @@ car_locations:
   - address: 'Friesestraatweg 13, Aduard'
     lat: '53.249208'
     long: '6.451608'
+  - address: 'Hoofdstraat 148, Midwolde'
+    lat: '53.185110'
+    long: '6.394275'
+  - address: Hoofdstraat 148
+    lat: '53.185110'
+    long: '6.394275'
