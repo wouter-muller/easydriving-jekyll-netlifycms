@@ -284,7 +284,7 @@ collections: # A list of collections the CMS should be able to edit
       - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
       - { label: "Titel", name: "title", widget: "string" }
       - { label: "Datum", name: "friendly_date", widget: "string" }
-      - { label: "URL", name: "permalink", widget: "string" }
+      - { label: "URL (moet met /nieuws/ beginnen, niet met https://easydriving.eu)", name: "permalink", widget: "string" }
       - { label: "Categorie", name: "category", widget: "string" }
       - { label: "Inhoud", name: "body", widget: "markdown" }
   # FOOTER
