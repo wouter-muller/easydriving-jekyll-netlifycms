@@ -27,7 +27,7 @@ car_locations:
   - address: 'Hoofdstraat 148, Midwolde'
     lat: '53.185110'
     long: '6.394275'
-  - address: Hoofdstraat 148
+  - address: 'Hoofdstraat 148, Midwolde'
     lat: '53.185110'
     long: '6.394275'
   - address: Hoofdstraat 125. Midwolde
