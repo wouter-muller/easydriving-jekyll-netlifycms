@@ -3,9 +3,15 @@ facebook_url: 'https://www.facebook.com/Easy-Driving-585926995247444/'
 twitter_url: 'https://twitter.com/EasyDrivingNL'
 linkedin_url: 'https://www.linkedin.com/company/easy-drivingeu/about/'
 car_locations:
-  - address: Oude Merenweg 10, Meerstad
+  - address: 'Oude Merenweg 10, Meerstad'
     lat: 53.226734
-    long: 6.648060
-  - address: Talingeneiland 15, Meerstad
+    long: 6.64806
+  - address: 'Talingeneiland 15, Meerstad'
     lat: 53.226371
     long: 6.651594
+  - address: 'Fivelweg 49, Zijldijk'
+    lat: '53.382367'
+    long: '6.769441'
+  - address: 'Borgweg 7, Zeerijp'
+    lat: '53.346545'
+    long: '6.756223'
