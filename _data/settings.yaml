@@ -33,3 +33,6 @@ car_locations:
   - address: Hoofdstraat 125. Midwolde
     lat: ' 53.180197'
     long: '6.391128'
+  - address: 'Wierdeweg 14, Leermens'
+    lat: '53.345523'
+    long: '6.797982'
