@@ -8,9 +8,7 @@ permalink: >-
   /nieuws/de-vierde-deelauto-in-samenwerking-met-energiecoöperatie-zonnedorpen-gerealiseerd
 category: Persbericht
 ---
-Onze nauwe samenwerking met energiecoöperatie Zonnedorpen levert mooie resultaten op. Vanaf nu zijn er in 't Zandt, Zijldijk, Zeerijp en Leermens deel
-
-auto's van EasyDriving te reserveren en gebruiken. In elk van deze dorpen staat een Nissan Leaf in verschillende kleuren.
+Onze nauwe samenwerking met energiecoöperatie Zonnedorpen levert mooie resultaten op. Vanaf nu zijn er in 't Zandt, Zijldijk, Zeerijp en Leermens deelauto's van EasyDriving te reserveren en gebruiken. In elk van deze dorpen staat een Nissan Leaf in verschillende kleuren.
 
 Vanaf het begin van EasyDriving is energiecoöperatie Zonnedorpen al betrokken bij de ontwikkelingen en activiteiten van EasyDriving. Vanuit veel enthousiasme zijn zo onze eerste deelinitiatieven van de grond gekomen. 
 
