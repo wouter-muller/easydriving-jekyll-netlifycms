@@ -29,6 +29,14 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Facebook profile link", name: "facebook_url", widget: "string"}
           - {label: "Twitter profile link", name: "twitter_url", widget: "string"}
           - {label: "LinkedIn profile link", name: "linkedin_url", widget: "string"}
+          - label: "Laadpaal locaties"
+            name: "car_locations"
+            create: true
+            widget: list
+            fields:
+              - { label: "Adres", name: "address", widget: "string" }
+              - { label: "Lat", name: "lat", widget: "string" }
+              - { label: "Long", name: "long", widget: "string" }
       - name: "cars"
         label: "Auto's"
         file: "/_data/cars.yaml"
