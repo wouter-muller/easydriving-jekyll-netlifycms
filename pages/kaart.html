@@ -10,7 +10,7 @@ permalink: /kaart
         <h2 class="c-heading --large --green u-align-center u-mb+">Waar staan de deelauto's?</h2>
     </div>
 
-    <div id="map" style="width: 100%; height: 400px; background-color: grey"></div>
+    <div id="map" style="width: 100%; height: 500px; background-color: grey"></div>
 </div>
 
 <script>
@@ -22,7 +22,7 @@ permalink: /kaart
         {% endfor %}
       ];
     var map = new google.maps.Map(document.getElementById('map'), {
-        zoom: 11,
+        zoom: 10,
         center: center
       });
     var infowindow =  new google.maps.InfoWindow({});
