@@ -9,6 +9,9 @@
 - text: Onze auto's
   url: /onze-autos
   include_in_desktop_header: true
+- text: Kaart
+  url: /kaart
+  include_in_desktop_header: false
 - text: Tarieven
   url: /tarieven
   include_in_desktop_header: true

@@ -4,7 +4,7 @@ Vue.component('availability-widget', {
             <div class="s-availability">
                 <div class="l-wrapper u-align-center">
                 <h2 class="c-heading --large --green u-mb+">{{ this.heading }}</h2>
-                    <div v-if="result === 'unknown'">
+                    <div v-if="result === 'unknown'" class="u-mb+">
                         <label class="c-label u-mb-">{{ this.formQuestion }}</label>
                         <input type="text" class="s-availability__postal-code-input c-input" v-model="postalCode">
                         <button
@@ -12,7 +12,7 @@ Vue.component('availability-widget', {
                             @click="checkPostalCode"
                         >{{ this.formSubmitText }}</button>
                     </div>
-                    <div v-if="result === 'negative'">
+                    <div v-if="result === 'negative'" class="u-mb+">
                         <p class="c-paragraph u-mb">{{ this.negativeResultText }}</p>
 
                         <form
@@ -30,10 +30,13 @@ Vue.component('availability-widget', {
                         </form>
 
                     </div>
-                    <div v-if="result === 'positive'">
+                    <div v-if="result === 'positive'" class="u-mb+">
                         <p class="c-paragraph u-mb">{{ this.positiveResultText }}</p>
                         <button class="c-button --cta" @click="$root.signUpModalVisible = true">{{ this.positiveResultButtonText }}</button>
                     </div>
+
+                    <a href="/kaart" class="c-button --border">Kijk op een kaart waar alle deelauto's staan</a>
+
                 </div>
             </div>
         </div>
