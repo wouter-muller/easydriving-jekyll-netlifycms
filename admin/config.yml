@@ -205,6 +205,10 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Sub heading", name: "sub_heading", widget: "string"}
           - {label: "Intro tekst", name: "intro_text", widget: "markdown"}
           - {label: "Button naar tarieven pagina tekst", name: "button_text", widget: "string"}
+          - {label: "Kaart heading", name: "map_heading", widget: "string"}
+          - {label: "Tekst boven kaart", name: "map_text_above_map", widget: "text"}
+          - {label: "Heading onder kaart", name: "map_heading_below_map", widget: "string"}
+          - {label: "Tekst onder kaart", name: "map_text_below_map", widget: "text"}
   # ONZE AUTO's PAGE
   - name: "rates_page"
     label: "Tarieven (pagina)"
