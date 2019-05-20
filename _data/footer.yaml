@@ -10,7 +10,12 @@ company_address: |-
 
   0594 580 601\
   info@easy-driving.eu
-copyright_notice: © 2019 EasyDriving - Alle rechten voorbehouden
+copyright_notice: >-
+  Website ontworpen en gebouwd door
+  [meerstadwebsites.nl](https://meerstadwebsites.nl)
+
+
+  © 2019 EasyDriving - Alle rechten voorbehouden
 newsletter_heading: Nieuwsbrief
 newsletter_description: Blijf op de hoogte van het laatste nieuws!
 newsletter_input_placeholder: Vul je e-mail adres in
