@@ -1,8 +1,8 @@
 <div class="s-map">
     <div class="l-wrapper">
         <h2 class="c-heading --large --green u-align-center u-mb">{{ site.data.map.map_heading }}</h2>
-        <div class="u-align-center u-mb+">
-            <p class="c-paragraph u-mb+">{{ site.data.map.map_text_above_map }}</p>
+        <div class="u-align-center u-mb+ u-markdown">
+            {{ site.data.map.map_text_above_map | markdownify | replace: "<p>", "<p class='c-paragraph u-mb'>" }}
         </div>
     </div>
 
@@ -11,7 +11,9 @@
     <div class="l-wrapper">
         <div class="u-align-center">
             <h2 class="c-heading --medium u-mb">{{ site.data.map.map_heading_below_map }}</h2>
-            <p class="c-paragraph">{{ site.data.map.map_text_below_map }}</p>
+            <div class="u-markdown">
+                {{ site.data.map.map_text_below_map | markdownify | replace: "<p>", "<p class='c-paragraph u-mb'>" }}
+              </div>
         </div>
     </div>
 </div>
