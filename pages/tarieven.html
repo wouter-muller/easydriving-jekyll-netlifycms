@@ -49,25 +49,48 @@ permalink: /tarieven
 <div class="s-ride-tool">
     <div class="l-wrapper">
         <h2 class="c-heading --large --green u-align-center u-mb+">{{ site.data.rates_page.ride_costs_tool_heading }}</h2>
-        {% for car in site.data.cars.cars limit:1 %}
-            <ride-tool :price-per-km-prop="{{ car.price_per_km }}" :price-per-hour-prop="{{ car.price_per_hour }}">
-                <input
-                    class="s-ride-tool__radio"
-                    type="radio"
-                    name="car"
-                    id="{{ car.title | replace: " ", "" }}"
-                    value="{{ car.title | replace: " ", "" }}"
-                    {% if car.id == 1 %} checked {% endif %}
-                >
-                <label
-                    class="s-ride-tool__radio-label"
-                    for="{{ car.title | replace: " ", "" }}"
-                >
-                    <img src="{{ car.image }}">
-                    {{ car.title }}
-                </label>
-            </ride-tool>
-        {% endfor %}
+        <div class="u-mb+">
+            {% for car in site.data.cars.cars limit:1 %}
+                <ride-tool :price-per-km-prop="{{ car.price_per_km }}" :price-per-hour-prop="{{ car.price_per_hour }}">
+                    <input
+                        class="s-ride-tool__radio"
+                        type="radio"
+                        name="car"
+                        id="{{ car.title | replace: " ", "" }}"
+                        value="{{ car.title | replace: " ", "" }}"
+                        {% if car.id == 1 %} checked {% endif %}
+                    >
+                    <label
+                        class="s-ride-tool__radio-label"
+                        for="{{ car.title | replace: " ", "" }}"
+                    >
+                        <img src="{{ car.image }}">
+                        {{ car.title }}
+                    </label>
+                </ride-tool>
+            {% endfor %}
+        </div>
+        <div>
+            {% for car in site.data.cars.cars limit:1 offset:1 %}
+                <ride-tool :price-per-km-prop="{{ car.price_per_km }}" :price-per-hour-prop="{{ car.price_per_hour }}">
+                    <input
+                        class="s-ride-tool__radio"
+                        type="radio"
+                        name="car"
+                        id="{{ car.title | replace: " ", "" }}"
+                        value="{{ car.title | replace: " ", "" }}"
+                        {% if car.id == 2 %} checked {% endif %}
+                    >
+                    <label
+                        class="s-ride-tool__radio-label"
+                        for="{{ car.title | replace: " ", "" }}"
+                    >
+                        <img src="{{ car.image }}">
+                        {{ car.title }}
+                    </label>
+                </ride-tool>
+            {% endfor %}
+        </div>
     </div>
 </div>
 
