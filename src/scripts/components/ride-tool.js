@@ -38,7 +38,7 @@ Vue.component('ride-tool', {
         return {
             price: 0,
             hours: 1,
-            distance: 10,
+            distance: 0,
             pricePerKm: 0,
             pricePerHour: 0
         }
