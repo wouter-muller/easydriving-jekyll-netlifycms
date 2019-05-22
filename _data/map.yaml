@@ -1,7 +1,23 @@
 map_heading: Waar staan de deelauto's?
-map_text_above_map: Hieronder staan alle locaties waar op dit moment deelauto initiatieven zijn gestart. Als je abonnee van EasyDriving bent, kun je een van deze deelauto´s reserveren en gebruiken. Deze eerste deelinitiatieven zijn met succes gestart en we zijn volop bezig om nieuwe initiatieven van de grond te krijgen!
+map_text_above_map: >-
+  Hieronder staan alle locaties waar op dit moment deelauto initiatieven zijn
+  gestart. Als je abonnee van EasyDriving bent, kun je een van deze deelauto´s
+  reserveren en gebruiken. Deze eerste deelinitiatieven zijn met succes gestart
+  en we zijn volop bezig om nieuwe initiatieven van de grond te krijgen!
 map_heading_below_map: Bij jou in de buurt nog geen deelauto?
-map_text_below_map: Als je interesse hebt, stuur dan een e-mail naar info@easy-driving.eu. Als er voldoende interesse is, dan willen wij kijken naar de mogelijkheden om één of meerdere deelauto´s te plaatsen bij jou in de buurt! Op die manier willen wij elke groep geïnteresseerden voorzien van onze duurzame en voordelige deelauto´s.
+map_text_below_map: >-
+  Zodra er voldoende belangstelling in dezelfde omgeving is, kunnen wij er
+  mogelijk voor zorgen dat er elektrische auto’s komen te staan bij jou in de
+  buurt. In het kort betekent dit dat wij elke groep geïnteresseerden voor een
+  elektrische deelauto serieus willen nemen door te kijken naar de mogelijkheden
+  voor een succesvol lokaal deelauto initiatief. Dit kunnen geïnteresseerden uit
+  dezelfde woonwijk, hetzelfde dorp of dezelfde straat zijn, maar dit kan ook
+  een groep ondernemers uit een bedrijfsverzamelgebouw of een groep ambtenaren
+  van een gemeente zijn. Lijkt het jou dus wat om elektrische auto’s te delen
+  met je buren of collega’s? Vraag eens rond in je omgeving en mogelijk gaan wij
+  dan met jullie aan de slag om een deelauto initiatief vorm te geven! De
+  deelauto’s plaatsen wij geheel kosteloos - je betaalt dus echt alleen voor
+  gebruik. Mail of bel ons voor de mogelijkheden op maat.
 zoom_level: 9
 car_locations:
   - address: 'Oude Merenweg 10, Meerstad'
