@@ -1,8 +1,8 @@
 <div class="s-map">
     <div class="l-wrapper">
-        <h2 class="c-heading --large --green u-align-center u-mb">{{ site.data.our_cars_page.map_heading }}</h2>
+        <h2 class="c-heading --large --green u-align-center u-mb">{{ site.data.map.map_heading }}</h2>
         <div class="u-align-center u-mb+">
-            <p class="c-paragraph u-mb+">{{ site.data.our_cars_page.map_text_above_map }}</p>
+            <p class="c-paragraph u-mb+">{{ site.data.map.map_text_above_map }}</p>
         </div>
     </div>
 
@@ -10,8 +10,8 @@
 
     <div class="l-wrapper">
         <div class="u-align-center">
-            <h2 class="c-heading --medium u-mb">{{ site.data.our_cars_page.map_heading_below_map }}</h2>
-            <p class="c-paragraph">{{ site.data.our_cars_page.map_text_below_map }}</p>
+            <h2 class="c-heading --medium u-mb">{{ site.data.map.map_heading_below_map }}</h2>
+            <p class="c-paragraph">{{ site.data.map.map_text_below_map }}</p>
         </div>
     </div>
 </div>
@@ -20,13 +20,13 @@
     function initMap() {
       var center = {lat: 53.300221, lng: 6.603473};
       var locations = [
-        {% for location in site.data.settings.car_locations %}
+        {% for location in site.data.map.car_locations %}
             ['{{location.address}}', {{location.lat}}, {{location.long}}],
         {% endfor %}
       ];
     var map = new google.maps.Map(document.getElementById('map'), {
 
-        zoom: {{ site.data.our_cars_page.zoom_level }},
+        zoom: {{ site.data.map.zoom_level }},
         center: center
       });
     var infowindow =  new google.maps.InfoWindow({});

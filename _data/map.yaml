@@ -1,0 +1,39 @@
+map_heading: Waar staan de deelauto's?
+map_text_above_map: Hieronder staan alle locaties waar op dit moment deelauto initiatieven zijn gestart. Als je abonnee van EasyDriving bent, kun je een van deze deelauto´s reserveren en gebruiken. Deze eerste deelinitiatieven zijn met succes gestart en we zijn volop bezig om nieuwe initiatieven van de grond te krijgen!
+map_heading_below_map: Bij jou in de buurt nog geen deelauto?
+map_text_below_map: Als je interesse hebt, stuur dan een e-mail naar info@easy-driving.eu. Als er voldoende interesse is, dan willen wij kijken naar de mogelijkheden om één of meerdere deelauto´s te plaatsen bij jou in de buurt! Op die manier willen wij elke groep geïnteresseerden voorzien van onze duurzame en voordelige deelauto´s.
+zoom_level: 9
+car_locations:
+  - address: 'Oude Merenweg 10, Meerstad'
+    lat: 53.226734
+    long: 6.64806
+  - address: 'Talingeneiland 15, Meerstad'
+    lat: 53.226371
+    long: 6.651594
+  - address: 'Fivelweg 49, Zijldijk'
+    lat: '53.382367'
+    long: '6.769441'
+  - address: 'Borgweg 7, Zeerijp'
+    lat: '53.346545'
+    long: '6.756223'
+  - address: 'Hoofdstraat 85, ´t Zandt'
+    lat: '53.366100'
+    long: '6.774280'
+  - address: 'Hunzeweg 53, Garnwerd'
+    lat: '53.303012'
+    long: '6.493964'
+  - address: 'Friesestraatweg 13, Aduard'
+    lat: '53.249208'
+    long: '6.451608'
+  - address: 'Hoofdstraat 148, Midwolde'
+    lat: '53.185110'
+    long: '6.394275'
+  - address: 'Hoofdstraat 125, Midwolde'
+    lat: ' 53.180197'
+    long: '6.391128'
+  - address: 'Wierdeweg 3, Leermens'
+    lat: '53.345523'
+    long: '6.797982'
+  - address: 'Dekemawei 11, Baard'
+    lat: '53.143820'
+    long: '5.665640'
