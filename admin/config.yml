@@ -210,9 +210,9 @@ collections: # A list of collections the CMS should be able to edit
         file: "/_data/map.yaml"
         fields:
           - {label: "Kaart heading", name: "map_heading", widget: "string"}
-          - {label: "Tekst boven kaart", name: "map_text_above_map", widget: "text"}
+          - {label: "Tekst boven kaart", name: "map_text_above_map", widget: "markdown"}
           - {label: "Heading onder kaart", name: "map_heading_below_map", widget: "string"}
-          - {label: "Tekst onder kaart", name: "map_text_below_map", widget: "text"}
+          - {label: "Tekst onder kaart", name: "map_text_below_map", widget: "markdown"}
           - {label: "Zoomlevel", name: "zoom_level", widget: "string"}
           - label: "Deelauto locaties"
             name: "car_locations"
