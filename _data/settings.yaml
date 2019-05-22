@@ -33,3 +33,6 @@ car_locations:
   - address: 'Wierdeweg 3, Leermens'
     lat: '53.345523'
     long: '6.797982'
+  - address: 'Dekemawei 11, Baard'
+    lat: '53.143820'
+    long: '5.665640'
