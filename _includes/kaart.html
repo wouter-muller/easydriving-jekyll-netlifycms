@@ -20,7 +20,7 @@
 
 <script>
     function initMap() {
-      var center = {lat: 53.300221, lng: 6.603473};
+      var center = {lat: 53.249208, lng: 6.451608};
       var locations = [
         {% for location in site.data.map.car_locations %}
             ['{{location.address}}', {{location.lat}}, {{location.long}}],
