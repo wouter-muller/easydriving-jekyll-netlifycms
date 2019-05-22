@@ -209,6 +209,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Tekst boven kaart", name: "map_text_above_map", widget: "text"}
           - {label: "Heading onder kaart", name: "map_heading_below_map", widget: "string"}
           - {label: "Tekst onder kaart", name: "map_text_below_map", widget: "text"}
+          - {label: "Zoomlevel", name: "zoom_level", widget: "string"}
   # ONZE AUTO's PAGE
   - name: "rates_page"
     label: "Tarieven (pagina)"
