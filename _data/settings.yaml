@@ -1,38 +1,4 @@
-active_postal_codes: 9355 9356 9987 9915 9613 9914 9912
+active_postal_codes: 9355 9356 9987 9915 9613 9914 9912 8834
 facebook_url: 'https://www.facebook.com/Easy-Driving-585926995247444/'
 twitter_url: 'https://twitter.com/EasyDrivingNL'
 linkedin_url: 'https://www.linkedin.com/company/easy-drivingeu/about/'
-car_locations:
-  - address: 'Oude Merenweg 10, Meerstad'
-    lat: 53.226734
-    long: 6.64806
-  - address: 'Talingeneiland 15, Meerstad'
-    lat: 53.226371
-    long: 6.651594
-  - address: 'Fivelweg 49, Zijldijk'
-    lat: '53.382367'
-    long: '6.769441'
-  - address: 'Borgweg 7, Zeerijp'
-    lat: '53.346545'
-    long: '6.756223'
-  - address: 'Hoofdstraat 85, ´t Zandt'
-    lat: '53.366100'
-    long: '6.774280'
-  - address: 'Hunzeweg 53, Garnwerd'
-    lat: '53.303012'
-    long: '6.493964'
-  - address: 'Friesestraatweg 13, Aduard'
-    lat: '53.249208'
-    long: '6.451608'
-  - address: 'Hoofdstraat 148, Midwolde'
-    lat: '53.185110'
-    long: '6.394275'
-  - address: 'Hoofdstraat 125, Midwolde'
-    lat: ' 53.180197'
-    long: '6.391128'
-  - address: 'Wierdeweg 3, Leermens'
-    lat: '53.345523'
-    long: '6.797982'
-  - address: 'Dekemawei 11, Baard'
-    lat: '53.143820'
-    long: '5.665640'
