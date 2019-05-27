@@ -18,7 +18,6 @@
         top: 0
 
     &__input-wrapper
-        padding-top: 12px
         margin-bottom: 10px
 
     &__label
@@ -26,28 +25,17 @@
         font-size: 16px
         color: $brand-color
         display: inline-block
-        transition: transform 0.2s ease-in
-        transform: translate(0, -30px)
         cursor: text
-        position: absolute
+        margin-bottom: 3px
 
     &__input
         border: 0
-        border-bottom: 1px solid rgba(black, 0.5)
         width: 100%
         height: 40px
         font-size: 20px
         color: $slightly-muted-text-color
-
-        &:focus
-            outline: none
-            border-color: $brand-color
-            border-width: 2px
-
-        &:valid + label,
-        &:focus + label
-            transform: translate(0, -53px)
-            font-size: 14px
+        background-color: #f4f4f4
+        padding: 0 10px
 
     &__overlay
         background-color: rgba(black, 0.5)
