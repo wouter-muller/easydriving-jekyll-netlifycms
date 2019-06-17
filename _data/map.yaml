@@ -56,3 +56,6 @@ car_locations:
   - address: 'Dekemawei 11, Baard'
     lat: '53.143820'
     long: '5.665640'
+  - address: 'Hoofdweg 195, Harkstede'
+    lat: '53.220640'
+    long: '6.648420'
