@@ -59,3 +59,6 @@ car_locations:
   - address: 'Hoofdweg 195, Harkstede'
     lat: '53.220640'
     long: '6.648420'
+  - address: 'Borgdomein 4, Leek'
+    lat: '53.156480'
+    long: '6.373800'
