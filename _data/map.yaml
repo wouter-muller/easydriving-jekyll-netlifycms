@@ -62,3 +62,6 @@ car_locations:
   - address: 'Borgdomein 4, Leek'
     lat: '53.156480'
     long: '6.373800'
+  - address: 'Havenplein 2, Harlingen'
+    lat: '53.174880'
+    long: '5.411990'
