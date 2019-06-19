@@ -9,7 +9,9 @@
     <button class="s-sign-up__close" @click="signUpModalVisible = false">
         <img src="{{ site.image_path }}/icons/close.svg">
     </button>
-    <h1 class="c-heading --large --green u-align-center u-mb">Aanmelden</h1>
+    <h1 class="c-heading --large --green u-mb+">{{ site.data.sign_up_modal.heading }}</h1>
+
+    <p class="c-paragraph u-mb">{{ site.data.sign_up_modal.intro-text }}</p>
 
     <div class="js-sign-up-form">
         <form
@@ -19,72 +21,46 @@
             data-netlify="true"
             method="post"
         >
-            <div class="s-sign-up__input-wrapper">
-                <label for="naam" class="s-sign-up__label">Naam</label>
-                <input
-                    type="text"
-                    class="s-sign-up__input"
-                    name="naam"
-                    id="naam"
-                    required
-                >
-            </div>
-            <div class="s-sign-up__input-wrapper">
-                <label class="s-sign-up__label" for="adres">Straat/huisnr.</label>
-                <input type="text" class="s-sign-up__input" name="adres" id="adres" required
-                >
-            </div>
-
             <div class="l-flex">
                 <div class="s-sign-up__input-wrapper">
-                    <label class="s-sign-up__label" for="postcode">Postcode</label>
-                    <input type="text" class="s-sign-up__input" name="postcode" id="postcode" required
+                    <label for="voornaam" class="s-sign-up__label">voornaam</label>
+                    <input
+                        type="text"
+                        class="s-sign-up__input"
+                        name="voornaam"
+                        id="voornaam"
+                        required
                     >
                 </div>
                 <div class="s-sign-up__input-wrapper">
-                    <label class="s-sign-up__label" for="plaats">Woonplaats</label>
-                    <input type="text" class="s-sign-up__input" name="plaats" id="plaats" required
+                    <label for="achternaam" class="s-sign-up__label">achternaam</label>
+                    <input
+                        type="text"
+                        class="s-sign-up__input"
+                        name="achternaam"
+                        id="achternaam"
+                        required
                     >
                 </div>
             </div>
 
             <div class="s-sign-up__input-wrapper">
-                <label for="email-adres" class="s-sign-up__label">E-mail adres</label>
+                <label for="email-adres" class="s-sign-up__label">E-mailadres</label>
                 <input type="text" class="s-sign-up__input" name="email-adres" id="email-adres" required
                 >
-            </div>
-            <div class="s-sign-up__input-wrapper">
-                <label for="telefoonnummer" class="s-sign-up__label">Telefoonnummer</label>
-                <input type="text" class="s-sign-up__input" name="telefoonnummer" id="telefoonnummer" required
-                >
-            </div>
-            <div class="s-sign-up__input-wrapper">
-                <label class="s-sign-up__label" for="geboortedatum">Geboortedatum (dd-mm-jjjj)</label>
-                <input type="text" class="s-sign-up__input" name="geboortedatum" id="geboortedatum" required
-                >
-            </div>
-            <div class="s-sign-up__input-wrapper u-mb">
-                <label class="s-sign-up__label" for="rijbewijsnummer">Rijbewijs nummer</label>
-                <input type="text" class="s-sign-up__input" name="rijbewijsnummer" id="rijbewijsnummer" required
-                >
-            </div>
-
-            <div class="c-checkbox u-mb">
-              <input type="checkbox" id="agrees" name="agrees" required>
-              <label for="agrees">Ik ga akkoord met de <a class="c-link --green" href="/voorwaarden" target="_blank">Voorwaarden</a> (opent in een nieuwe tab)</label>
             </div>
 
             <div class="c-checkbox u-mb">
               <input type="checkbox" id="nieuwsbrief-opt-in" name="nieuwsbrief-opt-in">
-              <label for="nieuwsbrief-opt-in">Ja, stuur mij ook de nieuwsbrief</label>
+              <label for="nieuwsbrief-opt-in">{{ site.data.sign_up_modal.newsletter }}</label>
             </div>
 
-            <button type="submit" class="c-button --full-width --cta js-sign-up-submit">Aanmelden</button>
+            <button type="submit" class="c-button --full-width --cta js-sign-up-submit">{{ site.data.sign_up_modal.button-text }}</button>
         </form>
     </div>
     <div class="s-sign-up__success js-sign-up-success" style="display: none">
-        <p class="c-paragraph u-mb"><b>Bedankt voor je aanmelding!</b></p>
-        <p class="c-paragraph">Je ontvangt binnen één werkdag een mail met een uitnodiging om onze app te downloaden. Daarna kun je direct de eerste rit reserveren en in de deelauto rijden!</p>
+        <p class="c-paragraph u-mb"><b>{{ site.data.sign_up_modal.thankyou-heading }}</b></p>
+        <p class="c-paragraph">{{ site.data.sign_up_modal.thankyou-text }}</p>
     </div>
 
 </div>

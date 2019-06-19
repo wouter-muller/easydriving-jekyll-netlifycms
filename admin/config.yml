@@ -147,6 +147,22 @@ collections: # A list of collections the CMS should be able to edit
           - { label: "E-mail adres", name: "email_address", widget: "string" }
           - { label: "Geen beschikbaarheid button text", name: "negative_form_button_text", widget: "string" }
           - { label: "Wel beschikbaarheid text", name: "positive_result_text", widget: "markdown" }
+  # SIGN UP MODAL
+  - name: "sign_up_modal"
+    label: "Aanmeldpopup"
+    delete: false
+    files:
+      - name: "sign_up_modal"
+        label: "Aanmeldpopup (teksten)"
+        file: "/_data/sign_up_modal.yaml"
+        fields:
+          - {label: "Heading", name: "heading", widget: "string"}
+          - {label: "Intro tekst", name: "intro-text", widget: "markdown"}
+          - {label: "Nieuwsbrief label", name: "newsletter", widget: "string"}
+          - {label: "Button tekst", name: "button-text", widget: "string"}
+          - {label: "Bevestiging heading", name: "thankyou-heading", widget: "string"}
+          - {label: "Bevestiging tekst", name: "thankyou-text", widget: "string"}
+
   # HOE HET WERKT
   - name: "how_it_works_page"
     label: "Hoe werkt het? (pagina)"
