@@ -14,8 +14,10 @@
 
     &__grid
         display: grid
-        grid-template-columns: 40% 1fr
         grid-gap: 20px
+
+        +tablet-desktop
+            grid-template-columns: 40% 1fr
 
     &__image
         background-color: #f5f5f5
