@@ -4,7 +4,7 @@ title: De eerste deelauto's in Meerstad!
 friendly_date: 7 mei 2019
 permalink: /nieuws/2019-05-07/de-eerste-deelauto's-in-meerstad
 category: Persbericht
-image: /uploads/easydriving.jpg
+image: /uploads/uitkijktoren-meerstad.jpg
 intro: >-
   Vanaf vandaag staan de eerste twee deelauto's van EasyDriving in Meerstad!
   Iedere abonnementhouder kan een van deze deelauto's via onze app reserveren.
