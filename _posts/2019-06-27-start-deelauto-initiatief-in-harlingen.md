@@ -22,4 +22,4 @@ Iedere belangstellende kan zich gemakkelijk aanmelden via
 
 ![](/uploads/harry-boon-harlingen-plaatsing-deelauto-s.jpg "Harry Boon bij deelato's Harlingen")
 
-Foto: Ubbo Posthumus
+Foto: Ubbo Posthuma
