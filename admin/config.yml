@@ -327,7 +327,7 @@ collections: # A list of collections the CMS should be able to edit
       - { label: "Datum", name: "friendly_date", widget: "string" }
       - { label: "URL (moet met /nieuws/ beginnen, niet met https://easydriving.eu)", name: "permalink", widget: "string" }
       - { label: "Categorie", name: "category", widget: "string" }
-      - { label: "Foto (wordt getoond in het overzicht)", name: "image", widget: "image" }
+      - { label: "Foto (wordt getoond in het overzicht)", name: "image", widget: "image", required: false }
       - { label: "Introductie alinea (wordt getoond in het overzicht)", name: "intro", widget: "markdown" }
       - { label: "Inhoud", name: "body", widget: "markdown" }
   # FOOTER
