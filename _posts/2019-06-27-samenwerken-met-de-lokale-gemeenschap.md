@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samenwerken met de lokale gemeenschap
+title_tag: Samenwerken met de lokale gemeenschap
 friendly_date: 27 juni 2019
 permalink: /nieuws/2019-27-07/samenwerken-met-de-lokale-gemeenschap
 category: Persbericht

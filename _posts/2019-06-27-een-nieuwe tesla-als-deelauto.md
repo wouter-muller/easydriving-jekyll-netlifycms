@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Een nieuwe Tesla als deelauto"
+title_tag: "Een nieuwe Tesla als deelauto"
 friendly_date: 27 juni 2019
 permalink: /nieuws/2019-27-07/een-nieuwe-tesla-als-deelauto
 category: Persbericht

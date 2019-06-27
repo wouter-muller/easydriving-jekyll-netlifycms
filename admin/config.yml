@@ -323,7 +323,7 @@ collections: # A list of collections the CMS should be able to edit
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
-      - { label: "Titel", name: "title", widget: "string" }
+      - { label: "Titel", name: "title_tag", widget: "string" }
       - { label: "Datum", name: "friendly_date", widget: "string" }
       - { label: "URL (moet met /nieuws/ beginnen, niet met https://easydriving.eu)", name: "permalink", widget: "string" }
       - { label: "Categorie", name: "category", widget: "string" }

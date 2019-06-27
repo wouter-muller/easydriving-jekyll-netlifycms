@@ -1,6 +1,6 @@
 ---
 layout: post
-title: >-
+title_tag: >-
   De vierde deelauto in samenwerking met energiecoöperatie Zonnedorpen
   gerealiseerd
 friendly_date: 16 mei 2019

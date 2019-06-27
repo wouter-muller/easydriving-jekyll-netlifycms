@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Start deelauto initiatief in Harlingen
+title_tag: Start deelauto initiatief in Harlingen
 friendly_date: 27 juni 2019
 permalink: /nieuws/2019-27-07/start-deelauto-initiatief-in-harlingen
 category: Persbericht

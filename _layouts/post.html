@@ -18,9 +18,9 @@
                         <div class="s-news__post">
                             <p class="s-news__category">{{ page.category }}</p>
                             <p class="s-news__date">{{ page.friendly_date }}</p>
-                            <h2 class="c-heading --medium u-mb">{{ page.title }}</h2>
+                            <h2 class="c-heading --medium u-mb">{{ page.title_tag }}</h2>
 
-                            {% if post.image %}
+                            {% if page.image %}
                                 <img class="u-mb" src="{{ page.image }}" alt="{{ page.title }}">
                             {% endif %}
 
