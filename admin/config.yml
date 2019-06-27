@@ -329,7 +329,7 @@ collections: # A list of collections the CMS should be able to edit
       - { label: "Categorie", name: "category", widget: "string" }
       - { label: "Foto (wordt getoond in het overzicht)", name: "image", widget: "image", required: false }
       - { label: "Introductie alinea (wordt getoond in het overzicht)", name: "intro", widget: "markdown" }
-      - { label: "Inhoud", name: "body", widget: "markdown" }
+      - { label: "Inhoud (de rest van het artikel)", name: "body", widget: "markdown" }
   # FOOTER
   - name: "footer"
     label: "Footer"
