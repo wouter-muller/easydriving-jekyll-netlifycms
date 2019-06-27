@@ -14,4 +14,4 @@ Vanaf het begin van EasyDriving is energiecoöperatie Zonnedorpen al betrokken b
 
 Houd onze berichtgeving op de sociale media in de gaten om op de hoogte te blijven van de officiële en feestelijke opening van de deelauto's op bovenstaande locaties. Tijdens deze opening in 't Zandt worden alle vragen omtrent de deelauto beantwoordt en is het mogelijk om een eerste rij ervaring op te doen in de elektrische deelauto!
 
-![](/uploads/deelauto-s-zonnedorpen.jpg)
+![De nieuwe elektrische deelauto's van Easy Driving](/uploads/deelauto-s-zonnedorpen.jpg)
