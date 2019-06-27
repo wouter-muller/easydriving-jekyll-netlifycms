@@ -15,7 +15,17 @@ permalink: /nieuws
             <p class="s-news__category">{{ post.category }}</p>
             <p class="s-news__date">{{ post.friendly_date }}</p>
             <h3 class="c-heading --medium u-mb">{{ post.title }}</h3>
-            <p class="c-paragraph">{{ post.excerpt  | strip_html }} - <span class="s-news__fake-link">Lees verder</span></p>
+
+            <div class="s-news__grid">
+                <div class="s-news__image">
+                    {% if post.image %}
+                        <img src="{{ post.image }}" alt="{{ post.title }}">
+                    {% endif %}
+                </div>
+                <div>
+                    <p class="c-paragraph --small">{{ post.intro }} - <span class="s-news__fake-link">Lees verder</span></p>
+                </div>
+            </div>
         </a>
         {% endfor %}
     </div>
