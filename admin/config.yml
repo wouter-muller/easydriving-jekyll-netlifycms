@@ -256,7 +256,6 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Lidmaatschap", name: "subscription", widget: "string"}
           - {label: "Lidmaatschapskosten", name: "subscription_costs", widget: "string"}
           - {label: "Details", name: "specs", widget: "markdown"}
-          - {label: "Disclaimer", name: "disclaimer", widget: "string"}
           - {label: "Rit kosten bereken tool heading", name: "ride_costs_tool_heading", widget: "string"}
   # OTHER PAGES
   - name: "faq"
