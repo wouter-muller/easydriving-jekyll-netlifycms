@@ -60,6 +60,9 @@ Vue.component('ride-tool', {
             } else {
                 this.price = (this.hours * this.pricePerHour) + (this.distance * this.pricePerKm)
             }
+            if (this.distance > 20) {
+                this.price = this.price + (this.distance - 20) * 0.20
+            }
             this.price = this.price.toFixed(2).replace(".", ",")
         }
     },
