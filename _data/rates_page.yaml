@@ -6,5 +6,18 @@ per_day: Per dag
 per_km: Per km
 subscription: Lidmaatschap
 subscription_costs: '5,00'
-specs: "* Als de auto per uur is gereserveerd en er meer dan 20 kilometer per uur wordt gereden, dan geldt er voor elke extra gereden kilometer een vergoeding van € 0,20.\r\n* Als de auto per dag wordt gereserveerd en er meer dan 200 kilometer per dag wordt gereden, dan geldt er voor elke extra gereden kilometer een vergoeding van € 0,20.\n* De kosten voor tussentijds laden onderweg komen voor eigen rekening.\n* Het dagtarief is op basis van 24 uur. Dus als de auto bijvoorbeeld om 14:00 gereserveerd wordt, dan is deze tot 14:00 de volgende dag beschikbaar voor maximaal tienmaal het uurtarief."
+specs: >-
+  * Voor het gebruik van de deelauto's geldt een extra toeslag van € 0,20 per
+  kilometer als er per gereserveerd uur meer dan 20 kilometer wordt gereden, of
+  per gereserveerde dag meer dan 200 kilometer wordt gereden. 
+
+  * Als de auto per dag wordt gereserveerd en er meer dan 200 kilometer per dag
+  wordt gereden, dan geldt er voor elke extra gereden kilometer een vergoeding
+  van € 0,20.
+
+  * De kosten voor tussentijds laden onderweg komen voor eigen rekening.
+
+  * Het dagtarief is op basis van 24 uur. Dus als de auto bijvoorbeeld om 14:00
+  gereserveerd wordt, dan is deze tot 14:00 de volgende dag beschikbaar voor
+  maximaal tienmaal het uurtarief.
 ride_costs_tool_heading: Bereken wat een rit kost
