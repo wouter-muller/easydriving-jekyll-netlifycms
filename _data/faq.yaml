@@ -74,7 +74,8 @@ payment_faqs:
     question: Wat is (niet) inbegrepen?
   - answer: >-
       Aan het einde van de maand ontvang je een factuur van de ritten die
-      gemaakt zijn. Je kunt ook kiezen voor een automatische incasso.
+      gemaakt zijn. Betaling geschiedt volledig automatisch door middel van
+      automatische incasso.
     question: Hoe betaal ik?
 charging_faqs:
   - answer: >-
