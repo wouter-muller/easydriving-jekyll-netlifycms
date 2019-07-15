@@ -13,7 +13,6 @@ specs: >-
 
   * De kosten voor tussentijds laden onderweg komen voor eigen rekening.
 
-  * Het dagtarief is op basis van 24 uur. Dus als de auto bijvoorbeeld om 14:00
-  gereserveerd wordt, dan is deze tot 14:00 de volgende dag beschikbaar voor
-  maximaal tienmaal het uurtarief.
+  * Het dagtarief voor elke auto is maximaal 10 keer het uurtarief. Een dag is
+  een aaneengesloten periode van 24 uur.
 ride_costs_tool_heading: Bereken wat een rit kost
