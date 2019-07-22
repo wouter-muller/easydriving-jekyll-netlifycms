@@ -9,19 +9,19 @@
 
     &__bg
         background-size: cover
-        background-position: center top
+        background-position: left center
         +fill-space
 
         +mobile
             +background-image('hero-bg2-mobile.jpg')
 
         +tablet-desktop
-            +background-image('hero-bg2.jpg')
+            +background-image('13.jpg')
 
         &:after
             content: ''
             +fill-space
-            background-color: rgba(mix(white, $brand-color, 50%), 0.4)
+            background-color: rgba(mix(black, $brand-color, 10%), 0.3)
 
     &__inner
         position: relative
@@ -35,7 +35,8 @@
 
     &__heading
         color: $brand-color
-        text-shadow: 0 0 20px white
+        color: white
+        text-shadow: 0 0 20px black
 
         +mobile
             font-size: 32px
@@ -45,9 +46,9 @@
             font-size: 70px
 
     &__sub-heading
-        color: $main-text-color
+        color: white
         font-weight: $medium
-        text-shadow: 0 0 10px white
+        text-shadow: 0 0 10px black
         margin-bottom: 40px
 
         +mobile
