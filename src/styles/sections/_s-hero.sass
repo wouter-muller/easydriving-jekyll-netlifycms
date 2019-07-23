@@ -16,21 +16,26 @@
         +mobile
             +background-image('13-mobile.jpg')
 
+            &:before
+                content: ''
+                +fill-space
+                background-color: rgba(black, 0.3)
+
         +tablet-desktop
             +background-image('13.jpg')
 
-        // Black transparent gradient from left top to bottom right
-        &:before
-            content: ''
-            +fill-space
-            background-image: linear-gradient(-225deg, black, rgba(black, 0.0) 42%)
+            // Black transparent gradient from left top to bottom right
+            &:before
+                content: ''
+                +fill-space
+                background-image: linear-gradient(-225deg, black, rgba(black, 0.0) 42%)
 
     &__inner
         position: relative
 
 
         +mobile
-            padding-top: 50px
+            padding: 8vw 0 23vw
 
         +tablet-desktop
             padding: 8vw 0 23vw
