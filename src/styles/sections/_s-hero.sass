@@ -9,19 +9,21 @@
 
     &__bg
         background-size: cover
-        background-position: center top
+        background-position: center center
         +fill-space
+        +green-filter
 
         +mobile
-            +background-image('hero-bg2-mobile.jpg')
+            +background-image('13-mobile.jpg')
 
         +tablet-desktop
-            +background-image('hero-bg2.jpg')
+            +background-image('13.jpg')
 
-        &:after
+        // Black transparent gradient from left top to bottom right
+        &:before
             content: ''
             +fill-space
-            background-color: rgba(mix(white, $brand-color, 50%), 0.4)
+            background-image: linear-gradient(-225deg, black, rgba(black, 0.0) 42%)
 
     &__inner
         position: relative
@@ -31,23 +33,24 @@
             padding-top: 50px
 
         +tablet-desktop
-            padding: 160px 0 290px
+            padding: 8vw 0 23vw
 
     &__heading
         color: $brand-color
-        text-shadow: 0 0 20px white
+        color: white
+        text-shadow: 0 0 20px black
 
         +mobile
-            font-size: 32px
+            font-size: 33px
             margin-bottom: 10px
 
         +tablet-desktop
             font-size: 70px
 
     &__sub-heading
-        color: $main-text-color
+        color: white
         font-weight: $medium
-        text-shadow: 0 0 10px white
+        text-shadow: 0 0 10px black
         margin-bottom: 40px
 
         +mobile
