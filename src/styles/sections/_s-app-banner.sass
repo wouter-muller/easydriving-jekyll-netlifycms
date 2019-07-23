@@ -10,21 +10,16 @@
             +background-image('app-banner-bg-mobile.jpg')
 
         +tablet-desktop
-            +background-image('app-banner-bg.jpg')
-
-        &:before
-            content: ''
-            +fill-space
-            background-color: rgba(black, 0.18)
+            +background-image('16.jpg')
 
         &:after
             content: ''
             +fill-space
-            background-color: rgba($brand-color, 0.26)
+            background-color: rgba(mix(black, $brand-color, 10%), 0.3)
 
     &__inner
         position: relative
-        padding: 160px 0
+        padding: 400px 0 60px 0
         text-align: center
 
         a
@@ -51,4 +46,4 @@
             font-size: 30px
 
         +tablet-desktop
-            font-size: 50px
+            font-size: 60px
