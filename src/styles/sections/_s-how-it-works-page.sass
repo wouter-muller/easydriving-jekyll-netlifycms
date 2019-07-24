@@ -10,27 +10,36 @@
 
         +mobile
             padding: 80vw 0 2vw 0
-        +tablet-desktop
+
+        +tablet
+            padding: 34vw 0 2vw 0
+
+        +desktop
             padding: 23vw 0 2vw 0
 
         &-bg
             +fill-space
-            background-size: cover
-            background-position: center top -100px
             +green-filter
+            background-size: cover
 
             +mobile
                 +background-image('/38-mobile.jpg')
+                background-position: center top -100px
+
+            +tablet
+                background-position: center center
 
             +tablet-desktop
                 +background-image('/38.jpg')
 
-            // Black transparent gradient from left top to bottom right
+            +desktop
+                background-position: center top -100px
+
+            // Black transparent gradient bottom to top
             &:before
                 content: ''
                 +fill-space
                 background-image: linear-gradient(to top, black, rgba(black, 0.0) 50%)
-
 
         &-text
             position: relative
