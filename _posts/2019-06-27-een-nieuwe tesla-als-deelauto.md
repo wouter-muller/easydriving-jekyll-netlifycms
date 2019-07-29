@@ -2,7 +2,7 @@
 layout: post
 title_tag: Een nieuwe Tesla als deelauto
 friendly_date: 27 juni 2019
-permalink: /nieuws/2019-27-07/een-nieuwe-tesla-als-deelauto
+permalink: /nieuws/2019-27-06/een-nieuwe-tesla-als-deelauto
 category: Persbericht
 image: /uploads/tesla-ada.jpg
 intro: "Tesla Model 3. Stoer, betrouwbaar en duurzaam.\n\nEen aantal maanden geleden hebben we onze derde Tesla toegevoegd aan de collectie deelauto´s van EasyDriving. In de afgelopen maanden hebben wij ervaring opgedaan met deze\_gloednieuwe Tesla Model 3."
