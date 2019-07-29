@@ -15,6 +15,26 @@
     {% endif %}
     <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
+    <!-- Open Graph data -->
+    <meta property="og:title" content="{% if page.title_tag %}{{ page.title_tag }}{% else if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+    <meta property="og:type" content="website">
+    <meta property="og:description" content="{{ page.description_tag }}">
+
+    {% if page.meta_image %}
+        <meta property="og:image" content="{{ page.meta_image }}">
+    {% endif %}
+
+    <!-- Twitter card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{% if page.title_tag %}{{ page.title_tag }}{% else if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+    <meta name="twitter:description" content="{{ page.description_tag }}">
+    <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
+    {% if page.meta_image %}
+        <meta name="twitter:image" content="{{ page.meta_image }}">
+    {% endif %}
+
+
     <!-- FAVICONS -->
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">

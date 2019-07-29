@@ -64,6 +64,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Description tag (SEO)", name: "description_tag", widget: "string"}
           - {label: "Permalink", name: "permalink", widget: "hidden"}
           - {label: "Body", name: "body", widget: "hidden"}
+          - {label: "Page main image", name: "meta_image", widget: "hidden"}
       - name: "hero"
         label: "Hero"
         file: "/_data/hero.yaml"
@@ -177,6 +178,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Description tag (SEO)", name: "description_tag", widget: "string"}
           - {label: "Permalink", name: "permalink", widget: "hidden"}
           - {label: "Body", name: "body", widget: "hidden"}
+          - {label: "Page main image", name: "meta_image", widget: "hidden"}
       - name: "how_it_works_page_steps"
         label: "Hoe werkt het (stappen 1 t/m 4)"
         file: "/_data/how_it_works_page.yaml"
