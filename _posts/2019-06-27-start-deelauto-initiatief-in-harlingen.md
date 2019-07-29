@@ -2,10 +2,14 @@
 layout: post
 title_tag: Start deelauto initiatief in Harlingen
 friendly_date: 27 juni 2019
-permalink: /nieuws/2019-27-07/start-deelauto-initiatief-in-harlingen
+permalink: /nieuws/2019-27-06/start-deelauto-initiatief-in-harlingen
 category: Persbericht
-intro: "In samenwerking met de gemeente Harlingen, staan er vanaf nu twee elektrische deelauto’s van Easy Driving beschikbaar aan het Havenplein 1 te Harlingen! Samen met wethouder Harry Boon van de gemeente Harlingen hebben we de officiële start van ons deelauto initiatief ingeluid."
-image: "/uploads/harry-boon-harlingen-plaatsing-deelauto-s.jpg"
+image: /uploads/harry-boon-harlingen-plaatsing-deelauto-s.jpg
+intro: >-
+  In samenwerking met de gemeente Harlingen, staan er vanaf nu twee elektrische
+  deelauto’s van Easy Driving beschikbaar aan het Havenplein 1 te Harlingen!
+  Samen met wethouder Harry Boon van de gemeente Harlingen hebben we de
+  officiële start van ons deelauto initiatief ingeluid.
 ---
 
 Deze deelauto’s kunnen voordelig gebruikt worden door omwonenden en eilandbewoners die de oversteek naar het vaste land niet met de auto willen maken, maar wel behoefte hebben aan (duurzame en voordelige) mobiliteit. De deelauto’s die er
