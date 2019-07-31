@@ -320,6 +320,7 @@ collections: # A list of collections the CMS should be able to edit
     label: "Nieuws"
     folder: "_posts"
     sort: "date:desc"
+    identifier_field: title_tag
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
