@@ -1,8 +1,8 @@
 ---
 layout: post
-title_tag: Het Hub festival
+title_tag: Het Hub festival in Borger
 friendly_date: 31 juli 2019
-permalink: /nieuws/31-07-2019/het-hub-festival
+permalink: /nieuws/31-07-2019/het-hub-festival-in-Borger
 category: Persbericht
 image: /uploads/hub-festival.jpg
 intro: >-
