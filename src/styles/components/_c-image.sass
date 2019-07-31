@@ -1,14 +1,10 @@
 .c-image
     display: block
     position: relative
+    +green-filter
 
     img
         display: block
-
-    &:after
-        content: ''
-        +fill-space
-        background-color: rgba($brand-color, 0.3)
 
     +mobile
         margin-bottom: 20px
