@@ -15,4 +15,4 @@ intro: >-
 ---
 Er zijn door ons nu in de drie gemeenten al zo’n 20 laadpalen aangevraagd zodat we op die locaties van start kunnen gaan in de buurt! Ben je benieuwd of er ook een laadpaal, en daarmee deelauto initiatief, bij jou in de buurt is komt? Neem dan contact met ons op zodat je direct weet wanneer we de deelauto’s in de gemeenten Groningen, Noordenveld en Westerkwartier hebben geplaatst en waar dat precies is. Als we nog niet actief zijn in jouw buurt, maar je wil interesse hebt om gebruik te maken van een van onze deelauto’s, laat het dan vooral weten zodat we mogelijk we een initiatief kunnen starten bij jou in de buurt!
 
-Foto: gemeentehuis Groningen
+<small>Foto: gemeentehuis Groningen</small>
