@@ -158,6 +158,7 @@ collections: # A list of collections the CMS should be able to edit
         file: "/_data/sign_up_modal.yaml"
         fields:
           - {label: "Heading", name: "heading", widget: "string"}
+          - {label: "Zin over beschikbaarheid", name: "avail-check", widget: "markdown"}
           - {label: "Intro tekst", name: "intro-text", widget: "markdown"}
           - {label: "Nieuwsbrief label", name: "newsletter", widget: "string"}
           - {label: "Button tekst", name: "button-text", widget: "string"}
