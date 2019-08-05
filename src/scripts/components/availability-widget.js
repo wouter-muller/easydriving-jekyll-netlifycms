@@ -6,7 +6,7 @@ Vue.component('availability-widget', {
                 <h2 class="c-heading --large --green u-mb+">{{ this.heading }}</h2>
                     <div v-if="result === 'unknown'" class="u-mb+">
                         <label class="c-label u-mb-">{{ this.formQuestion }}</label>
-                        <input type="text" class="s-availability__postal-code-input c-input" v-model="postalCode">
+                        <input type="text" class="s-availability__postal-code-input c-input" v-model="postalCode" placeholder="9999 XX">
                         <button
                             class="s-availability__submit c-button --cta"
                             @click="checkPostalCode"
