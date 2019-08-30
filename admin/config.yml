@@ -316,7 +316,7 @@ collections: # A list of collections the CMS should be able to edit
           - { label: "Description tag (SEO)", name: "description_tag", widget: "string" }
           - { label: "Permalink", name: "permalink", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
-      - name: "klimaatcampagne"
+      - name: "klimaat-campagne"
         label: "Klimaatcampagne pagina"
         file: "pages/iedereendoetwat.html"
         fields:
