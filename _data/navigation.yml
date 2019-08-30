@@ -24,3 +24,6 @@
 - text: Nieuws
   url: /nieuws
   include_in_desktop_header: false
+- text: Iedereen doet wat campagne
+  url: /iedereen-doet-wat
+  include_in_desktop_header: false
