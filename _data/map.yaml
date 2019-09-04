@@ -62,3 +62,6 @@ car_locations:
   - address: 'Havenplein 2, Harlingen'
     lat: '53.174880'
     long: '5.411990'
+  - address: 'Berkenweg 1, Zuidlaren'
+    lat: '53.081144'
+    long: '6.666995'
