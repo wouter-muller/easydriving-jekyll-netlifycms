@@ -65,3 +65,6 @@ car_locations:
   - address: 'Berkenweg 1, Zuidlaren'
     lat: '53.081144'
     long: '6.666995'
+  - address: 'Mercuriusweg 6, Tynaarlo'
+    lat: '53.084023'
+    long: '6.597546'
