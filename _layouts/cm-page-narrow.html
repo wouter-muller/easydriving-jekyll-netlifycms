@@ -16,7 +16,7 @@
                     <div class="c-cm-page --narrow">
                         <h1 class="c-heading --large --green u-align-center u-mb+">{{ page.title }}</h1>
                         <div class="c-card">
-                            {{ content | markdownify }}
+                            {{ content| markdownify | replace: "<a", "<a class='c-link --green'"   }}
                         </div>
                     </div>
                 </div>
