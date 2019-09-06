@@ -318,7 +318,7 @@ collections: # A list of collections the CMS should be able to edit
           - { label: "Body", name: "body", widget: "markdown" }
       - name: "klimaat-campagne"
         label: "Klimaatcampagne pagina"
-        file: "pages/iedereendoetwat.html"
+        file: "pages/klimaatcampagne.html"
         fields:
           - { label: "Layout", name: "layout", widget: "hidden" }
           - { label: "Title", name: "title", widget: "string" }
