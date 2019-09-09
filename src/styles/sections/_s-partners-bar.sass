@@ -9,13 +9,15 @@
     &__inner
         padding: 15px 0
 
+        +mobile
+            text-align: center
+
         +tablet-desktop
             align-items: center
             display: flex
 
     &__heading
         display: inline-block
-        margin-right: 30px
         font-size: 30px
         color: white
         line-height: 0.8
@@ -23,10 +25,20 @@
         +mobile
             margin-bottom: 20px
 
+        +tablet-desktop
+            margin-right: 30px
     img
         height: 25px
         margin-right: 20px
-        display: inline-block
+
+        +mobile
+            margin-top: 10px
+            display: block
+            margin-left: auto
+            margin-right: auto
+
+        +tablet-desktop
+            display: inline-block
 
     &__idw-logo
         margin-top: 6px // fake vertical alignment
