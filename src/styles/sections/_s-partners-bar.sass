@@ -8,8 +8,10 @@
 
     &__inner
         padding: 15px 0
-        display: flex
-        align-items: center
+
+        +tablet-desktop
+            align-items: center
+            display: flex
 
     &__heading
         display: inline-block
@@ -17,6 +19,9 @@
         font-size: 30px
         color: white
         line-height: 0.8
+
+        +mobile
+            margin-bottom: 20px
 
     img
         height: 25px
