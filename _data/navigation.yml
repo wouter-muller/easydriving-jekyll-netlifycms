@@ -24,3 +24,6 @@
 - text: Nieuws
   url: /nieuws
   include_in_desktop_header: false
+- text: Klimaatcampagne
+  url: /klimaatcampagne
+  include_in_desktop_header: false
