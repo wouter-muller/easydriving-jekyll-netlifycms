@@ -3,11 +3,6 @@ var app = new Vue({
     data: {
         signUpModalVisible: false,
         mobileMenuIsVisible: false
-    },
-    methods: {
-        changeCar: function() {
-            console.log('trigger')
-        }
     }
 })
 
@@ -36,3 +31,46 @@ testForm.addEventListener('submit', e => {
     }
   });
 });
+
+// Home slider
+const HomeSlider = {
+    init: function() {
+
+        var value = "one"
+
+        var myInterval = setInterval(interval, 5000);
+
+        function interval() {
+            if(value == "one") {
+                document.querySelector('.js-hero-slider.--one').classList.remove('--active')
+                document.querySelector('.js-hero-slider.--two').classList.add('--active')
+                value = "two"
+            }
+            else if(value == "two") {
+                document.querySelector('.js-hero-slider.--two').classList.remove('--active')
+                document.querySelector('.js-hero-slider.--three').classList.add('--active')
+                value = "three"
+            }
+            else {
+                document.querySelector('.js-hero-slider.--three').classList.remove('--active')
+                document.querySelector('.js-hero-slider.--one').classList.add('--active')
+                value = "one"
+            }
+        }
+
+        // Controls
+        document.querySelector('.js-hero-slider-control-one').addEventListener('click', function() {
+            clearInterval(myInterval)
+            document.querySelector('.js-hero-slider.--two').classList.remove('--active')
+            document.querySelector('.js-hero-slider.--three').classList.remove('--active')
+            document.querySelector('.js-hero-slider.--one').classList.add('--active')
+        })
+
+    }
+};
+
+HomeSlider.init();
+
+
+
+

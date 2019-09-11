@@ -7,7 +7,7 @@ category: Persbericht
 image: /uploads/harry-boon-harlingen-plaatsing-deelauto-s.jpg
 intro: >-
   In samenwerking met de gemeente Harlingen, staan er vanaf nu twee elektrische
-  deelauto’s van Easy Driving beschikbaar aan het Havenplein 1 te Harlingen!
+  deelauto’s van EasyDriving beschikbaar aan het Havenplein 1 te Harlingen!
   Samen met wethouder Harry Boon van de gemeente Harlingen hebben we de
   officiële start van ons deelauto initiatief ingeluid.
 ---
@@ -19,7 +19,7 @@ Deze deelauto’s kunnen voordelig gebruikt worden door omwonenden en eilandbewo
  gereden kilometer.
 
 Iedere belangstellende kan zich gemakkelijk aanmelden via
- de website om de app van Easy Driving te downloaden
+ de website om de app van EasyDriving te downloaden
  waarmee hij of zij de deelauto opent en gebruikt. De auto’s
  hebben gereserveerde parkeerplekken bij de laadpaal aan
  het Havenplein en zijn dag en nacht beschikbaar voor
