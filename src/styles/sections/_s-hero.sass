@@ -2,10 +2,10 @@
     position: relative
 
     +mobile
-        height: 400px
+        height: 70vh
 
     +tablet-desktop
-        height: 55vw
+        height: 50vw
 
     &__slider
         opacity: 0
@@ -20,7 +20,7 @@
         &.\--one
             .s-hero__bg
                 +mobile
-                    +background-image('13-mobile.jpg')
+                    +background-image('16w-mobile.jpg')
 
                     &:before
                         content: ''
@@ -30,50 +30,33 @@
                 +tablet-desktop
                     +background-image('16w.jpg')
 
-            .s-hero__inner
-                +mobile
-                    height: 100%
-
-                +tablet-desktop
-                    padding: 8vw 0 23vw
-
         &.\--two
             .s-hero__bg
                 +mobile
-                    +background-image('13-mobile.jpg')
+                    +background-image('37s-mobile.jpg')
 
                 +tablet-desktop
                     +background-image('37s.jpg')
 
-            .s-hero__inner
-                +mobile
-                    height: 100%
-
-                +tablet-desktop
-                    // text-align: right
-                    padding: 8vw 0 23vw
-
         &.\--three
             .s-hero__bg
                 +mobile
-                    +background-image('13-mobile.jpg')
+                    +background-image('16-mobile.jpg')
 
 
                 +tablet-desktop
                     +background-image('16.jpg')
 
-            .s-hero__inner
-                +mobile
-                    height: 100%
-
-                +tablet-desktop
-                    padding: 8vw 0 23vw
-
         &-controls
             position: absolute
             left: 50%
-            bottom: 80px
             transform: translateX(-50%)
+
+            +mobile
+                bottom: 20px
+
+            +tablet-desktop
+                bottom: 80px
 
         &-control
             border: 6px solid $brand-color
@@ -93,32 +76,41 @@
         +fill-space
         +green-filter
 
-
     &__inner
-        position: relative
+        position: absolute
+        width: 100%
+
+        +mobile
+            bottom: 60px
+
+        +tablet-desktop
+            bottom: 130px
 
     &__heading
+        text-align: center
         color: $brand-color
         color: white
         text-shadow: 0 0 20px black
+        line-height: 1
 
         +mobile
-            font-size: 33px
+            font-size: 30px
             margin-bottom: 10px
             padding-top: 20px
 
         +tablet-desktop
-            font-size: 70px
+            font-size: 55px
 
     &__sub-heading
+        text-align: center
         color: white
         font-weight: $medium
         text-shadow: 0 0 10px black
-        margin-bottom: 40px
 
         +mobile
             font-size: 20px
-            padding-right: 80px
+            padding-right: 40px
+            padding-left: 40px
 
         +tablet-desktop
             font-size: 27px
