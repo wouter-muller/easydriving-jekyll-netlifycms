@@ -43,17 +43,23 @@ const HomeSlider = {
         function interval() {
             if(value == "one") {
                 document.querySelector('.js-hero-slider.--one').classList.remove('--active')
+                document.querySelector('.js-hero-slider-control-one').classList.remove('--active')
                 document.querySelector('.js-hero-slider.--two').classList.add('--active')
+                document.querySelector('.js-hero-slider-control-two').classList.add('--active')
                 value = "two"
             }
             else if(value == "two") {
                 document.querySelector('.js-hero-slider.--two').classList.remove('--active')
+                document.querySelector('.js-hero-slider-control-two').classList.remove('--active')
                 document.querySelector('.js-hero-slider.--three').classList.add('--active')
+                document.querySelector('.js-hero-slider-control-three').classList.add('--active')
                 value = "three"
             }
             else {
                 document.querySelector('.js-hero-slider.--three').classList.remove('--active')
+                document.querySelector('.js-hero-slider-control-three').classList.remove('--active')
                 document.querySelector('.js-hero-slider.--one').classList.add('--active')
+                document.querySelector('.js-hero-slider-control-one').classList.add('--active')
                 value = "one"
             }
         }
@@ -64,6 +70,29 @@ const HomeSlider = {
             document.querySelector('.js-hero-slider.--two').classList.remove('--active')
             document.querySelector('.js-hero-slider.--three').classList.remove('--active')
             document.querySelector('.js-hero-slider.--one').classList.add('--active')
+            document.querySelector('.js-hero-slider-control-one').classList.add('--active')
+            document.querySelector('.js-hero-slider-control-two').classList.remove('--active')
+            document.querySelector('.js-hero-slider-control-three').classList.remove('--active')
+        })
+
+        document.querySelector('.js-hero-slider-control-two').addEventListener('click', function() {
+            clearInterval(myInterval)
+            document.querySelector('.js-hero-slider.--two').classList.add('--active')
+            document.querySelector('.js-hero-slider.--three').classList.remove('--active')
+            document.querySelector('.js-hero-slider.--one').classList.remove('--active')
+            document.querySelector('.js-hero-slider-control-one').classList.remove('--active')
+            document.querySelector('.js-hero-slider-control-two').classList.add('--active')
+            document.querySelector('.js-hero-slider-control-three').classList.remove('--active')
+        })
+
+        document.querySelector('.js-hero-slider-control-three').addEventListener('click', function() {
+            clearInterval(myInterval)
+            document.querySelector('.js-hero-slider.--two').classList.remove('--active')
+            document.querySelector('.js-hero-slider.--three').classList.add('--active')
+            document.querySelector('.js-hero-slider.--one').classList.remove('--active')
+            document.querySelector('.js-hero-slider-control-one').classList.remove('--active')
+            document.querySelector('.js-hero-slider-control-two').classList.remove('--active')
+            document.querySelector('.js-hero-slider-control-three').classList.add('--active')
         })
 
     }
