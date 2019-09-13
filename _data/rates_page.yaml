@@ -14,5 +14,5 @@ specs: >-
   * De kosten voor tussentijds laden onderweg komen voor eigen rekening.
 
   * Het dagtarief voor elke auto is maximaal 10 keer het uurtarief. Een dag is
-  een aaneengesloten periode van 24 uur.
+  00:00 uur tot 00:00 uur.
 ride_costs_tool_heading: Bereken wat een rit kost
