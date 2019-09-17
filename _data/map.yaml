@@ -26,9 +26,6 @@ car_locations:
   - address: 'Oude Merenweg 10, Meerstad'
     lat: 53.226734
     long: 6.64806
-  - address: 'Talingeneiland 15, Meerstad'
-    lat: 53.226371
-    long: 6.651594
   - address: 'Fivelweg 49, Zijldijk'
     lat: '53.382367'
     long: '6.769441'
