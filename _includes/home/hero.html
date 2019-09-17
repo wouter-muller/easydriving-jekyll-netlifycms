@@ -1,21 +1,46 @@
 <div class="s-hero">
-    <div class="s-hero__bg"></div>
-    <div class="s-hero__inner">
-        <div class="l-wrapper">
-            <h1 class="s-hero__heading">{{ site.data.hero.heading }}</h1>
-            <h2 class="s-hero__sub-heading">{{ site.data.hero.subheading }}</h2>
-            <button class="c-button --cta" @click="signUpModalVisible = true">{{ site.data.hero.button_text }}</button>
-        </div>
 
-        <div class="s-partners-bar">
+    <div class="s-hero__slider js-hero-slider --one --active">
+        <div class="s-hero__bg"></div>
+        <div class="s-hero__inner">
             <div class="l-wrapper">
-                <div class="s-partners-bar__inner">
-                    <h3 class="s-partners-bar__heading">Onze partners:</h3>
-                    <a href="https://www.iedereendoetwat.nl/" target="_blank"><img class="s-partners-bar__idw-logo" src="{{ site.image_path }}/partners/K&E_IDW_logo_liggend.svg"></a>
-                    <a href="https://onzeauto.com/" target="_blank"><img src="{{ site.image_path }}/partners/onzeauto.svg"></a>
-                </div>
+                <h1 class="s-hero__heading">Samen slim rijden</h1>
+                <h2 class="s-hero__sub-heading">{{ site.data.hero.subheading }}</h2>
             </div>
         </div>
+    </div>
 
+    <div class="s-hero__slider js-hero-slider --two">
+        <div class="s-hero__bg"></div>
+        <div class="s-hero__inner">
+            <div class="l-wrapper">
+                <h1 class="s-hero__heading">Alleen volledig elektrische deelauto’s</h1>
+            </div>
+        </div>
+    </div>
+
+    <div class="s-hero__slider js-hero-slider --three">
+        <div class="s-hero__bg"></div>
+        <div class="s-hero__inner">
+            <div class="l-wrapper">
+                <h1 class="s-hero__heading">Open de auto’s met onze gebruiksvriendelijke app</h1>
+            </div>
+        </div>
+    </div>
+
+    <div class="s-hero__slider-controls">
+        <button class="s-hero__slider-control js-hero-slider-control-one --active"></button>
+        <button class="s-hero__slider-control js-hero-slider-control-two"></button>
+        <button class="s-hero__slider-control js-hero-slider-control-three"></button>
+    </div>
+
+    <div class="s-partners-bar">
+        <div class="l-wrapper">
+            <div class="s-partners-bar__inner">
+                <h3 class="s-partners-bar__heading">Onze partners:</h3>
+                <a href="https://www.iedereendoetwat.nl/" target="_blank"><img class="s-partners-bar__idw-logo" src="{{ site.image_path }}/partners/K&E_IDW_logo_liggend.svg"></a>
+                <a href="https://onzeauto.com/" target="_blank"><img src="{{ site.image_path }}/partners/onzeauto.svg"></a>
+            </div>
+        </div>
     </div>
 </div>
