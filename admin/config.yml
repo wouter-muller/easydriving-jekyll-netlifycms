@@ -238,8 +238,8 @@ collections: # A list of collections the CMS should be able to edit
             create: true
             widget: list
             fields:
-              - { label: "Model auto", name: "car-name", widget: "string" }
               - { label: "Adres", name: "address", widget: "string" }
+              - { label: "Model auto", name: "car-name", widget: "string" }
               - { label: "Lat", name: "lat", widget: "string" }
               - { label: "Long", name: "long", widget: "string" }
   # TARIEVEN PAGE
