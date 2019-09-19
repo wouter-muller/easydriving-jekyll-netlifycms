@@ -23,7 +23,7 @@
       var center = {lat: 53.249208, lng: 6.451608};
       var locations = [
         {% for location in site.data.map.car_locations %}
-            ['{{location.address}}', {{location.lat}}, {{location.long}}],
+            ['{{location.address}}', {{location.lat}}, {{location.long}}, '{{location.car-name}}'],
         {% endfor %}
       ];
     var map = new google.maps.Map(document.getElementById('map'), {
@@ -37,11 +37,11 @@
         marker = new google.maps.Marker({
           position: new google.maps.LatLng(locations[count][1], locations[count][2]),
           map: map,
-          title: locations[count][0]
+          title: locations[count][0] + " - " + locations[count][3]
         });
     google.maps.event.addListener(marker, 'click', (function (marker, count) {
           return function () {
-            infowindow.setContent(locations[count][0]);
+            infowindow.setContent("<b>" + locations[count][3] + "</b><br>" + locations[count][0]);
             infowindow.open(map, marker);
           }
         })(marker, count));
