@@ -47,10 +47,18 @@ car_locations:
     car-name: Hyundai Kona Electric
     lat: '53.185110'
     long: '6.394275'
+  - address: 'Hoofdstraat 148, Midwolde'
+    car-name: Nissan Leaf
+    lat: '53.185560'
+    long: '6.394490'
   - address: 'Hoofdstraat 125, Midwolde'
     car-name: Hyundai Kona Electric
     lat: ' 53.180197'
     long: '6.391128'
+  - address: 'Hoofdstraat 125, Midwolde'
+    car-name: Nissan Leaf
+    lat: '53.179670'
+    long: '6.390920'
   - address: 'Wierdeweg 3, Leermens'
     car-name: Nissan Leaf
     lat: '53.345523'
@@ -63,10 +71,6 @@ car_locations:
     car-name: Kia e-Niro
     lat: '53.156480'
     long: '6.373800'
-  - address: 'Havenplein 2, Harlingen'
-    car-name: Hyundai Kona Electric
-    lat: '53.174880'
-    long: '5.411990'
   - address: 'Berkenweg 1, Zuidlaren'
     car-name: Hyundai Kona Electric
     lat: '53.081144'
@@ -79,11 +83,11 @@ car_locations:
     car-name: Nissan Leaf
     lat: '53.119011'
     long: '5.569640'
-  - address: 'Hoofdstraat 148, Midwolde'
-    car-name: Nissan Leaf
-    lat: '53.185560'
-    long: '6.394490'
-  - address: 'Hoofdstraat 125, Midwolde'
-    car-name: Nissan Leaf
-    lat: '53.179670'
-    long: '6.390920'
+  - address: 'Havenplein 2, Harlingen'
+    car-name: Hyundai Kona Electric
+    lat: '53.174880'
+    long: '5.411990'
+  - address: 'Havenplein 2, Harlingen'
+    car-name: Hyundai Kona Electric
+    lat: '53.174930'
+    long: '5.413030'
