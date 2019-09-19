@@ -89,5 +89,5 @@ car_locations:
     long: '5.411990'
   - address: 'Havenplein 2, Harlingen'
     car-name: Hyundai Kona Electric
-    lat: '53.174410'
-    long: '5.411580'
+    lat: '53.174884'
+    long: '5.411787'
