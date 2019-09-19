@@ -26,56 +26,42 @@ car_locations:
   - address: 'Oude Merenweg 10, Meerstad'
     lat: 53.226734
     long: 6.64806
-    car-name: Hyundai Kona
   - address: 'Fivelweg 49, Zijldijk'
     lat: '53.382367'
     long: '6.769441'
-    car-name: Nissan Leaf
   - address: 'Borgweg 7, Zeerijp'
     lat: '53.346545'
     long: '6.756223'
-    car-name: Nissan Leaf
   - address: 'Hoofdstraat 85, ´t Zandt'
     lat: '53.366100'
     long: '6.774280'
-    car-name: Nissan Leaf
   - address: 'Hunzeweg 53, Garnwerd'
     lat: '53.303012'
     long: '6.493964'
-    car-name: Nissan Leaf
   - address: 'Hoofdstraat 148, Midwolde'
     lat: '53.185110'
     long: '6.394275'
-    car-name: Nissan Leaf
   - address: 'Hoofdstraat 125, Midwolde'
     lat: ' 53.180197'
     long: '6.391128'
-    car-name: Nissan Leaf
   - address: 'Wierdeweg 3, Leermens'
     lat: '53.345523'
     long: '6.797982'
-    car-name: Nissan Leaf
-  - address: 'Dekemawei 11, Baard'
-    lat: '53.143820'
-    long: '5.665640'
-    car-name: Nissan Leaf
   - address: 'Hoofdweg 195, Harkstede'
     lat: '53.220640'
     long: '6.648420'
-    car-name: Nissan Leaf
   - address: 'Borgdomein 4, Leek'
     lat: '53.156480'
     long: '6.373800'
-    car-name: Nissan Leaf
   - address: 'Havenplein 2, Harlingen'
     lat: '53.174880'
     long: '5.411990'
-    car-name: Nissan Leaf
   - address: 'Berkenweg 1, Zuidlaren'
     lat: '53.081144'
     long: '6.666995'
-    car-name: Nissan Leaf
   - address: 'Mercuriusweg 6, Tynaarlo'
     lat: '53.084023'
     long: '6.597546'
-    car-name: Nissan Leaf
+  - address: 'Greate Buorren 31, Kúbaard'
+    lat: '53.119011'
+    long: '5.569640'
