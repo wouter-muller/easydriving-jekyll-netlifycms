@@ -98,9 +98,8 @@ const HomeSlider = {
     }
 };
 
-if ($(".js-hero-slider").length) {
-    HomeSlider.init();
-}
+HomeSlider.init();
+
 
 
 
