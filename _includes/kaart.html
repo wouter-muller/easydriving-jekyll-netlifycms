@@ -12,7 +12,7 @@
         <div class="u-align-center">
             <h2 class="c-heading --medium u-mb">{{ site.data.map.map_heading_below_map }}</h2>
             <div class="u-markdown">
-                {{ site.data.map.map_text_below_map | markdownify | replace: "<p>", "<p class='c-paragraph u-mb'>" }}
+                {{ site.data.map.map_text_below_map | markdownify | replace: "<p>", "<p class='c-paragraph u-mb'>" | replace: "<a", "<a class='c-link --green'"  }}
               </div>
         </div>
     </div>
