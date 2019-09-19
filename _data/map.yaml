@@ -81,9 +81,9 @@ car_locations:
     long: '5.569640'
   - address: 'Hoofdstraat 148, Midwolde'
     car-name: Nissan Leaf
-    lat: '53.185110'
-    long: '6.394275'
-  - address: 'Hoofdstraat 125, Midwolde'
-    car-name: Nissan Leaf
     lat: '53.185560'
     long: '6.394490'
+  - address: 'Hoofdstraat 125, Midwolde'
+    car-name: Nissan Leaf
+    lat: '53.179670'
+    long: '6.390920'
