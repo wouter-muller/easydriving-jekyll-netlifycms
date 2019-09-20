@@ -31,10 +31,6 @@ car_locations:
     car-name: Nissan Leaf
     lat: '53.382367'
     long: '6.769441'
-  - address: 'Borgweg 7, Zeerijp'
-    car-name: Nissan Leaf
-    lat: '53.346545'
-    long: '6.756223'
   - address: 'Hoofdstraat 85, ´t Zandt'
     car-name: Nissan Leaf
     lat: '53.366100'
@@ -59,10 +55,6 @@ car_locations:
     car-name: Nissan Leaf
     lat: '53.179670'
     long: '6.390920'
-  - address: 'Wierdeweg 3, Leermens'
-    car-name: Nissan Leaf
-    lat: '53.345523'
-    long: '6.797982'
   - address: 'Hoofdweg 195, Harkstede'
     car-name: Nissan Leaf
     lat: '53.220640'
