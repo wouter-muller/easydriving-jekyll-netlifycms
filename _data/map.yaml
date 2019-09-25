@@ -83,3 +83,7 @@ car_locations:
     car-name: Hyundai Kona Electric
     lat: '53.174884'
     long: '5.411787'
+  - address: 'Akkerstraat 26, Groningen'
+    car-name: 'Nissan Leaf '
+    lat: '53.227771'
+    long: '6.557587'
