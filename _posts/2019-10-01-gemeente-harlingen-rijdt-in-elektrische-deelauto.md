@@ -4,7 +4,7 @@ title_tag: Gemeente Harlingen rijdt in elektrische deelauto
 friendly_date: 28 september 2019
 permalink: /nieuws/gemeente-harlingen-rijdt-in-elektrische-deelauto
 category: Persbericht
-image: /uploads/img_1708.jpg
+image: /uploads/22.jpg
 intro: >-
   Vanaf komende maand zullen medewerkers van de gemeente voor dienstreizen zelf
   ook gebruik maken van de deelauto’s. Een mooie stap voor de gemeente in het
