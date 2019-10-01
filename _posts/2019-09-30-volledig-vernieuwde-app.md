@@ -12,4 +12,4 @@ intro: >-
   vormgeving volledig vernieuwd, de app zal ook sneller werken en reageren op
   commando’s.
 ---
-Foto: scheernshot vernieuwde app
+Foto: screenshot vernieuwde app
