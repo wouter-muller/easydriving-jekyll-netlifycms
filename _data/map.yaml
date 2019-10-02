@@ -87,3 +87,7 @@ car_locations:
     car-name: 'Nissan Leaf '
     lat: '53.227771'
     long: '6.557587'
+  - address: J. C. Kapteynlaan 19A
+    car-name: Nissan Leaf
+    lat: '53.228164'
+    long: '6.569743'
