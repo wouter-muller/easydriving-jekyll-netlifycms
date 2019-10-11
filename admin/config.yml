@@ -164,6 +164,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Button tekst", name: "button-text", widget: "string"}
           - {label: "Bevestiging heading", name: "thankyou-heading", widget: "string"}
           - {label: "Bevestiging tekst", name: "thankyou-text", widget: "text"}
+          - {label: "Kleiner tekstje over spamfolder", name: "thankyou-text2", widget: "text"}
 
   # HOE HET WERKT
   - name: "how_it_works_page"
