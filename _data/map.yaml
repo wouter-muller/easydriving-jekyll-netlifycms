@@ -95,3 +95,7 @@ car_locations:
     car-name: ' Nissan Leaf'
     lat: '53.075816'
     long: '6.397712'
+  - address: 'van Wassenaerstraat 8, Groningen'
+    car-name: Nissan Leaf
+    lat: '53.211361'
+    long: '6.551141'
