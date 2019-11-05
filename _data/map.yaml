@@ -99,3 +99,7 @@ car_locations:
     car-name: Nissan Leaf
     lat: '53.211361'
     long: '6.551141'
+  - address: 'Hoofdstraat 125, Midwolde'
+    car-name: Tesla Model 3
+    lat: '53.180213'
+    long: '6.391278'
