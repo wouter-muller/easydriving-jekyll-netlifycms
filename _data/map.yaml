@@ -27,6 +27,10 @@ car_locations:
     car-name: Hyundai Kona Electric
     lat: 53.226734
     long: 6.64806
+  - address: 'Hoofdweg 195, Harkstede'
+    car-name: Nissan Leaf
+    lat: '53.220640'
+    long: '6.648420'
   - address: 'Fivelweg 49, Zijldijk'
     car-name: Nissan Leaf
     lat: '53.382367'
@@ -55,10 +59,18 @@ car_locations:
     car-name: Nissan Leaf
     lat: '53.180205'
     long: '6.391040'
-  - address: 'Hoofdweg 195, Harkstede'
-    car-name: Nissan Leaf
-    lat: '53.220640'
-    long: '6.648420'
+  - address: 'Hoofdstraat 125, Midwolde'
+    car-name: Tesla Model 3
+    lat: '53.180213'
+    long: '6.391278'
+  - address: 'Hoofdstraat 125, Midwolde'
+    car-name: Tesla Model S
+    lat: '53.180172'
+    long: '6.391301'
+  - address: 'Hoofdstraat 125, Midwolde'
+    car-name: Tesla Model X
+    lat: '53.180100'
+    long: '6.391191'
   - address: 'Borgdomein 4, Leek'
     car-name: Kia e-Niro
     lat: '53.156480'
@@ -87,27 +99,15 @@ car_locations:
     car-name: 'Nissan Leaf '
     lat: '53.227771'
     long: '6.557587'
-  - address: J. C. Kapteynlaan 19A
+  - address: 'J. C. Kapteynlaan 19A, Groningen'
     car-name: Nissan Leaf
     lat: '53.228164'
     long: '6.569743'
-  - address: 'Norgerweg 18, Een'
-    car-name: ' Nissan Leaf'
-    lat: '53.075816'
-    long: '6.397712'
   - address: 'van Wassenaerstraat 8, Groningen'
     car-name: Nissan Leaf
     lat: '53.211361'
     long: '6.551141'
-  - address: 'Hoofdstraat 125, Midwolde'
-    car-name: Tesla Model 3
-    lat: '53.180213'
-    long: '6.391278'
-  - address: 'Hoofdstraat 125, Midwolde'
-    car-name: Tesla Model S
-    lat: '53.180172'
-    long: '6.391301'
-  - address: 'Hoofdstraat 125, Midwolde'
-    car-name: Tesla Model X
-    lat: '53.180100'
-    long: '6.391191'
+  - address: 'Norgerweg 18, Een'
+    car-name: ' Nissan Leaf'
+    lat: '53.075816'
+    long: '6.397712'
