@@ -53,8 +53,8 @@ car_locations:
     long: '6.391128'
   - address: 'Hoofdstraat 125, Midwolde'
     car-name: Nissan Leaf
-    lat: '53.179670'
-    long: '6.390920'
+    lat: '53.180205'
+    long: '6.391040'
   - address: 'Hoofdweg 195, Harkstede'
     car-name: Nissan Leaf
     lat: '53.220640'
@@ -103,3 +103,11 @@ car_locations:
     car-name: Tesla Model 3
     lat: '53.180213'
     long: '6.391278'
+  - address: 'Hoofdstraat 125, Midwolde'
+    car-name: Tesla Model S
+    lat: '53.180172'
+    long: '6.391301'
+  - address: 'Hoofdstraat 125, Midwolde'
+    car-name: Tesla Model X
+    lat: '53.180100'
+    long: '6.391191'
