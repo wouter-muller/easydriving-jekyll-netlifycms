@@ -91,6 +91,15 @@ payment_faqs:
       gemaakt zijn. Betaling geschiedt volledig automatisch door middel van
       automatische incasso.
     question: Hoe betaal ik?
+  - answer: >-
+      Nee, het abonnement kan niet gedeeld worden. Iedereen heeft dus een eigen
+      account waarmee hij of zij inlogt op de app. Wel is er een korting voor
+      huisgenoten. Die korting houdt in dat er per huishouden slechts eenmaal
+      abonnementskosten van 5 euro per maand worden gevraagd. Er is dan in het
+      gezin of huishouden een hoofdgebruiker die de abonnementskosten betaalt,
+      de echtgenoot of echtgenote en eventueel kinderen kunnen dan zonder
+      abonnementskosten gebruik maken van onze deelauto's.
+    question: Kan ik het abonnement delen?
 charging_faqs:
   - answer: >-
       Een handleiding voor onder meer het opladen van de deelauto ligt in de
