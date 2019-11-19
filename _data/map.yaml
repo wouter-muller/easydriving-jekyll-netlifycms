@@ -75,10 +75,6 @@ car_locations:
     car-name: Kia e-Niro
     lat: '53.156480'
     long: '6.373800'
-  - address: 'Berkenweg 1, Zuidlaren'
-    car-name: Hyundai Kona Electric
-    lat: '53.081144'
-    long: '6.666995'
   - address: 'Mercuriusweg 6, Tynaarlo'
     car-name: Hyundai Kona Electric
     lat: '53.084023'
