@@ -1,7 +1,7 @@
 ---
 layout: post
 title_tag: Deelauto's voor bedrijven
-friendly_date: 30 november 2019
+friendly_date: 27 november 2019
 permalink: /nieuws/deelauto's-voor-bedrijven
 category: Persbericht
 image: /uploads/kona-voor-screencom-en-puuridee.png
