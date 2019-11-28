@@ -107,3 +107,7 @@ car_locations:
     car-name: ' Nissan Leaf'
     lat: '53.075816'
     long: '6.397712'
+  - address: 'Hynstewaed 13, Easterlittens'
+    car-name: Nissan Leaf
+    lat: '53.134490'
+    long: '5.651100'
