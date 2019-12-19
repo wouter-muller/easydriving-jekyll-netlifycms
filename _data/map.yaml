@@ -71,10 +71,10 @@ car_locations:
     car-name: Tesla Model X
     lat: '53.180100'
     long: '6.391191'
-  - address: 'Borgdomein 4, Leek'
+  - address: 'Clusiusweg 1, Haren'
     car-name: Kia e-Niro
-    lat: '53.156480'
-    long: '6.373800'
+    lat: '53.176630'
+    long: '6.610180'
   - address: 'Mercuriusweg 6, Tynaarlo'
     car-name: Hyundai Kona Electric
     lat: '53.084023'
