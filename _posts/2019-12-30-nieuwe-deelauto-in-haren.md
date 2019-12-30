@@ -9,7 +9,8 @@ intro: >-
   Met de energecoöperatie Duurzaam Haren zijn we enkele maanden geleden in
   contact gekomen omdat ze bezig waren met het realiseren van een e-deelauto in
   Haren. Samen met het bestuur van de coöperatie, zijn we overeengekomen dat we
-  twee deelauto's beschikbaar wilden plaatsen voor de bewoners van Haren.
+  twee deelauto's beschikbaar wilden plaatsen voor de bewoners van Haren,
+  waarvan de eerste nu geplaatst is!
 ---
 In eerste instantie was het afwachten op de procedures die nu bij de gemeente Groningen lopen met betrekking tot de realisatie van twee nieuwe laadpalen. Deze laadpalen worden, hoogstwaarschijnlijk, geplaatst bij het NS-station. Dat zal dan ook de vaste locatie worden van twee deelauto's. Naar verwachting zal het in ieder geval nog wel een maand kunnen duren voordat deze laadpalen gerealiseerd zijn.\
 \
