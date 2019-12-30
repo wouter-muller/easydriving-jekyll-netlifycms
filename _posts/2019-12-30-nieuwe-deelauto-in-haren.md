@@ -2,7 +2,7 @@
 layout: post
 title_tag: 'Nieuwe deelauto: Haren'
 friendly_date: 28 december 2019
-permalink: '/nieuws/nieuwe-deelauto:Haren'
+permalink: /nieuws/nieuwe-deelauto-haren
 category: Persbericht
 image: /uploads/haren-deelauto-kia.jpg
 intro: >-
