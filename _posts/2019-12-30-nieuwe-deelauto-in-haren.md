@@ -16,6 +16,6 @@ In eerste instantie was het afwachten op de procedures die nu bij de gemeente Gr
 \
 Omdat Duurzaam Haren en wij graag eerder wilden starten met het deelauto initiatief, hebben we twee weken geleden afgesproken met een van de bestuursleden dat de eerste deelauto tijdelijk op de oprit bij hem thuis kon komen te staan. De deelauto kan daar worden opgeladen via een stopcontact dat aangelegd is bij het huis. Opladen duurt dan wel wat langer dan bij een laadpaal, maar het maakt wel dat we nu alvast ervaring kunnen opdoen met de deelauto in Haren - en dat is goed nieuws!\
 \
-De eerste ritten in de Kia e-Niro zijn al gemaakt door verschillende bewoners. De ruime en moderne 5-zits is met een range van ongeveer 350 kilometer ook uitstekend te gebruiken voor de lange afstanden.\
+De eerste ritten in de Kia e-Niro zijn al gemaakt door verschillende bewoners. De ruime en moderne 5-zits is met een range van ongeveer 350 kilometer ook uitstekend te gebruiken voor de lange afstanden. De deelauto staat aan de Clusiusweg 1 en is door alle abonnementhouders te reserveren en gebruiken.\
 \
 Foto: Duurzaam Haren
