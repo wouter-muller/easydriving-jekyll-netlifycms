@@ -1,8 +1,8 @@
 ---
 layout: post
-title_tag: Nieuwe deelauto in Haren
+title_tag: 'Nieuwe deelauto: Haren'
 friendly_date: 28 december 2019
-permalink: /nieuws/nieuwe-deelauto-in-haren
+permalink: '/nieuws/nieuwe-deelauto:Haren'
 category: Persbericht
 image: /uploads/haren-deelauto-kia.jpg
 intro: >-
