@@ -12,7 +12,7 @@ intro: >-
   zijn dat de update tot in de puntjes uitgewerkt zou zijn. Dat is dan nu dan
   ook het geval!
 ---
-Naar verwachting zal de update in de eerste weken van januari gereed zijn, zodat gebruikers in het nieuwe jaar minder problemen zullen ondervinden in het gebruik van de app. Alle bestaande (app)gebruikers krijgen hierover informatie toegestuurd per mail. Bij alle nieuwe aanmeldingen wordt de nieuwste versie van de app automatisch gedownload.
+Naar verwachting zal de update tussen nu en de eerste week van januari gereed zijn. Zo zullen gebruikers in het nieuwe jaar minder problemen ondervinden in het gebruik van de app. Alle bestaande (app)gebruikers krijgen hierover informatie toegestuurd per mail. Bij alle nieuwe aanmeldingen wordt de nieuwste versie van de app automatisch gedownload.
 
 Met deze vernieuwing worden verschillende problemen verholpen. Zo zal er minder tot geen last meer zijn van een blanco of wit scherm, zal het doorlopen van het menu, en het ontgrendelen/vergrendelen van de auto, sneller verlopen en verder is de gehele layout van de app in een nieuw jasje gestoken. We hopen dat alle gebruikers veel plezier en gebruikersgemak  van de vernieuwde app zullen ervaren!
 
