@@ -111,7 +111,7 @@ car_locations:
     car-name: Nissan Leaf
     lat: '53.134490'
     long: '5.651100'
-  - address: Petronella Moensstrjitte 5
+  - address: 'Petronella Moensstrjitte 5, Kûbaard'
     car-name: Nissan Leaf
     lat: '53.119360'
     long: '5.571150'
