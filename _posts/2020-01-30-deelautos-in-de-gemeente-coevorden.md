@@ -9,9 +9,7 @@ intro: >-
   In een eerder verschenen nieuwsbrief hebben we aandacht besteed aan de
   mogelijkheid voor een deelauto initiatief in Sleen (gemeente Coevorden). Naast
   de ontwikkelingen in Sleen, wordt er in Dalen (gemeente Coevorden) ook
-  onderzocht in hoeverre er draagvlak is door de bewoners van het dorp. In deze
-  nieuwsbrief zullen we de actuele ontwikkelingen van deze twee dorpen verder
-  belichten.
+  onderzocht in hoeverre er draagvlak is door de bewoners van het dorp.
 ---
 In Sleen is er een actieve bewoner die zich inzet voor de totstandkoming van een deelauto initiatief. Deze bewoonster heeft eerder een informatiebijeenkomst georganiseerd waarbij wij, namens EasyDriving, het een en ander hebben kunnen vertellen over het initiatief en de eventuele mogelijkheden voor in Sleen. Ook hebben de bewoners een kijkje kunnen nemen in twee modellen deelauto's die we hadden mee gebracht. Inmiddels wordt er nu onderzocht in hoeverre, onder andere de gemeente Coevorden, kan meewerken in de totstandkoming van een deelauto initiatief in Sleen.
 
