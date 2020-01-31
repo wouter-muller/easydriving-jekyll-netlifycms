@@ -63,6 +63,15 @@ gulp.task('fonts', function() {
 });
 
 // ----------------------------------------------------------------------------
+// Video
+// ----------------------------------------------------------------------------
+
+gulp.task('video', function() {
+  gulp.src(config.sourceDir + '/videos/**.*')
+  .pipe(gulp.dest(config.outputDir + '/videos'));
+});
+
+// ----------------------------------------------------------------------------
 // Javascript
 // ----------------------------------------------------------------------------
 
@@ -112,6 +121,7 @@ gulp.task('all', function() {
   gulp.start('img');
   gulp.start('css');
   gulp.start('fonts');
+  gulp.start('video');
   gulp.start('js');
   gulp.start('js-third-party');
 });

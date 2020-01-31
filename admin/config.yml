@@ -72,6 +72,11 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Heading", name: "heading", widget: "string"}
           - {label: "Subheading", name: "subheading", widget: "string"}
           - {label: "Button Text", name: "button_text", widget: "string"}
+      - name: "video"
+        label: "Video"
+        file: "/_data/video.yaml"
+        fields:
+          - {label: "Heading", name: "heading", widget: "string"}
       - name: "our_cars"
         label: "Onze auto's"
         file: "/_data/our_cars.yaml"
