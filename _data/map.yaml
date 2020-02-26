@@ -44,17 +44,9 @@ car_locations:
     lat: '53.303012'
     long: '6.493964'
   - address: 'Hoofdstraat 148, Midwolde'
-    car-name: Hyundai Kona Electric
-    lat: '53.185110'
-    long: '6.394275'
-  - address: 'Hoofdstraat 148, Midwolde'
     car-name: Nissan Leaf
     lat: '53.185560'
     long: '6.394490'
-  - address: 'Hoofdstraat 125, Midwolde'
-    car-name: Hyundai Kona Electric
-    lat: ' 53.180197'
-    long: '6.391128'
   - address: 'Hoofdstraat 125, Midwolde'
     car-name: Nissan Leaf
     lat: '53.180205'
