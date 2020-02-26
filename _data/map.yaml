@@ -75,6 +75,10 @@ car_locations:
     car-name: Nissan Leaf (2018)
     lat: '53.119011'
     long: '5.569640'
+  - address: 'Petronella Moensstrjitte 5, Kûbaard'
+    car-name: 'Nissan Leaf '
+    lat: '53.119360'
+    long: '5.571150'
   - address: 'Havenplein 2, Harlingen'
     car-name: Hyundai Kona Electric
     lat: '53.174880'
@@ -103,10 +107,6 @@ car_locations:
     car-name: Nissan Leaf
     lat: '53.134490'
     long: '5.651100'
-  - address: 'Petronella Moensstrjitte 5, Kûbaard'
-    car-name: Nissan Leaf
-    lat: '53.119360'
-    long: '5.571150'
   - address: 'Kadijk 4, Groningen'
     car-name: Hyundai Kona Electric
     lat: '53.242370'
