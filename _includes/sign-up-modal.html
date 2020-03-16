@@ -84,9 +84,14 @@
                 </div>
             </div>
 
-            <div class="c-checkbox u-mb">
+            <div class="c-checkbox u-mb-">
               <input type="checkbox" id="nieuwsbrief-opt-in" name="nieuwsbrief-opt-in">
               <label for="nieuwsbrief-opt-in">{{ site.data.sign_up_modal.newsletter }}</label>
+            </div>
+
+            <div class="c-checkbox u-mb">
+              <input type="checkbox" id="akkoord-met-voorwaarden" name="akkoord-met-voorwaarden" required>
+              <label for="akkoord-met-voorwaarden">Ik ga akkoord met de <a href="voorwaarden" target="_blank">voorwaarden *</a></label>
             </div>
 
             <button type="submit" class="c-button --full-width --cta js-sign-up-submit">{{ site.data.sign_up_modal.button-text }}</button>
