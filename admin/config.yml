@@ -323,6 +323,16 @@ collections: # A list of collections the CMS should be able to edit
           - { label: "Description tag (SEO)", name: "description_tag", widget: "string" }
           - { label: "Permalink", name: "permalink", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
+      - name: 'privacy-voorwaarden'
+        label: "Privacy voorwaarden"
+        file: "pages/privacy-voorwaarden.html"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Title tag (SEO)", name: "title_tag", widget: "string" }
+          - { label: "Description tag (SEO)", name: "description_tag", widget: "string" }
+          - { label: "Permalink", name: "permalink", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
       - name: "klimaat-campagne"
         label: "Klimaatcampagne pagina"
         file: "pages/klimaatcampagne.html"
