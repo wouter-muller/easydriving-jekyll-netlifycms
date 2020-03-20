@@ -16,7 +16,7 @@
                     <div class="c-cm-page">
                         <h1 class="c-heading --large --green u-align-center u-mb+">{{ page.title }}</h1>
                         <div class="c-card">
-                            {{ content | markdownify }}
+                            {{ content | markdownify | replace: "<ul>", "<ul class='c-list u-mb'>"  }}
                         </div>
                     </div>
                 </div>
