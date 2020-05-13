@@ -22,6 +22,7 @@
             id="signup"
             data-netlify="true"
             method="post"
+            netlify-honeypot="postalcode"
         >
             <div class="l-flex">
                 <div class="s-sign-up__input-wrapper">
@@ -52,6 +53,11 @@
                 >
             </div>
 
+
+            <div class="s-sign-up__input-wrapper u-hide">
+                <label for="postalcode" class="s-sign-up__label">Postcode *</label>
+                <input type="email" class="s-sign-up__input" name="postalcode" id="postalcode">
+            </div>
             <div class="s-sign-up__input-wrapper">
                 <label for="telefoonnummer" class="s-sign-up__label">Telefoonnummer *</label>
                 <input type="text" class="s-sign-up__input" name="telefoonnummer" id="telefoonnummer" required
