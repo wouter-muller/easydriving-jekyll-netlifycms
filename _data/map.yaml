@@ -1,9 +1,8 @@
 map_heading: Waar staan de deelauto's?
-map_text_above_map: >-
-  Hieronder staan alle locaties waar op dit moment deelauto initiatieven zijn
-  gestart. Als je abonnee van EasyDriving bent, kun je een van deze deelauto´s
-  reserveren en gebruiken. Deze eerste deelinitiatieven zijn met succes gestart
-  en we zijn volop bezig om nieuwe initiatieven te ontwikkelen!
+map_text_above_map: Hieronder staan alle locaties waar op dit moment deelauto
+  initiatieven zijn gestart. Als je abonnee van EasyDriving bent, kun je een van
+  deze deelauto´s reserveren en gebruiken. Deze eerste deelinitiatieven zijn met
+  succes gestart en we zijn volop bezig om nieuwe initiatieven te ontwikkelen!
 map_heading_below_map: Bij jou in de buurt nog geen deelauto?
 map_text_below_map: >-
   Als er voldoende belangstelling in dezelfde omgeving is, kunnen wij er
@@ -16,98 +15,98 @@ map_text_below_map: >-
   van een gemeente zijn.
 
 
-  Lijkt het jou dus wat om elektrische auto’s te delen met je buren of
-  collega’s? Vraag eens rond in je omgeving en mogelijk gaan wij dan met jullie
-  aan de slag om een deelauto initiatief vorm te geven! De deelauto’s plaatsen
-  wij geheel kosteloos - je betaalt dus echt alleen voor gebruik. Mail of bel
-  ons voor de mogelijkheden op maat.
+  Lijkt het jou dus wat om elektrische auto’s te delen met je buren of collega’s? Vraag eens rond in je omgeving en mogelijk gaan wij dan met jullie aan de slag om een deelauto initiatief vorm te geven! De deelauto’s plaatsen wij geheel kosteloos - je betaalt dus echt alleen voor gebruik. Mail of bel ons voor de mogelijkheden op maat.
 zoom_level: 9
 car_locations:
-  - address: 'Oude Merenweg 10, Meerstad'
+  - address: Oude Merenweg 10, Meerstad
     car-name: Hyundai Kona Electric
     lat: 53.226734
     long: 6.64806
-  - address: 'Hoofdweg 195, Harkstede'
+  - address: Hoofdweg 195, Harkstede
     car-name: Nissan Leaf
-    lat: '53.220640'
-    long: '6.648420'
-  - address: 'Fivelweg 49, Zijldijk'
+    lat: "53.220640"
+    long: "6.648420"
+  - address: Fivelweg 49, Zijldijk
     car-name: Nissan Leaf
-    lat: '53.382367'
-    long: '6.769441'
-  - address: 'Hoofdstraat 85, ´t Zandt'
+    lat: "53.382367"
+    long: "6.769441"
+  - address: Hoofdstraat 85, ´t Zandt
     car-name: Nissan Leaf
-    lat: '53.366100'
-    long: '6.774280'
-  - address: 'Hunzeweg 53, Garnwerd'
+    lat: "53.366100"
+    long: "6.774280"
+  - address: Hunzeweg 53, Garnwerd
     car-name: Nissan Leaf
-    lat: '53.303012'
-    long: '6.493964'
-  - address: 'Hoofdstraat 148, Midwolde'
+    lat: "53.303012"
+    long: "6.493964"
+  - address: Hoofdstraat 148, Midwolde
     car-name: Nissan Leaf
-    lat: '53.185560'
-    long: '6.394490'
-  - address: 'Hoofdstraat 125, Midwolde'
+    lat: "53.185560"
+    long: "6.394490"
+  - address: Hoofdstraat 125, Midwolde
     car-name: Nissan Leaf
-    lat: '53.180205'
-    long: '6.391040'
-  - address: 'Hoofdstraat 125, Midwolde'
+    lat: "53.180205"
+    long: "6.391040"
+  - address: Hoofdstraat 125, Midwolde
     car-name: Tesla Model 3
-    lat: '53.180213'
-    long: '6.391278'
-  - address: 'Hoofdstraat 125, Midwolde'
+    lat: "53.180213"
+    long: "6.391278"
+  - address: Hoofdstraat 125, Midwolde
     car-name: Tesla Model S
-    lat: '53.180172'
-    long: '6.391301'
-  - address: 'Hoofdstraat 125, Midwolde'
+    lat: "53.180172"
+    long: "6.391301"
+  - address: Hoofdstraat 125, Midwolde
     car-name: Tesla Model X
-    lat: '53.180100'
-    long: '6.391191'
-  - address: 'Clusiusweg 1, Haren'
+    lat: "53.180100"
+    long: "6.391191"
+  - address: Clusiusweg 1, Haren
     car-name: Kia e-Niro
-    lat: '53.176630'
-    long: '6.610180'
-  - address: 'Mercuriusweg 6, Tynaarlo'
+    lat: "53.176630"
+    long: "6.610180"
+  - address: Mercuriusweg 6, Tynaarlo
     car-name: Hyundai Kona Electric
-    lat: '53.084023'
-    long: '6.597546'
-  - address: 'Greate Buorren 31, Kûbaard'
+    lat: "53.084023"
+    long: "6.597546"
+  - address: Greate Buorren 31, Kûbaard
     car-name: Nissan Leaf (2018)
-    lat: '53.119011'
-    long: '5.569640'
-  - address: 'Petronella Moensstrjitte 5, Kûbaard'
-    car-name: 'Nissan Leaf '
-    lat: '53.119360'
-    long: '5.571150'
-  - address: 'Havenplein 2, Harlingen'
+    lat: "53.119011"
+    long: "5.569640"
+  - address: Petronella Moensstrjitte 5, Kûbaard
+    car-name: "Nissan Leaf "
+    lat: "53.119360"
+    long: "5.571150"
+  - address: Havenplein 2, Harlingen
     car-name: Hyundai Kona Electric
-    lat: '53.174880'
-    long: '5.411990'
-  - address: 'Havenplein 2, Harlingen'
+    lat: "53.174880"
+    long: "5.411990"
+  - address: Havenplein 2, Harlingen
     car-name: Hyundai Kona Electric
-    lat: '53.174884'
-    long: '5.411787'
-  - address: 'Akkerstraat 26, Groningen'
-    car-name: 'Nissan Leaf '
-    lat: '53.227771'
-    long: '6.557587'
-  - address: 'J. C. Kapteynlaan 19A, Groningen'
+    lat: "53.174884"
+    long: "5.411787"
+  - address: Akkerstraat 26, Groningen
+    car-name: "Nissan Leaf "
+    lat: "53.227771"
+    long: "6.557587"
+  - address: J. C. Kapteynlaan 19A, Groningen
     car-name: Nissan Leaf
-    lat: '53.228164'
-    long: '6.569743'
-  - address: 'van Wassenaerstraat 8, Groningen'
+    lat: "53.228164"
+    long: "6.569743"
+  - address: van Wassenaerstraat 8, Groningen
     car-name: Nissan Leaf
-    lat: '53.211361'
-    long: '6.551141'
-  - address: 'Norgerweg 18, Een'
-    car-name: ' Nissan Leaf'
-    lat: '53.075816'
-    long: '6.397712'
-  - address: 'Hynstewaed 13, Easterlittens'
+    lat: "53.211361"
+    long: "6.551141"
+  - address: Norgerweg 18, Een
+    car-name: " Nissan Leaf"
+    lat: "53.075816"
+    long: "6.397712"
+  - address: Hynstewaed 13, Easterlittens
     car-name: Nissan Leaf
-    lat: '53.134490'
-    long: '5.651100'
-  - address: 'Kadijk 4, Groningen'
+    lat: "53.134490"
+    long: "5.651100"
+  - address: Kadijk 4, Groningen
     car-name: Hyundai Kona Electric
-    lat: '53.242370'
-    long: '6.530760'
+    lat: "53.242370"
+    long: "6.530760"
+  - car-name: Nissan Leaf
+    address: Johann Faberlaan 45, Groningen
+    lat: "53.203670"
+    long: "6.511580"
