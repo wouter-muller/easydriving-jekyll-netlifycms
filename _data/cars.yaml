@@ -1,51 +1,51 @@
 cars:
   - actieradius: 120
+    price_per_day: 27.5
+    seats: 5
+    price_per_hour_label: 2,75
+    title: Nissan Leaf
+    price_per_day_label: 27,50
+    price_per_km: 0.05
     id: 1
     image: /uploads/nissan-leaf.png
-    price_per_day: 27.5
-    price_per_day_label: '27,50'
     price_per_hour: 2.75
-    price_per_hour_label: '2,75'
-    price_per_km: 0.05
-    seats: 5
-    title: Nissan Leaf
   - actieradius: 350
+    price_per_day: 47.5
+    seats: 5
+    price_per_hour_label: 4,75
+    title: Hyundai Kona
+    price_per_day_label: 47,50
+    price_per_km: 0.05
     id: 2
     image: /uploads/hyundai-kona.png
-    price_per_day: 47.5
-    price_per_day_label: '47,50'
     price_per_hour: 4.75
-    price_per_hour_label: '4,75'
-    price_per_km: 0.05
-    seats: 5
-    title: Hyundai Kona
   - actieradius: 350
-    id: 3
-    image: /uploads/tesla-model-3.png
     price_per_day: 85
-    price_per_day_label: '85,00'
-    price_per_hour: 8.5
-    price_per_hour_label: '8,50'
-    price_per_km: 0.05
     seats: 4
-    title: Tesla Model 3
+    price_per_hour_label: 8,50
+    title: Kia e-Niro
+    price_per_day_label: 85,00
+    price_per_km: 0.05
+    id: 3
+    image: /uploads/kia.jpg
+    price_per_hour: 8.5
   - actieradius: 280
+    price_per_day: 150
+    seats: 4
+    price_per_hour_label: 15,00
+    title: Tesla Model S
+    price_per_day_label: 150,00
+    price_per_km: nvt
     id: 4
     image: /uploads/tesla-model-s.png
-    price_per_day: 150
-    price_per_day_label: '150,00'
     price_per_hour: 15
-    price_per_hour_label: '15,00'
+  - actieradius: "350"
+    price_per_day: 175
+    seats: 7
+    price_per_hour_label: 17,50
+    title: Tesla Model X
+    price_per_day_label: 175,00
     price_per_km: nvt
-    seats: 4
-    title: Tesla Model S
-  - actieradius: '350'
     id: 5
     image: /uploads/tesla-model-x.png
-    price_per_day: 175
-    price_per_day_label: '175,00'
     price_per_hour: 17.5
-    price_per_hour_label: '17,50'
-    price_per_km: nvt
-    seats: 7
-    title: Tesla Model X
