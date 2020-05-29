@@ -27,7 +27,7 @@ cars:
     price_per_hour: 4.75
     price_per_hour_label: '4,75'
     price_per_km: 0.05
-    seats: 4
+    seats: 5
     title: Kia e-Niro
   - actieradius: 280
     id: 4
