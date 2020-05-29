@@ -21,14 +21,14 @@ cars:
     title: Hyundai Kona
   - actieradius: 350
     id: 3
-    image: /uploads/tesla-model-3.png
-    price_per_day: 85
-    price_per_day_label: '85,00'
-    price_per_hour: 8.5
-    price_per_hour_label: '8,50'
+    image: /uploads/kia.jpg
+    price_per_day: 47.5
+    price_per_day_label: '47,50'
+    price_per_hour: 4.75
+    price_per_hour_label: '4,75'
     price_per_km: 0.05
     seats: 4
-    title: Tesla Model 3
+    title: Kia e-Niro
   - actieradius: 280
     id: 4
     image: /uploads/tesla-model-s.png
