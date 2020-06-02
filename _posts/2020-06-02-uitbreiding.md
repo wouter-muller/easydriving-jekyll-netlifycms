@@ -5,10 +5,9 @@ friendly_date: 1 juni 2020
 permalink: /nieuws/Uitbreiding
 category: Persbericht
 image: /uploads/deelauto-oosterparkwijk-groningen.jpg
-intro: >-
-  Sinds deze week staan er twee nieuwe deelauto's in de gemeente Groningen.\
-
-  Deze deelauto's staan gestationeerd aan de Dirk Huizingastraat 11 (Oosterparkwijk) en aan de Johann Faberlaan 45 (Hoogkerk).
+intro: Sinds deze week staan er twee nieuwe deelauto's in de gemeente Groningen.
+  Deze deelauto's staan gestationeerd aan de Dirk Huizingastraat 11
+  (Oosterparkwijk) en aan de Johann Faberlaan 45 (Hoogkerk).
 ---
 De geplaatse deelauto, een Nissan Leaf, kan door iedere geïnteresseerde en omwonende worden gebruikt. De eerste aanmeldingen uit Hoogkerk zijn inmiddels al binnengekomen en we hopen dat de bewoners van zowel Hoogkerk, als in de Oosteparkwijk, prettige ervaringen zullen opdoen met de deelauto. De deelauto kan al voor 2,75 euro per uur en 0,05 euro per kilometer worden gebruikt.\
 \
