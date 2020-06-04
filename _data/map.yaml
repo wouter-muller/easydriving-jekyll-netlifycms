@@ -110,3 +110,7 @@ car_locations:
     address: Johann Faberlaan 45, Groningen
     lat: "53.203670"
     long: "6.511580"
+  - address: Raadhuisstraat 1, Roden
+    car-name: Nissan Leaf
+    lat: "53.136970"
+    long: "6.433610"
