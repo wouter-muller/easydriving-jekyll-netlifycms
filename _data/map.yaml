@@ -46,6 +46,18 @@ car_locations:
     car-name: Nissan Leaf
     lat: "53.197326588069615"
     long: "6.579939656264288"
+  - car-name: Nissan Leaf
+    address: Johann Faberlaan 25, Hoogkerk
+    lat: "53.203670"
+    long: "6.511580"
+  - address: Van Wassenaerstraat 8, Groningen
+    car-name: Nissan Leaf
+    lat: "53.21140641906056"
+    long: "6.551218393159384"
+  - address: Tuinbouwstraat 118A, Groningen
+    car-name: Nissan Leaf
+    lat: "53.226982629724404"
+    long: "6.553701660956061"
   - address: Oude Merenweg 10, Meerstad
     car-name: Hyundai Kona Electric
     lat: 53.226734
@@ -74,18 +86,6 @@ car_locations:
     car-name: Hyundai Kona Electric
     lat: "53.084023"
     long: "6.597546"
-  - address: Greate Buorren 31, Kûbaard
-    car-name: Nissan Leaf (2018)
-    lat: "53.119011"
-    long: "5.569640"
-  - address: Petronella Moensstrjitte 5, Kûbaard
-    car-name: "Nissan Leaf "
-    lat: "53.119360"
-    long: "5.571150"
-  - address: Havenplein 2, Harlingen
-    car-name: Hyundai Kona Electric
-    lat: "53.174884"
-    long: "5.411787"
   - address: Akkerstraat 26, Groningen
     car-name: "Nissan Leaf "
     lat: "53.227771"
@@ -94,10 +94,6 @@ car_locations:
     car-name: Nissan Leaf
     lat: "53.228164"
     long: "6.569743"
-  - address: van Wassenaerstraat 8, Groningen
-    car-name: Nissan Leaf
-    lat: "53.211361"
-    long: "6.551141"
   - address: Norgerweg 18, Een
     car-name: " Nissan Leaf"
     lat: "53.075816"
@@ -110,7 +106,3 @@ car_locations:
     car-name: Hyundai Kona Electric
     lat: "53.242370"
     long: "6.530760"
-  - car-name: Nissan Leaf
-    address: Johann Faberlaan 45, Groningen
-    lat: "53.203670"
-    long: "6.511580"
