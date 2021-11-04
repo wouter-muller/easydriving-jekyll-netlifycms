@@ -1,31 +1,31 @@
 cars:
   - actieradius: 120
+    price_per_day: 27.5
+    seats: 5
+    price_per_hour_label: 2,75
+    title: Nissan Leaf
+    price_per_day_label: 27,50
+    price_per_km: "0.07"
     id: 1
     image: /uploads/nissan-leaf.png
-    price_per_day: 27.5
-    price_per_day_label: '27,50'
     price_per_hour: 2.75
-    price_per_hour_label: '2,75'
-    price_per_km: 0.05
-    seats: 5
-    title: Nissan Leaf
   - actieradius: 350
+    price_per_day: "50"
+    seats: 5
+    price_per_hour_label: 5,-
+    title: Hyundai Kona
+    price_per_day_label: 50,-
+    price_per_km: "0.07"
     id: 2
     image: /uploads/hyundai-kona.png
-    price_per_day: 47.5
-    price_per_day_label: '47,50'
-    price_per_hour: 4.75
-    price_per_hour_label: '4,75'
-    price_per_km: 0.05
-    seats: 5
-    title: Hyundai Kona
+    price_per_hour: "5"
   - actieradius: 350
+    price_per_day: "50"
+    seats: 5
+    price_per_hour_label: 5,-
+    title: Kia e-Niro
+    price_per_day_label: 50,-
+    price_per_km: "0.07"
     id: 3
     image: /uploads/kia.jpg
-    price_per_day: 47.5
-    price_per_day_label: '47,50'
-    price_per_hour: 4.75
-    price_per_hour_label: '4,75'
-    price_per_km: 0.05
-    seats: 5
-    title: Kia e-Niro
+    price_per_hour: "5"
