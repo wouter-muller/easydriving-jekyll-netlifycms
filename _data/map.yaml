@@ -42,6 +42,10 @@ car_locations:
     car-name: Hyundai Kona
     lat: "53.176630"
     long: "6.610180"
+  - address: Van Royenlaan 1, Groningen
+    car-name: Nissan Leaf
+    lat: "53.197326588069615"
+    long: "6.579939656264288"
   - address: Oude Merenweg 10, Meerstad
     car-name: Hyundai Kona Electric
     lat: 53.226734
@@ -110,7 +114,3 @@ car_locations:
     address: Johann Faberlaan 45, Groningen
     lat: "53.203670"
     long: "6.511580"
-  - address: Van Royenlaan 1, Groningen
-    car-name: Nissan Leaf
-    lat: "53.197326588069615"
-    long: "6.579939656264288"
