@@ -30,6 +30,14 @@ car_locations:
     car-name: 2x Nissan Leaf
     lat: "53.180205"
     long: "6.391040"
+  - address: Hoofdweg 125, Midwolde
+    car-name: Nissan Leaf
+    lat: "53.180205"
+    long: "6.391040"
+  - address: Onnerweg 33, Haren
+    car-name: Nissan Leaf
+    lat: "53.16710592453491"
+    long: "6.6174927562633306"
   - address: Oude Merenweg 10, Meerstad
     car-name: Hyundai Kona Electric
     lat: 53.226734
@@ -54,18 +62,6 @@ car_locations:
     car-name: Nissan Leaf
     lat: "53.185560"
     long: "6.394490"
-  - address: Hoofdstraat 125, Midwolde
-    car-name: Tesla Model 3
-    lat: "53.180213"
-    long: "6.391278"
-  - address: Hoofdstraat 125, Midwolde
-    car-name: Tesla Model S
-    lat: "53.180172"
-    long: "6.391301"
-  - address: Hoofdstraat 125, Midwolde
-    car-name: Tesla Model X
-    lat: "53.180100"
-    long: "6.391191"
   - address: Clusiusweg 1, Haren
     car-name: Kia e-Niro
     lat: "53.176630"
