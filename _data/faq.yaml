@@ -1,4 +1,4 @@
-heading: FAQ
+heading: Veelgestelde vragen
 general_faqs:
   - answer: Zodra je je aangemeld hebt bij EasyDriving, kun je de auto via de app
       reserveren. In de app vul je de gewenste dag en het gewenste tijdstip van
@@ -19,13 +19,17 @@ general_faqs:
       gemakkelijk, omdat de accu bij een fastned punt (steeds meer verspreid
       over heel Europa) binnen een uur volledig opgeladen is.
     question: Mag ik naar het buitenland met de auto?
-  - answer: In principe niet. Echter, wil je langer dan 5 dagen gebruik maken van de
+  - answer: >-
+      In principe niet. Echter, wil je langer dan 5 dagen gebruik maken van de
       deelauto, stuur dan een mail naar info@easy-driving.eu met deze aanvraag.
+
+
+      Je kunt per account maximaal 1 auto tegelijkertijd reserveren.
     question: Is er een limiet op het reserveren van een auto?
   - answer: Door op de website te klikken op de knop ‘aanmelden’. Vervolgens kun je
       je gegevens invullen. Binnen één werkdag ontvang je een e-mail van
-      OnzeAuto met daarin een activatielink zodat je de app kunt downloaden en
-      direct een reservering kan aanmaken.
+      OnzeAuto met daarin een activatielink, zodat je de app kunt downloaden en
+      direct een reservering kunt aanmaken.
     question: Hoe meld ik me aan?
   - answer: Je bent 18 jaar of ouder en beschikt minimaal 1 jaar over een geldig
       rijbewijs.
@@ -40,12 +44,15 @@ general_faqs:
       info@easy-driving.eu.
     question: Voor hoe lang sluit ik een abonnement af?
 payment_faqs:
-  - answer: Er gelden verschillende tarieven per auto. Er wordt onderscheid gemaakt
+  - answer: >-
+      Er gelden verschillende tarieven per auto. Er wordt onderscheid gemaakt
       tussen een uur- en dagtarief. Je kunt dus per uur betalen, maar ook per
       dag. Het dagtarief is op basis van 24 uur. Hierbij geldt dat er maximaal
       voor tien uren betaald wordt als de auto een volledige dag gereserveerd
-      wordt. Daarnaast geldt een tarief voor de stroom die gebruikt wordt. Voor
-      een uitgebreid overzicht klik je [hier](/tarieven).
+      wordt.
+
+
+      Voor een uitgebreid kostenoverzicht klik je [hier](/tarieven).
     question: Wat kost de auto?
   - answer: >-
       De uurtarieven zijn all-in. Dat houdt in dat er geen extra kosten voor
@@ -75,13 +82,21 @@ payment_faqs:
       zonder abonnementskosten gebruik maken van onze deelauto's.
     question: Kan ik het abonnement delen?
 charging_faqs:
-  - answer: Een handleiding voor onder meer het opladen van de deelauto ligt in de
+  - answer: >-
+      Een handleiding voor onder meer het opladen van de deelauto ligt in de
       deelauto. Online vind je de handleiding van de Nissan Leaf
       [hier](/uploads/Gebruikershandleiding-Nissan-Leaf-(in-de-auto).pdf) en van
       de Hyundai Kona [hier](/uploads/Gebruikershandleiding-Hyundai-Kona.pdf).
+
+
+      Je betaalt geen extra kosten voor het opladen op de thuislocatie.
     question: Hoe moet ik opladen?
-  - answer: Nee. De accu van de auto mag (bijna) leeg ingeleverd worden. De auto
-      dient bij terugkomst wel ten alle tijden opgeladen te worden. Een
-      handleiding van onder meer het opladen van de auto of het loskoppelen van
-      de laadkabel, vind je [hier](/uploads/stappenladen-opladen-ev.pdf).
+  - answer: >-
+      Nee. De accu van de auto mag (bijna) leeg ingeleverd worden. De auto dient
+      bij terugkomst wel ten alle tijden opgeladen te worden. Een handleiding
+      van onder meer het opladen van de auto of het loskoppelen van de
+      laadkabel, vind je [hier](/uploads/stappenladen-opladen-ev.pdf).
+
+
+      Je betaalt geen extra kosten voor het opladen op de thuislocatie.
     question: Moet de auto opgeladen worden ingeleverd?
