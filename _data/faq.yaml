@@ -1,5 +1,20 @@
 heading: Veelgestelde vragen (FAQ)
 general_faqs:
+  - answer: Door op de website te klikken op de knop ‘aanmelden’. Vervolgens kun je
+      je gegevens invullen. Binnen één werkdag ontvang je een e-mail van
+      OnzeAuto met daarin een activatielink, zodat je de app kunt downloaden en
+      direct een reservering kunt aanmaken.
+    question: Hoe meld ik me aan?
+  - answer: Je bent 18 jaar of ouder en beschikt minimaal 1 jaar over een geldig
+      rijbewijs.
+    question: Aan welke voorwaarden moet ik voldoen om me aan te kunnen melden?
+  - answer: Als je je aanmeldt bij EasyDriving, sluit je voor ten minste drie
+      maanden een abonnement af. Daarna is het abonnement maandelijks opzegbaar.
+      Het abonnement kost 5 euro per maand, dus mocht je toch besluiten om geen
+      gebruik meer te willen maken van (een van onze) deelauto's, dan betaal je
+      maximaal 15 euro. Afmelden kan door ons te mailen op het e-mail adres
+      info@easy-driving.eu.
+    question: Voor hoe lang sluit ik een abonnement af?
   - answer: Zodra jouw aanmelding bij EasyDriving is verwerkt, kun je de auto via de
       app reserveren. In de app vul je de gewenste dag en het gewenste tijdstip
       van reservering in, waarna alle beschikbare auto’s worden weergegeven. De
@@ -13,6 +28,8 @@ general_faqs:
       gemaakt wordt. De reservering zal vervolgens herhaaldelijk ingepland
       worden op dezelfde dag op hetzelfde tijdstip.
     question: Wanneer kan ik de auto reserveren?
+  - question: Kan ik ook via de site reserveren?
+    answer: Nee, reserveren kan uitsluitend via de app.
   - answer: Ja, elke deelauto kan gebruikt worden in het buitenland. Zo zien we
       regelmatig dat de Hyundai Kona wordt gebruikt voor ritten naar het
       buitenland, zoals voor een zakenreis of een vakantie. Dit gaat
@@ -26,23 +43,15 @@ general_faqs:
 
       Je kunt per account maximaal 1 auto tegelijkertijd reserveren.
     question: Is er een limiet op het reserveren van een auto?
-  - answer: Door op de website te klikken op de knop ‘aanmelden’. Vervolgens kun je
-      je gegevens invullen. Binnen één werkdag ontvang je een e-mail van
-      OnzeAuto met daarin een activatielink, zodat je de app kunt downloaden en
-      direct een reservering kunt aanmaken.
-    question: Hoe meld ik me aan?
-  - answer: Je bent 18 jaar of ouder en beschikt minimaal 1 jaar over een geldig
-      rijbewijs.
-    question: Aan welke voorwaarden moet ik voldoen om me aan te kunnen melden?
   - answer: Ja, deze kun je [hier](/uploads/sy-driving-30.01.2019-1-.pdf) downloaden.
     question: Is er een handleiding?
-  - answer: Als je je aanmeldt bij EasyDriving, sluit je voor ten minste drie
-      maanden een abonnement af. Daarna is het abonnement maandelijks opzegbaar.
-      Het abonnement kost 5 euro per maand, dus mocht je toch besluiten om geen
-      gebruik meer te willen maken van (een van onze) deelauto's, dan betaal je
-      maximaal 15 euro. Afmelden kan door ons te mailen op het e-mail adres
-      info@easy-driving.eu.
-    question: Voor hoe lang sluit ik een abonnement af?
+  - question: Waarom moet ik van tevoren reserveren?
+    answer: >-
+      Een deelauto is voor iedereen. Het kan dus voorkomen dat de auto al in
+      gebruik is wanneer jij er mee wilt gaan rijden.
+
+
+      Het is niet alleen belangrijk om aan te geven wanneer je wilt vertrekken, maar ook tot hoelang je wegblijft. Het kan gebeuren dat een andere persoon de auto na jou wil gebruiken en die weet dan wanneer die weer beschikbaar is.
 payment_faqs:
   - answer: >-
       Er gelden verschillende tarieven per auto. Er wordt onderscheid gemaakt
