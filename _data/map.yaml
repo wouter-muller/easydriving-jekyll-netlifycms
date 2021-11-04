@@ -18,6 +18,18 @@ map_text_below_map: >-
   Lijkt het jou dus wat om elektrische auto’s te delen met je buren of collega’s? Vraag eens rond in je omgeving en mogelijk gaan wij dan met jullie aan de slag om een deelauto initiatief vorm te geven! De deelauto’s plaatsen wij geheel kosteloos - je betaalt dus echt alleen voor gebruik. Mail of bel ons voor de mogelijkheden op maat.
 zoom_level: 9
 car_locations:
+  - address: Havenplein 2a, Harlingen
+    car-name: Kia e-Niro
+    lat: "53.174880"
+    long: "5.411990"
+  - address: Raadhuisstraat 1, Roden
+    car-name: Nissan Leaf
+    lat: "53.136970"
+    long: "6.433610"
+  - address: Hoofdstraat 125, Midwolde
+    car-name: 2x Nissan Leaf
+    lat: "53.180205"
+    long: "6.391040"
   - address: Oude Merenweg 10, Meerstad
     car-name: Hyundai Kona Electric
     lat: 53.226734
@@ -42,10 +54,6 @@ car_locations:
     car-name: Nissan Leaf
     lat: "53.185560"
     long: "6.394490"
-  - address: Hoofdstraat 125, Midwolde
-    car-name: Nissan Leaf
-    lat: "53.180205"
-    long: "6.391040"
   - address: Hoofdstraat 125, Midwolde
     car-name: Tesla Model 3
     lat: "53.180213"
@@ -76,10 +84,6 @@ car_locations:
     long: "5.571150"
   - address: Havenplein 2, Harlingen
     car-name: Hyundai Kona Electric
-    lat: "53.174880"
-    long: "5.411990"
-  - address: Havenplein 2, Harlingen
-    car-name: Hyundai Kona Electric
     lat: "53.174884"
     long: "5.411787"
   - address: Akkerstraat 26, Groningen
@@ -102,7 +106,7 @@ car_locations:
     car-name: Nissan Leaf
     lat: "53.134490"
     long: "5.651100"
-  - address: Kadijk 4, Groningen
+  - address: Kadijk 5, Groningen
     car-name: Hyundai Kona Electric
     lat: "53.242370"
     long: "6.530760"
@@ -110,7 +114,3 @@ car_locations:
     address: Johann Faberlaan 45, Groningen
     lat: "53.203670"
     long: "6.511580"
-  - address: Raadhuisstraat 1, Roden
-    car-name: Nissan Leaf
-    lat: "53.136970"
-    long: "6.433610"
