@@ -1,7 +1,6 @@
-company_description: >-
-  EasyDriving is een initiatief uit Midwolde in samenwerking met gemeenten en
-  lokale energiecoöperaties.
-links_heading: 'Direct naar:'
+company_description: EasyDriving is een initiatief uit Midwolde in samenwerking
+  met gemeenten en lokale energiecoöperaties.
+links_heading: "Direct naar:"
 contact_heading: Contact
 company_address: |-
   EasyDriving\
@@ -15,7 +14,7 @@ copyright_notice: >-
   [meerstadwebsites.nl](https://meerstadwebsites.nl)
 
 
-  © 2019 EasyDriving - Alle rechten voorbehouden
+  © %YEAR% EasyDriving - Alle rechten voorbehouden
 newsletter_heading: Nieuwsbrief
 newsletter_description: Blijf op de hoogte van het laatste nieuws!
 newsletter_input_placeholder: Vul je e-mail adres in
