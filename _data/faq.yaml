@@ -56,12 +56,12 @@ payment_faqs:
     question: Wat kost de auto?
   - answer: >-
       De uurtarieven zijn all-in. Dat houdt in dat er geen extra kosten voor
-      verzekering, belasting, onderhoud, reparaties en afschrijvingen zijn. Ook
-      zijn er geen borgkosten. Verder geldt voor de volgende gevallen dat deze
+      verzekering, belasting, onderhoud, reparaties en afschrijvingen zijn. Je
+      betaalt ook geen borg. Verder geldt voor de volgende gevallen dat deze
       kosten niet zijn inbegrepen:
 
 
-      * € 0,05 per gereden kilometer
+      * € 0,07 per gereden kilometer
 
       * Voor het gebruik van de deelauto's geldt een extra toeslag van € 0,20 per kilometer als je per gereserveerd uur meer dan 20 kilometer rijdt, of per gereserveerde dag meer dan 200 kilometer.
 
@@ -69,18 +69,17 @@ payment_faqs:
 
       * Verder geldt dat gebruikers die de auto tijdens de rit willen opladen bij een (fastned) laadpunt, een eigen laadpas dienen aan te schaffen om in deze kosten te voorzien.
     question: Wat is (niet) inbegrepen?
-  - answer: Aan het einde van de maand ontvang je een factuur van de ritten die
-      gemaakt zijn. Betaling geschiedt volledig automatisch door middel van
-      automatische incasso.
+  - answer: Je ontvang een factuur via e-mail van de ritten die gemaakt zijn.
+      Betaling geschiedt volledig automatisch door middel van automatische
+      incasso.
     question: Hoe betaal ik?
-  - answer: Nee, het abonnement kan niet gedeeld worden. Iedereen heeft dus een
-      eigen account waarmee hij of zij inlogt op de app. Wel is er een korting
-      voor huisgenoten. Die korting houdt in dat er per huishouden slechts
-      eenmaal abonnementskosten van 5 euro per maand worden gevraagd. Er is dan
-      in het gezin of huishouden een hoofdgebruiker die de abonnementskosten
-      betaalt, de echtgenoot of echtgenote en eventueel kinderen kunnen dan
-      zonder abonnementskosten gebruik maken van onze deelauto's.
-    question: Kan ik het abonnement delen?
+  - answer: >-
+      Nee, het abonnement staat op naam en mag niet gedeeld worden. Iedereen
+      heeft dus een eigen account waarmee hij of zij inlogt op de app.
+
+
+      Wel is er een korting voor huisgenoten. Die korting houdt in dat er per huishouden slechts eenmaal abonnementskosten van 5 euro per maand worden gevraagd. Er is dan in het gezin of huishouden een hoofdgebruiker die de abonnementskosten betaalt, de echtgenoot of echtgenote en eventueel kinderen betalen dan alleen voor het gebruik van onze deelauto's.
+    question: Mag ik het abonnement delen?
 charging_faqs:
   - answer: >-
       Een handleiding voor onder meer het opladen van de deelauto ligt in de
