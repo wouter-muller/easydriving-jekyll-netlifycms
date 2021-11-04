@@ -2,9 +2,9 @@ cars:
   - actieradius: 120
     price_per_day: 27.5
     seats: 5
-    price_per_hour_label: 2,75
+    price_per_hour_label: "2.75"
     title: Nissan Leaf
-    price_per_day_label: 27,50
+    price_per_day_label: "27.50"
     price_per_km: "0.07"
     id: 1
     image: /uploads/nissan-leaf.png
