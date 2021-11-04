@@ -27,7 +27,7 @@ car_locations:
     lat: "53.136970"
     long: "6.433610"
   - address: Hoofdstraat 125, Midwolde
-    car-name: 2x Nissan Leaf
+    car-name: Nissan Leaf
     lat: "53.180205"
     long: "6.391040"
   - address: Hoofdweg 125, Midwolde
@@ -36,53 +36,53 @@ car_locations:
     long: "6.391040"
   - address: Onnerweg 33, Haren
     car-name: Nissan Leaf
-    lat: "53.16710592453491"
-    long: "6.6174927562633306"
+    lat: "53.167105"
+    long: "6.617492"
   - address: Clusiusweg 1, Haren
     car-name: Hyundai Kona
     lat: "53.176630"
     long: "6.610180"
   - address: Van Royenlaan 1, Groningen
     car-name: Nissan Leaf
-    lat: "53.197326588069615"
-    long: "6.579939656264288"
+    lat: "53.197326"
+    long: "6.579939"
   - car-name: Nissan Leaf
     address: Johann Faberlaan 25, Hoogkerk
     lat: "53.203670"
     long: "6.511580"
   - address: Van Wassenaerstraat 8, Groningen
     car-name: Nissan Leaf
-    lat: "53.21140641906056"
-    long: "6.551218393159384"
+    lat: "53.211406"
+    long: "6.551218"
   - address: Tuinbouwstraat 118A, Groningen
     car-name: Nissan Leaf
-    lat: "53.226982629724404"
-    long: "6.553701660956061"
+    lat: "53.226982"
+    long: "6.553701"
   - address: Langs de Erven 275, Groningen
     car-name: Hyundai Kona
-    lat: "53.219412034410404"
-    long: "6.653181371607974"
+    lat: "53.219412"
+    long: "6.653181"
   - address: Hoofdweg 195, Harkstede
     car-name: Nissan Leaf
     lat: "53.220640"
     long: "6.648420"
   - address: Nachtegaalstraat 61, Groningen
     car-name: Nissan Leaf
-    lat: "53.23000888187069"
-    long: "6.5825935409223595"
+    lat: "53.230008"
+    long: "6.582593"
   - address: Kadijk 4, Groningen
     car-name: Hyundai Kona Electric
-    lat: "53.24239033284893"
-    long: "6.531030325038408"
+    lat: "53.242390"
+    long: "6.531030"
   - address: Krassumerstraat 21, Garnwerd
     car-name: Nissan Leaf
-    lat: "53.30397578330264"
-    long: "6.492183921339936"
+    lat: "53.303975"
+    long: "6.492183"
   - address: Kadijk 5, Groningen
     car-name: Hyundai Kona Electric
     lat: "53.242370"
     long: "6.530760"
   - address: Hoofdstraat 85, 't Zand
     car-name: Nissan Leaf
-    lat: "53.36966381414544"
-    long: "6.7714333329845795"
+    lat: "53.369663"
+    long: "6.771433"
