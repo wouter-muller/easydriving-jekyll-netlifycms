@@ -38,6 +38,10 @@ car_locations:
     car-name: Nissan Leaf
     lat: "53.16710592453491"
     long: "6.6174927562633306"
+  - address: Clusiusweg 1, Haren
+    car-name: Hyundai Kona
+    lat: "53.176630"
+    long: "6.610180"
   - address: Oude Merenweg 10, Meerstad
     car-name: Hyundai Kona Electric
     lat: 53.226734
@@ -62,10 +66,6 @@ car_locations:
     car-name: Nissan Leaf
     lat: "53.185560"
     long: "6.394490"
-  - address: Clusiusweg 1, Haren
-    car-name: Kia e-Niro
-    lat: "53.176630"
-    long: "6.610180"
   - address: Mercuriusweg 6, Tynaarlo
     car-name: Hyundai Kona Electric
     lat: "53.084023"
@@ -110,3 +110,7 @@ car_locations:
     address: Johann Faberlaan 45, Groningen
     lat: "53.203670"
     long: "6.511580"
+  - address: Van Royenlaan 1, Groningen
+    car-name: Nissan Leaf
+    lat: "53.197326588069615"
+    long: "6.579939656264288"
