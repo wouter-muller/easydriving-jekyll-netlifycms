@@ -7,7 +7,7 @@ cars:
     price_per_day_label: "27.50"
     price_per_km: "0.07"
     id: 1
-    image: /uploads/nissan-leaf.png
+    image: /uploads/nissan-leaf-bij-easydriving.png
     price_per_hour: 2.75
   - actieradius: 350
     price_per_day: "50"
@@ -17,7 +17,7 @@ cars:
     price_per_day_label: 50,-
     price_per_km: "0.07"
     id: 2
-    image: /uploads/hyundai-kona.png
+    image: /uploads/hyundai-kona-bij-easydriving.png
     price_per_hour: "5"
   - actieradius: 350
     price_per_day: "50"
@@ -27,5 +27,5 @@ cars:
     price_per_day_label: 50,-
     price_per_km: "0.07"
     id: 3
-    image: /uploads/kia.jpg
+    image: /uploads/kia-e-niro-bij-easydriving.png
     price_per_hour: "5"
