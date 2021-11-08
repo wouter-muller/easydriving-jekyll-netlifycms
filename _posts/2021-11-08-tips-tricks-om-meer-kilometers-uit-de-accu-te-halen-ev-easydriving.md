@@ -1,6 +1,6 @@
 ---
 layout: post
-title_tag: Tips & tricks om meer kilometers uit de accu te halen - EV - EasyDriving
+title_tag: Tips & tricks om meer kilometers uit de accu te halen
 friendly_date: 8 november 2021
 permalink: tips-en-tricks-meer-kilometers-uit-de-accu-halen-bij-elektrische-auto-ev
 category: nieuws
