@@ -8,7 +8,7 @@ image: /uploads/03-09-2019_easydriving-met-renée_lsfotografie-009.jpg
 intro: >-
   Het wordt kouder in het Noorden. Dat betekent dat je dan minder kilometers uit
   een acculading kunt halen, omdat bij lage temperaturen een accu minder stroom
-  vasthoudt. Daarnaast gebruik je meer stroom vanwege de verwarming.\
+  vasthoudt. Daarnaast gebruik je meer stroom vanwege de verwarming.
 
   Daarom een paar tips om toch nog wat meer kilometers uit je acculading te halen.
 ---
