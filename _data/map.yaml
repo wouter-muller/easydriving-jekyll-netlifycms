@@ -82,7 +82,7 @@ car_locations:
     car-name: Hyundai Kona Electric
     lat: "53.242370"
     long: "6.530760"
-  - address: Hoofdstraat 85, 't Zand
+  - address: Hoofdstraat 85, t Zand
     car-name: Nissan Leaf
     lat: "53.369663"
     long: "6.771433"
