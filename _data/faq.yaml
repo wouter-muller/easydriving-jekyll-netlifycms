@@ -29,10 +29,11 @@ general_faqs:
       worden op dezelfde dag op hetzelfde tijdstip.
     question: Wanneer kan ik de auto reserveren?
   - question: Kan ik ook via mijn computer een auto reserveren?
-    answer: Ja, dat kan via <https://bo.wego.app>. Het starten van de reservering en
-      de auto openen kan alleen ook met de computer, maar om de reservering te
-      starten en de auto te openen moet je die meenemen naar de auto. Het is
-      daarom aan te radenom hiervoor de app te gebruiken.
+    answer: Ja, dat kan via <https://bo.wego.app>. Houdt je inlog**naam** en
+      wachtwoord bij de hand. Het starten van de reservering en de auto openen
+      kan alleen ook met de computer, maar om de reservering te starten en de
+      auto te openen moet je die meenemen naar de auto. Het is daarom aan te
+      radenom hiervoor de app te gebruiken.
   - question: Kan ik ook via de site reserveren?
     answer: Nee, reserveren kan uitsluitend via de app.
   - answer: Ja, elke deelauto kan gebruikt worden in het buitenland. Zo zien we
