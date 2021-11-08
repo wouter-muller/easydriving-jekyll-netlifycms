@@ -4,7 +4,7 @@ general_faqs:
       je gegevens invullen. Binnen één werkdag ontvang je een e-mail van
       OnzeAuto met daarin een activatielink, zodat je de app kunt downloaden en
       direct een reservering kunt aanmaken.
-    question: Hoe meld ik me aan?
+    question: Hoe meld ik me aan bij EasyDriving?
   - answer: Je bent 18 jaar of ouder en beschikt minimaal 1 jaar over een geldig
       rijbewijs.
     question: Aan welke voorwaarden moet ik voldoen om me aan te kunnen melden?
@@ -28,6 +28,11 @@ general_faqs:
       gemaakt wordt. De reservering zal vervolgens herhaaldelijk ingepland
       worden op dezelfde dag op hetzelfde tijdstip.
     question: Wanneer kan ik de auto reserveren?
+  - question: Kan ik ook via mijn computer een auto reserveren?
+    answer: Ja, dat kan via <https://bo.wego.app>. Het starten van de reservering en
+      de auto openen kan alleen ook met de computer, maar om de reservering te
+      starten en de auto te openen moet je die meenemen naar de auto. Het is
+      daarom aan te radenom hiervoor de app te gebruiken.
   - question: Kan ik ook via de site reserveren?
     answer: Nee, reserveren kan uitsluitend via de app.
   - answer: Ja, elke deelauto kan gebruikt worden in het buitenland. Zo zien we
