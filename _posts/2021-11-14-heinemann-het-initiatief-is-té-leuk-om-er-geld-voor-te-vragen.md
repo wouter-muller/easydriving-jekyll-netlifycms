@@ -13,7 +13,7 @@ In Haren zijn namelijk geen openbare laadpalen, daarom staan de twee auto's in d
 
 ## Anderen ook enthousiast maken
 
-Toen Heinemann hoorde dat er behoefte was aan een extra laadplek in Haren, heeft hij zich aangeboden. En dat niet alleen, hij heeft ook flyers in de buurt verspreid en buren aangemoedigd om aan zich aan te melden.\
+Toen Heinemann hoorde dat er behoefte was aan een extra laadplek in Haren, heeft hij zich aangeboden. En dat niet alleen, hij heeft ook flyers in de buurt verspreid, een bord aan het begin van zijn oprit geplaatst en buren aangemoedigd om aan zich aan te melden.\
 "Er waren mensen die hun auto moesten vervangen, omdat die niet door de APK kwam. Andere mensen overwogen een tweede auto te nemen, maar die staat eigenlijk alleen op de oprit. Koop je dan een nieuwe(re) auto, met alle bijbehorende maandelijkse lasten en eventuele lening? Of word je klant bij EasyDriving en betaal je een klein maandabonnement en vervolgens alleen voor het gebruik? Dan is een deelauto veel voordeliger!"
 
 ## Niet alleen financieel voordeliger
