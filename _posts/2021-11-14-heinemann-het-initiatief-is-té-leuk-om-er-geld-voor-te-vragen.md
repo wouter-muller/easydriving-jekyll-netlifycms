@@ -23,4 +23,4 @@ Volgens Heinemann is het niet alleen voordeliger voor de portemonnee. "Iedere au
 ## Grootste voordeel om deelauto op oprit te hebben
 
 Om gebruik te maken van EasyDriving kan een gebruiker zich aanmelden, waarna alles verder via de bijbehorende app verloopt. Heinemann hoeft geen klanten te ontvangen, of sleuteloverdracht te doen. Wel zorgt hij ervoor dat de auto regelmatig een schoonmaakbeurt krijgt en hij zet de auto aan het laadpunt wanneer een klant is vergeten dat te doen.\
-Uiteraard krijgt hij de laadstroom vergoed, maar verder hoeft Heinemann geen vergoeding voor zijn dienst aan EasyDriving. Het grootste voordeel om een deelauto op de oprit te hebben? "Ik hoef nooit ver te lopen om de auto te gebruiken. Hij staat immers al op de oprit!" vertelt Heinemann enthousiast.
+Uiteraard krijgt hij de laadstroom vergoed, maar verder hoeft Heinemann geen vergoeding voor zijn dienst aan EasyDriving. Het grootste voordeel om een deelauto op de oprit te hebben? "Ik hoef nooit ver te lopen om de auto te gebruiken. Hij staat immers al op de oprit!"
