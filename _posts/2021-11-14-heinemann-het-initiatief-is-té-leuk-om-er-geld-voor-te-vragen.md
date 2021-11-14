@@ -18,7 +18,7 @@ Toen Heinemann hoorde dat er behoefte was aan een extra laadplek in Haren, heeft
 
 ## Niet alleen financieel voordeliger
 
-Volgens Heinemann is het niet alleen voordeliger voor de portemonnee. "Iedere auto die gebouwd wordt, heeft een flinke voetafdruk in het milieu. Als dan één persoon die auto soms gebruikt, is dat een flinke belasting. Bij een deelauto zijn er meerdere personen en zelfs meerdere gezinnen die één auto gebruiken. Dat scheelt enorm." EasyDriving heeft ook alleen elektrische auto's, wat een nog minder grote uitstoot van CO2 met zich meebrengt.
+Volgens Heinemann is het niet alleen voordeliger voor de portemonnee. "Iedere auto die gebouwd wordt, heeft een flinke voetafdruk in het milieu. Als dan één persoon die auto soms gebruikt, is dat een flinke belasting. Bij een deelauto zijn er meerdere personen en zelfs meerdere gezinnen die één auto gebruiken. Dat scheelt enorm." EasyDriving heeft ook alleen elektrische auto's, wat een nog veel minder grote uitstoot van CO2 met zich meebrengt.
 
 ## Grootste voordeel om deelauto op oprit te hebben
 
