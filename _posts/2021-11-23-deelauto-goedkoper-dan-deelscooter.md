@@ -13,7 +13,7 @@ Mark en Lisanne wonen in Haren. Ze hebben een huis gekocht, met de hulp van hun 
 
 Maar een auto is geen optie voor Mark en Lisanne, aangezien ze net een woning hebben gekocht. Dat is gewoon te duur. Ze willen echter nog wel een TV-kast kopen. Lisanne heeft er eentje op de site van de bekende Zweedse meubelwinkel gezien. Het kan worden bezorgd, maar dat kost 49 euro! Dat hebben ze er niet voor over.
 
-Ze hebben een kennis gevraagd of die hen kan helpen. Die kan dat de volgende dag doen, alleen tussen 16.00 en 17.00 uur. Mark of Lisanne zal dan op hun werk moeten vragen of ze eerder naar huis mogen. Sowieso willen ze eerst wel even de kast in het echt bekijken, dus kunnen ze er met de bus of deelscooter er naar toe gaan. Met de bus betekent dat overstappen en een flinke reistijd. En Lisanne heeft uitgerekend dat ze met een deelscooter al snel € 12,50 of meer kwijt zijn!
+Ze hebben een kennis gevraagd of die hen kan helpen. Die kan dat de volgende dag doen, alleen tussen 16.00 en 17.00 uur. Mark of Lisanne zal dan op het werk moeten vragen of ze eerder naar huis mogen. Sowieso willen ze eerst wel even de kast in het echt bekijken, dus kunnen ze er met de bus of deelscooter er naar toe gaan. Met de bus betekent dat overstappen en een flinke reistijd. En Lisanne heeft uitgerekend dat ze met een deelscooter al snel € 12,50 of meer kwijt zijn!
 
 Mark heeft gehoord dat een kennis een deelauto gebruikt van EasyDriving. Die hebben er zelfs al een koelkast mee vervoerd, het blijkt dat zo'n Leaf erg veel ruimte heeft. Ze informeren over de prijs en het blijkt dat ze dan maar iets meer dan 6 euro voor de rit betalen én dat ze dan meteen het kastje mee naar huis kunnen nemen!
 
