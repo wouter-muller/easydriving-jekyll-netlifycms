@@ -9,9 +9,9 @@ intro: Een deelscooter is vaak de keuze van jongeren die hun mobiliteit binnen
   Groningen of directe omgeving willen verbeteren. Maar wist je dat het vaak
   goedkoper is om met een deelauto te gaan? Bekijk het in dit praktijkvoorbeeld.
 ---
-Mark en Lisanne wonen in Haren. Ze hebben een huis gekocht, met de hulp van hun ouders. Ze werken beide in de stad Groningen, dus gaan ze met de bus naar hun werk. Ze willen wel graag een auto voor het bezoek aan bijvoorbeeld hun ouders en locaties binnen Groningen die niet zo gemakkelijk per bus bereikbaar zijn.
+Mark en Lisanne wonen in Haren. Ze hebben een huis gekocht, met de hulp van hun ouders. Ze werken beide in de stad Groningen, dus gaan ze met de bus naar hun werk. Ze zouden wel graag een auto willen voor het bezoek aan bijvoorbeeld hun ouders en locaties binnen Groningen die niet zo gemakkelijk per bus bereikbaar zijn.
 
-Een auto is geen optie voor Mark en Lisanne, aangezien ze net een woning hebben gekocht. Dat is gewoon te duur. Maar ze willen wel nog een TV-kast kopen. Lisanne heeft er eentje op de site van de bekende Zweedse meubelwinkel gezien. Het kan worden bezorgd, maar dat kost 49 euro! Dat hebben ze er niet voor over.
+Maar een auto is geen optie voor Mark en Lisanne, aangezien ze net een woning hebben gekocht. Dat is gewoon te duur. Maar ze willen wel nog een TV-kast kopen. Lisanne heeft er eentje op de site van de bekende Zweedse meubelwinkel gezien. Het kan worden bezorgd, maar dat kost 49 euro! Dat hebben ze er niet voor over.
 
 Ze hebben een kennis gevraagd of die hen kan helpen. Die kan dat de volgende dag doen. Maar dan willen ze eerst wel even de kast in het echt bekijken, dus kunnen ze dan met de bus of deelscooter er naar toe gaan. Met de bus betekent dat overstappen en een flinke reistijd. En Lisanne heeft uitgerekend dat ze met een deelscooter al snel € 12,50 of meer kwijt zijn!
 
