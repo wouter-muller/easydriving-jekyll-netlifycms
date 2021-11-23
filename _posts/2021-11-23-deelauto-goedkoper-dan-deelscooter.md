@@ -11,7 +11,7 @@ intro: Een deelscooter is vaak de keuze van jongeren die hun mobiliteit binnen
 ---
 Mark en Lisanne wonen in Haren. Ze hebben een huis gekocht, met de hulp van hun ouders. Ze werken beide in de stad Groningen, dus gaan ze met de bus naar hun werk. Ze zouden wel graag een auto willen voor het bezoek aan bijvoorbeeld hun ouders en locaties binnen Groningen die niet zo gemakkelijk per bus bereikbaar zijn.
 
-Maar een auto is geen optie voor Mark en Lisanne, aangezien ze net een woning hebben gekocht. Dat is gewoon te duur. Maar ze willen wel nog een TV-kast kopen. Lisanne heeft er eentje op de site van de bekende Zweedse meubelwinkel gezien. Het kan worden bezorgd, maar dat kost 49 euro! Dat hebben ze er niet voor over.
+Maar een auto is geen optie voor Mark en Lisanne, aangezien ze net een woning hebben gekocht. Dat is gewoon te duur. Ze willen echter nog wel een TV-kast kopen. Lisanne heeft er eentje op de site van de bekende Zweedse meubelwinkel gezien. Het kan worden bezorgd, maar dat kost 49 euro! Dat hebben ze er niet voor over.
 
 Ze hebben een kennis gevraagd of die hen kan helpen. Die kan dat de volgende dag doen, alleen tussen 16.00 en 17.00 uur. Mark of Lisanne zal dan op hun werk moeten vragen of ze eerder naar huis mogen. Maar sowieso willen ze eerst wel even de kast in het echt bekijken, dus kunnen ze er met de bus of deelscooter er naar toe gaan. Met de bus betekent dat overstappen en een flinke reistijd. En Lisanne heeft uitgerekend dat ze met een deelscooter al snel € 12,50 of meer kwijt zijn!
 
