@@ -17,7 +17,7 @@ Ze hebben een kennis gevraagd of die hen kan helpen. Die kan dat de volgende dag
 
 Mark heeft gehoord dat een kennis een deelauto gebruikt van EasyDriving. Die hebben er zelfs al een koelkast mee vervoerd, het blijkt dat zo'n Leaf erg veel ruimte heeft. Ze informeren over de prijs en het blijkt dat ze dan maar iets meer dan 6 euro voor de rit betalen én dat ze dan meteen het kastje mee naar huis kunnen nemen!
 
-Ze schrijven zich in en de volgende dag rijden ze naar de Zweedse meubelwinkel bij het Sontplein. Ze nemen meteen ook nog wat andere spullen mee die ze nodig hebben voor hun nieuwe woning, waaronder een leuke bureaulamp en bijpassende stalamp. Nog geen uur later staan ze met zijn beiden de meubels in elkaar te sleutelen.
+Ze schrijven zich in en de volgende dag rijden ze naar de Zweedse meubelwinkel bij het Sontplein. Ze nemen meteen ook nog wat andere spullen mee die ze nodig hebben voor hun nieuwe woning, waaronder een leuke bureaulamp en bijpassende stalamp. Nog geen uur later staan ze samen de meubels in elkaar te sleutelen.
 
 Die avond zitten ze tevreden voor de TV. Voor iets meer dan 6 euro comfortabel naar de Zweedse meubelaar gereden, meteen alles kunnen meenemen en dat allemaal op het tijdstip dat het hun uitkomt. Dat gaan ze vast wel vaker doen.
 
