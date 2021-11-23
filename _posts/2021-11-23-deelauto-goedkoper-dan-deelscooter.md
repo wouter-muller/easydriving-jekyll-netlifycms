@@ -2,7 +2,7 @@
 layout: post
 title_tag: Deelauto goedkoper dan deelscooter
 friendly_date: 23 november 2021
-permalink: deelauto-goedkoper-dan-deelscooter
+permalink: /nieuws/deelauto-goedkoper-dan-deelscooter
 category: Praktijkvoorbeeld
 image: /uploads/prijsvergelijking-kortere-afstand-met-deelscooters.png
 intro: Een deelscooter is vaak de keuze van jongeren die hun mobiliteit binnen
