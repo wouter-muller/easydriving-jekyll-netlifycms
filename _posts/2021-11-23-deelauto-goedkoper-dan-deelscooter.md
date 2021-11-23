@@ -23,4 +23,4 @@ Die avond zitten ze tevreden voor de TV. Voor iets meer dan 6 euro comfortabel n
 
 *Disclaimer: dit is een praktijkvoorbeeld. Mark en Lisanne zijn twee fictieve personen en iedere overeenkomst met daadwerkelijke personen berust op louter toeval.*
 
-*Wil je inzoomen op het rekenvoorbeeld? [Klik dan hier](https://d33wubrfki0l68.cloudfront.net/841a90b9def7f150676afb04d88117d94d2f2104/84736/uploads/prijsvergelijking-kortere-afstand-met-deelscooters.png).*
+*Wil je inzoomen op het rekenvoorbeeld? [Klik dan hier](https://d33wubrfki0l68.cloudfront.net/841a90b9def7f150676afb04d88117d94d2f2104/84736/uploads/prijsvergelijking-kortere-afstand-met-deelscooters.png). Genoemde prijzen zijn inclusief BTW en exclusief abonnementsgeld (€ 5,-).*
