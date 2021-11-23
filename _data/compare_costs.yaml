@@ -12,7 +12,7 @@ benzine_label: Benzine
 subscription_label: Lidmaatschap EasyDriving
 deelauto_label: Kosten deelauto
 distance: 5000
-maximum: "100000"
+maximum: "50000"
 afschrijvingskosten: 3537
 verzekering: 540
 belasting: 600
