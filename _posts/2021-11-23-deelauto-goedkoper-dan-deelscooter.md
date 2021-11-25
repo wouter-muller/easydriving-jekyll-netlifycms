@@ -19,7 +19,7 @@ Mark heeft gehoord dat een kennis een deelauto gebruikt van EasyDriving. Die heb
 
 Ze schrijven zich in en de volgende dag rijden ze naar de meubelwinkel bij het Sontplein. Ze nemen meteen ook nog wat andere spullen mee die ze nodig hebben voor hun nieuwe woning, waaronder een leuke bureaulamp en bijpassende stalamp. Nog geen uur later staan ze samen de meubels in elkaar te sleutelen.
 
-Die avond zitten ze tevreden voor de TV. Voor iets meer dan 6 euro comfortabel naar de Zweedse meubelaar gereden, meteen alles kunnen meenemen en dat allemaal op het tijdstip dat het hen uitkomt. Dat gaan ze vast wel vaker doen.
+Die avond zitten ze tevreden voor de TV. Voor iets meer dan 6 en een halve euro comfortabel naar de Zweedse meubelaar gereden, meteen alles kunnen meenemen en dat allemaal op het tijdstip dat het hen uitkomt. Dat gaan ze vast wel vaker doen!
 
 *Disclaimer: dit is een praktijkvoorbeeld. Mark en Lisanne zijn twee fictieve personen en iedere overeenkomst met daadwerkelijke personen berust op louter toeval.*
 
