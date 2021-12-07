@@ -1,6 +1,6 @@
 ---
 layout: post
-title_tag: Gebruik deelauto t.o.v. maadlasten eigen auto
+title_tag: Gebruik deelauto t.o.v. maandlasten eigen auto
 friendly_date: 7 december 2021
 permalink: nieuws/gebruik-deelauto-tov-maandlasten-eigen-auto
 category: Praktijkvoorbeeld
