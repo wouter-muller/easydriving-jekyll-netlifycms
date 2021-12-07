@@ -19,10 +19,11 @@ Mark kijkt naar de laatste EasyDriving factuur en ziet dat ze de vorige maand ro
 
 Ze nemen de bedragen samen door.
 
-* **Kona**: uurprijs is € 5,- en de eerste 20 km betaal je € 0,07 per km. Dat kost € 6,40 en is gemiddeld € 0,32 per km. Daarna betaal je in het uur € 0,27 per km.\
-  **Gemiddeld** zou je kunnen zeggen dat je **€ 0,30 per km** betaalt.
-* **Leaf**: uurprijs is € 2,75 en de eerste 20 km € 0,07 per km. Dat kost € 4,15 en is gemiddeld € 0,21 per km. Daarna betaal je in het uur ook € 0,27 per km.\
-  Gemiddeld zou je ervan kunnen uitgaan dat je **€ 0,25 per km** betaalt.
+**\* Kona**: uurprijs is € 5,- en de eerste 20 km betaal je € 0,07 per km. Dat kost € 6,40 en is gemiddeld € 0,32 per km. Daarna betaal je in het uur € 0,27 per km.\
+**Gemiddeld** zou je kunnen zeggen dat je **€ 0,30 per km** betaalt.
+
+**\* Leaf**: uurprijs is € 2,75 en de eerste 20 km € 0,07 per km. Dat kost € 4,15 en is gemiddeld € 0,21 per km. Daarna betaal je in het uur ook € 0,27 per km.\
+Gemiddeld zou je ervan kunnen uitgaan dat je **€ 0,25 per km** betaalt.
 
 Voor dezelfde maandlasten van een eigen Kona kun je dan bij EasyDriving met de Kona 1700 km rijden en met de Leaf zelfs meer dan 2000 km! Voor de maandlasten van de VW Golf kun je bij EasyDriving met de Kona 1400 km rijden en met de Leaf 1680 km!\
 Als je dan nog het EasyDriving lidmaatschap in de prijs verwerkt kom je in het laagste geval nog boven de 1375 km uit.
