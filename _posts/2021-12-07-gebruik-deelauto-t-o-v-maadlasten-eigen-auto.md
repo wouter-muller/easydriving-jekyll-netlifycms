@@ -32,4 +32,6 @@ Als Mark en Lisanne dan ook nog realiseren dat de maandlasten er alleen voor zor
 
 EasyDriving is Samen Slim Rijden. Helemaal zo gek nog niet.
 
+*Disclaimer: dit is een praktijkvoorbeeld. Mark en Lisanne zijn twee fictieve personen en iedere overeenkomst met daadwerkelijke personen berust op louter toeval.*
+
 *Wil je inzoomen op het rekenvoorbeeld? [Klik dan hier.](https://d33wubrfki0l68.cloudfront.net/fd2ec45aec26f76b25663488456723f7c6a4bb01/cb573/uploads/prijsvergelijking-autobezit-vs-deelautogebruik.png) Genoemde prijzen zijn inclusief BTW.*
