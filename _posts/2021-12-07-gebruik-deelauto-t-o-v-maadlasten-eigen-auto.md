@@ -26,7 +26,7 @@ Ze nemen de bedragen samen door.
 Gemiddeld zou je ervan kunnen uitgaan dat je **€ 0,25 per km** betaalt.
 
 Voor dezelfde maandlasten van een eigen Kona kun je dan bij EasyDriving met de Kona 1700 km rijden en met de Leaf zelfs meer dan 2000 km! Voor de maandlasten van de VW Golf kun je bij EasyDriving met de Kona 1400 km rijden en met de Leaf 1680 km!\
-Als je dan nog het EasyDriving lidmaatschap in de prijs verwerkt kom je in het laagste geval nog boven de 1375 km uit.
+Als je dan nog het EasyDriving lidmaatschap in de prijs verwerkt kom je in het laagste geval nog altijd boven de 1375 km uit.
 
 Als Mark en Lisanne dan ook nog realiseren dat de maandlasten er alleen voor zorgen dat de auto op de oprit staat en er dan nog niet één kilometer mee gereden is, besluiten ze lekker bij EasyDriving te blijven.
 
