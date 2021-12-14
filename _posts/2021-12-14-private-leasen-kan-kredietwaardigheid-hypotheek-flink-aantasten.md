@@ -7,9 +7,8 @@ category: Achtergrond
 image: /uploads/private-leasen-kan-kredietwaardigheid-hypotheek-flink-aantasten.jpg
 intro: Als je overweegt om binnen afzienbare tijd een hypotheek af te sluiten,
   dan is het belangrijk om niet een leasecontract te hebben voor bijvoorbeeld
-  een auto. Dat zeggen hypotheekadviseurs en de Vereniging Eigen Huis op de
-  [site van RTL
-  Nieuws](https://www.rtlnieuws.nl/economie/life/artikel/5272294/hypotheek-private-lease-auto-minder-lenen).
+  een auto. Dat zeggen hypotheekadviseurs en de Vereniging Eigen Huis op de site
+  van RTL Nieuws.
 ---
 ## Leasen telt nu al mee
 
@@ -19,10 +18,11 @@ Maar als je al financiële verplichtingen hebt, zoals voor private lease, dan ga
 
 ## Deelauto telt niet mee
 
-Wanneer je inplaats van een private lease voor een auto gebruik maakt van een deelauto, dan heb je dat probleem niet. De auto is niet van jou en je betaalt ook niet voor het bezit ervan. Door gebruik te maken van een deelauto kun je dus een hoger hypotheekbedrag regelen. Volgens een berekening dat in het bericht is opgenomen kan dit tienduizenden euro's schelen.
+Wanneer je in plaats van een private lease voor een auto gebruik maakt van een deelauto, dan heb je dat probleem niet. De auto is niet van jou en je betaalt ook niet voor het bezit ervan. Door gebruik te maken van een deelauto kun je dus een hoger hypotheekbedrag regelen. Volgens een berekening dat in [het bericht is opgenomen](https://www.rtlnieuws.nl/economie/life/artikel/5272294/hypotheek-private-lease-auto-minder-lenen) kan dit tienduizenden euro's schelen.
 
 Dit geldt overigens niet alleen bij een hypotheek, maar ook bijvoorbeeld voor het aanvragen van een andere lening.
 
 
 
+bron bericht: [RTL Nieuws](https://www.rtlnieuws.nl/economie/life/artikel/5272294/hypotheek-private-lease-auto-minder-lenen)
 [Background photo created by xb100 - www.freepik.com](https://www.freepik.com/photos/background)
