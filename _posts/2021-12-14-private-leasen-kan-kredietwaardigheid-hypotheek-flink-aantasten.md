@@ -24,5 +24,5 @@ Dit geldt overigens niet alleen bij een hypotheek, maar ook bijvoorbeeld voor he
 
 
 
-bron bericht: [RTL Nieuws](https://www.rtlnieuws.nl/economie/life/artikel/5272294/hypotheek-private-lease-auto-minder-lenen)\
+bron bericht: [RTL Nieuws](https://www.rtlnieuws.nl/economie/life/artikel/5272294/hypotheek-private-lease-auto-minder-lenen).\
 [Background photo created by xb100 - www.freepik.com](https://www.freepik.com/photos/background)
