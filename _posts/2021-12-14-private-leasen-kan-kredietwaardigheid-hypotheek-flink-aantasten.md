@@ -22,3 +22,7 @@ Maar als je al financiële verplichtingen hebt, zoals voor private lease, dan ga
 Wanneer je inplaats van een private lease voor een auto gebruik maakt van een deelauto, dan heb je dat probleem niet. De auto is niet van jou en je betaalt ook niet voor het bezit ervan. Door gebruik te maken van een deelauto kun je dus een hoger hypotheekbedrag regelen. Volgens een berekening dat in het bericht is opgenomen kan dit tienduizenden euro's schelen.
 
 Dit geldt overigens niet alleen bij een hypotheek, maar ook bijvoorbeeld voor het aanvragen van een andere lening.
+
+
+
+[Background photo created by xb100 - www.freepik.com](https://www.freepik.com/photos/background)
