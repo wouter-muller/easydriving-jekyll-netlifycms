@@ -1,16 +1,15 @@
 heading: Hoe werkt het?
-intro_text: >-
-  EasyDriving stimuleert ondernemers en particulieren om een elektrische auto te
-  delen. Als bedrijven of bewoners van dorpen en wijken interesse hebben in het
-  delen van een elektrische auto, dan kan EasyDriving de auto(‘s) en het systeem
-  faciliteren. Als er een deelauto in de buurt of bij het bedrijf staat, dan kan
-  elke gebruiker met de app de auto reserveren, openen, ermee rijden en de auto
-  sluiten. Sleuteloverdracht is dus niet nodig en de verrekening volgt achteraf.
+intro_text: EasyDriving stimuleert ondernemers en particulieren om een
+  elektrische auto te delen. Als bedrijven of bewoners van dorpen en wijken
+  interesse hebben in het delen van een elektrische auto, dan kan EasyDriving de
+  auto(‘s) en het systeem faciliteren. Als er een deelauto in de buurt of bij
+  het bedrijf staat, dan kan elke gebruiker met de app de auto reserveren,
+  openen, ermee rijden en de auto sluiten. Sleuteloverdracht is dus niet nodig
+  en de verrekening volgt achteraf.
 steps:
   - image: /icons/1sign-up.svg
     step: 1
-    text: >-
-      Via de <a href="#" @click="signUpModalVisible = true">aanmeld knop op de
+    text: Via de <a href="#" @click="signUpModalVisible = true">aanmeld knop op de
       website</a> kun je je gemakkelijk aanmelden bij EasyDriving. Als je
       aangemeld bent, ontvang je een uitnodiging om je in te schrijven zodat je
       onze mobiele app kunt downloaden (‘OnzeAuto’). Vanaf dat moment kun je de
@@ -18,28 +17,25 @@ steps:
     title: Meld je aan
   - image: /icons/2reserve-car.svg
     step: 2
-    text: >-
-      In de e-mail die je hebt ontvangen, vind je een uitleg van hoe de app
+    text: In de e-mail die je hebt ontvangen, vind je een uitleg van hoe de app
       werkt. In de app zie je welke deelauto’s op welke locaties staan. Op die
       manier kun je gemakkelijk zien welke deelauto het dichtste bij jou in de
       buurt staat.
     title: Reserveer een auto
   - image: /icons/3open-car-with-app.svg
     step: 3
-    text: >-
-      Als je de deelauto hebt gereserveerd kun je deze vanuit de app openen. Dat
+    text: Als je de deelauto hebt gereserveerd kun je deze vanuit de app openen. Dat
       doe je via een virtuele sleutel die in gebruik genomen kan worden vanaf
       het moment dat de reservering is gestart.
     title: Open de auto met de app
   - image: /icons/4drive-car.svg
     step: 4
     text: >-
-      Nu de auto geopend is, kan de oplaadkabel verwijderd worden alvorens er
-      met de auto gereden kan worden. In de e-mail die je hebt ontvangen staat
-      een uitleg over het loskoppelen van de oplaadkabel. Als de laadkabel eruit
-      is, kun je deze in de achterbak van de auto leggen en beginnen met de rit.
-      De sleutel van de auto ligt in de console en deze kan gebruikt worden voor
-      het tussentijds afsluiten van de auto. Als de reservering is afgelopen en
-      je weer op de vaste parkeerplaats bent aangekomen, kan de auto weer
-      opgeladen worden bij de laadpaal.
+      Verwijder de oplaadkabel en leg die in de achterbak. In de e-mail die je
+      hebt ontvangen staat een uitleg over het loskoppelen van de oplaadkabel.
+      Je kunt nu beginnen met de rit.\
+
+      De sleutel van de auto ligt in de middenconsole en deze kan gebruikt worden voor het tussentijds afsluiten van de auto.\
+
+      Als de reservering is afgelopen en je weer op de vaste parkeerplaats bent aangekomen, kan de auto weer opgeladen worden bij de laadpaal. Hierna doe je de auto op slot meld je de reservering af via de app.
     title: Rijd met de auto!
