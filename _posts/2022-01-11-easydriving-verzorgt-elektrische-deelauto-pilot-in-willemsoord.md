@@ -1,7 +1,7 @@
 ---
 layout: post
 title_tag: EasyDriving verzorgt elektrische deelauto-pilot in Willemsoord
-friendly_date: 11 januari 2021
+friendly_date: 11 januari 2022
 permalink: /nieuws/EasyDriving-verzorgt-elektrische-deelauto-pilot-in-Willemsoord
 category: Nieuws
 image: /uploads/easydriving-verzorgt-elektrische-deelauto-pilot-in-willemsoord.jpg
