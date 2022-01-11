@@ -86,3 +86,7 @@ car_locations:
     car-name: Nissan Leaf
     lat: "53.369663"
     long: "6.771433"
+  - address: Steenwijkerweg 155, Willemsoord
+    car-name: Nissan Leaf2
+    lat: "52.825477851275615"
+    long: "6.062028298323554"
