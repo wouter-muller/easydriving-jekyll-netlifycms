@@ -4,6 +4,7 @@ title_tag: Hogere wegenbelasting heeft geen gevolgen voor EasyDriving klanten
 friendly_date: 20 januari 2022
 permalink: /nieuws/hogere-wegenbelasting-geen-gevolgen-voor-easydrive-klanten
 category: Achtergrond
+image: /uploads/verkeer-in-de-ochtend-voor-rood-stoplicht.jpg
 intro: In Groningen is de wegenbelasting verhoogt en daarmee is die nergens zo
   hoog als in deze provincie, zo meldt het CBS woensdag. De hogere
   wegenbelasting heeft echter geen gevolgen voor EasyDriving klanten, ook niet
