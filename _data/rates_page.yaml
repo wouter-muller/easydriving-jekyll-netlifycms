@@ -11,7 +11,7 @@ specs: >-
 
   * Als je per uur meer dan 20 kilometer (of per gereserveerde dag meer dan 200 kilometer) met de auto aflegt geldt een toeslag van € 0,20 per kilometer.
 
-  * Het dagtarief voor elke auto is maximaal 10 keer het uurtarief. Een dag is van 00:00  tot 23:59 uur.
+  * Het dagtarief voor elke auto is 10 keer het uurtarief. Een dag is van 00:00  tot 23:59 uur.
 
   * Alle getoonde prijzen zijn inclusief BTW.
 ride_costs_tool_heading: Bereken wat een rit kost
