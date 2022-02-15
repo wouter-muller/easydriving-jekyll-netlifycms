@@ -21,4 +21,4 @@ Je hebt gelijk, dat kan ook niet. Een Nissan Leaf heeft namelijk geen ondersteun
 
 Druk dan op het telefoonicoontje rechts bovenin het scherm om met de WeGo klantenservice te bellen. Ze kunnen je helpen de reservering op een andere auto over te zetten, of om de reservering te annuleren. Uiteraard kun je dit ook doen als je niet van tevoren had gecheckt hoe vol de accu van een Kona of Nero is en die te leeg blijkt te zijn.
 
-**Let op:** bel altijd met de helpdesk! Anders zal de volledige tijd van de reservering toch in rekening worden gebracht.
+**Let op:** bel altijd met de helpdesk, ook als je besluit om dan maar geen gebruik te maken van EasyDriving! Anders zal de volledige tijd van de reservering toch in rekening worden gebracht.
