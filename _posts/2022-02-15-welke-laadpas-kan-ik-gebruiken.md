@@ -4,7 +4,7 @@ title_tag: Welke laadpas kan ik gebruiken?
 friendly_date: 15 februari 2022
 permalink: /nieuws/welke-laadpas-kan-ik-gebruiken-bij-easydriving
 category: Hoe zit dat?
-image: /uploads/kona-opladen.jpg
+image: /uploads/harry-boon-harlingen-plaatsing-deelauto-s.jpg
 intro: In de auto ligt al een laadpas. Maar kun je die ook gebruiken op andere
   laadpalen? En hoe zit dat met snelladers?
 ---
