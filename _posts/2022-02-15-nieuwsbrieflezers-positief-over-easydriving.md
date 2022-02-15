@@ -7,7 +7,7 @@ category: Klanten over EasyDriving
 image: /uploads/resultaten-enquête-nieuwsbrieflezers.jpg
 intro: We hebben de ontvangers van onze nieuwsbrief gevraagd naar hun mening
   over EasyDriving. En wat blijkt? De meeste nieuwsbrieflezers zijn erg positief
-  over EasyDriving!
+  over EasyDriving, ook als ze geen lid zijn!
 ---
 ## Duurzaamheid is belangrijk
 
