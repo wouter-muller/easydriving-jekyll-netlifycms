@@ -6,7 +6,8 @@ permalink: /nieuws/resultaten-nieuwsbrief-enquete
 category: Klanten over EasyDriving
 image: /uploads/resultaten-enquête-nieuwsbrieflezers.jpg
 intro: We hebben de ontvangers van onze nieuwsbrief gevraagd naar hun mening
-  over EasyDriving. Bij deze de resultaten van deze enquête.
+  over EasyDriving. En wat blijkt? De meeste nieuwsbrieflezers zijn erg positief
+  over EasyDriving!
 ---
 ## Duurzaamheid is belangrijk
 
