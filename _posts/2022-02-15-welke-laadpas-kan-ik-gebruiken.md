@@ -1,7 +1,7 @@
 ---
 layout: post
 title_tag: Welke laadpas kan ik gebruiken?
-friendly_date: nog te bepalen
+friendly_date: 16 februari 2022
 permalink: /nieuws/welke-laadpas-kan-ik-gebruiken-bij-easydriving
 category: Hoe zit dat?
 image: /uploads/kona-opladen.jpg
