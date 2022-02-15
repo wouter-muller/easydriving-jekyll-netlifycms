@@ -15,7 +15,7 @@ Je hebt het vast wel eens meegemaakt: je wilt een slordige 80-90 km afleggen in 
 
 Je hebt gelijk, dat kan ook niet. De auto heeft namelijk geen ondersteuning om dat door te geven aan de app en die geeft dus een willekeurige waarde aan. Bij een Hyundai Kona of Kia e-Niro is deze indicatie wel correct. Dus reserveer zo'n Leaf gerust, ga naar de auto toe en check hoevol de accu zit.
 
-*Tip: de drie LED-lampjes in het voordashboard zijn vanaf grote afstand zichtbaar en geven al meteen een grove indicatie.*
+*Tip: de drie druppelvormige LED-lampjes op het dashboard zijn vanaf grote afstand zichtbaar en geven al meteen een grove indicatie.*
 
 ## De accu is (te) leeg. En dan?
 
