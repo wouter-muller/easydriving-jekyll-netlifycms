@@ -20,7 +20,7 @@ Je komt dan al snel in een situatie waarin je onderweg wilt bijladen. Het is dan
 
 Het is daarom aan te raden zelf een laadpas te nemen! Er zijn heel wat aanbieders en de tarieven verschillen per aanbieder en daarbij zelfs per gemeente. Waar je ook voor kunt kiezen, is een laadpas van de ANWB. Je kunt kiezen uit een pas, of een kleinere druppelvormige sleutelhanger. Hiervoor betaal je eenmalig een klein bedrag. Verder betaal je geen abonnementskosten; je betaalt alleen een starttarief en daarna per kWh. Dus als je de laadpas niet gebruikt (en wel hebt) dan betaal je er verder niets voor.
 
-Je kunt deze pas gebruiken bij alle openbare oplaadpunten én bij snelladers van o.a. Fastned en Shell. Bij een snellader geldt dan wel een hoger tarief, maar je betaalt hetzelfde tarief ook met deze ANWB pas.
+Je kunt deze pas gebruiken bij alle openbare oplaadpunten én bij snelladers van o.a. Fastned en Shell. Bij een snellader geldt dan wel een hoger tarief, maar je betaalt met deze ANWB pas hetzelfde tarief als bij de aanbieder zelf.
 
 ## Toch de EasyDriving laadpas gebruikt?
 
