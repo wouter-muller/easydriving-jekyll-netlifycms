@@ -10,7 +10,7 @@ intro: Gebruik je regelmatig een deelauto die bij een openbare laadpaal staat en
   hand, word ambassadeur voor de auto en verbeter de rijervaring voor alle
   gebruikers!
 ---
-Soms kan een auto best even een wasbeurt door een autowasstraat gebruiken. Of even flink worden uitgezogen. Ook kun je merken dat er nodig andere ruitenwissers op moeten. Een EasyDriving ambassadeur mag dit soort ongemakjes oplossen.
+Soms kan een auto best even een wasbeurt door een autowasstraat gebruiken. Of even flink worden uitgezogen. Ook kun je merken dat er nodig kleine reparaties moeten worden uitgevoerd, zoals het vernieuwen van ruitenwissers. Een EasyDriving ambassadeur mag dit soort ongemakjes oplossen.
 
 Op deze manier kun je er zelf voor zorgen dat de auto er tiptop bij staat. De kosten die je moet maken kun je dan declareren bij Harm, die ervoor zorgt dat je dat als korting krijgt op de volgende factuur. En zijn er dingen die niet in orde zijn, waarvoor een bezoek aan de garage nodig is? Dan kun je die meteen bij Harm melden.
 
