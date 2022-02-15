@@ -25,3 +25,5 @@ Verreweg de meeste nieuwsbrieflezers zijn enthousiast over EasyDriving. Ruim 59%
 ## Tot slot
 
 In totaal hebben bijna 30 personen de enquête ingevuld, waarvan ruim 55% op dit moment ook klant zijn bij EasyDriving. Op deze manier zijn dus ook mensen bereikt die wel geïnteresseerd, maar geen lid zijn. Alle deelnemers van de enquête worden vriendelijk bedankt voor het invullen ervan.
+
+Ook lid worden van de nieuwsbrief? Meld je dan hieronder aan!
