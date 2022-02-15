@@ -7,7 +7,7 @@ category: Organisatie
 image: /uploads/nissan-leaf-deelauto-in-van-royenlaan-groningen.jpg
 intro: Gebruik je regelmatig een deelauto die bij een openbare laadpaal staat en
   vind je dat die beter onderhouden zou kunnen worden? Neem het heft in eigen
-  hand, wordt ambassadeur voor de auto en verbeter de rijervaring voor alle
+  hand, word ambassadeur voor de auto en verbeter de rijervaring voor alle
   gebruikers!
 ---
 Soms kan een auto best even een wasbeurt door een autowasstraat gebruiken. Of even flink worden uitgezogen. Ook kun je merken dat er nodig andere ruitenwissers op moeten. Een EasyDriving ambassadeur mag dit soort ongemakjes oplossen.
