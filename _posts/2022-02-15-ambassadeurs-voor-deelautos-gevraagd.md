@@ -16,6 +16,6 @@ Op deze manier kun je er zelf voor zorgen dat de auto er tiptop bij staat. De ko
 
 Let wel: het is vrijwilligerswerk. Je zult dus geen loon of iets dergelijks ontvangen. Maar op deze manier kun je er wel voor zorgen dat jij bij een volgende rit een beter werkende en/of schonere auto kunt gebruiken.
 
-##### Heb je interesse? Stuur dan een e-mail naar [info@easy-driving.eu](mailto:info@easy-driving.eu?subject=Ambassadeur%20EasyDriving).
+### Heb je interesse? Stuur dan een e-mail naar [info@easy-driving.eu](mailto:info@easy-driving.eu?subject=Ambassadeur%20EasyDriving).
 
 Vergeet niet om het kenteken te vermelden van de auto waar je ambassadeur voor wilt worden.
