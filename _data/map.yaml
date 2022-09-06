@@ -26,14 +26,6 @@ car_locations:
     car-name: Nissan Leaf
     lat: "53.136970"
     long: "6.433610"
-  - address: Hoofdstraat 125, Midwolde
-    car-name: Nissan Leaf
-    lat: "53.180205"
-    long: "6.391040"
-  - address: Hoofdweg 125, Midwolde
-    car-name: Nissan Leaf
-    lat: "53.180205"
-    long: "6.391040"
   - address: Onnerweg 33, Haren
     car-name: Nissan Leaf
     lat: "53.167105"
@@ -54,18 +46,14 @@ car_locations:
     car-name: Nissan Leaf
     lat: "53.211406"
     long: "6.551218"
-  - address: Tuinbouwstraat 118A, Groningen
+  - address: Tuinbouwstraat 25, Groningen
     car-name: Nissan Leaf
-    lat: "53.226982"
-    long: "6.553701"
-  - address: Langs de Erven 275, Groningen
+    lat: "53.227034"
+    long: "6.554549"
+  - address: Meerhoven 1, Meerstad
     car-name: Hyundai Kona
-    lat: "53.219412"
-    long: "6.653181"
-  - address: Hoofdweg 195, Harkstede
-    car-name: Nissan Leaf
-    lat: "53.220640"
-    long: "6.648420"
+    lat: "53.218748"
+    long: "6.652774"
   - address: Nachtegaalstraat 61, Groningen
     car-name: Nissan Leaf
     lat: "53.230008"
