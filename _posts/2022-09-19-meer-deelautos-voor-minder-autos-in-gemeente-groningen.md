@@ -27,6 +27,6 @@ Er wordt een zogenoemde kwartiermaker aangenomen, die alle vragen en wensen gaat
 
 ### EasyDriving biedt duurzame oplossing
 
-Harm Nienhuis van EasyDriving is erg blij met deze ontwikkeling. "Ons bedrijf is extra duurzaam, omdat het naast deelauto's zich ook exclusief richt op *electrische* deelauto's. Op die manier wordt de uitstoot ook enorm verminderd." EasyDriving heeft duurzaamheid hoog in het vaandel staan. "Met deelauto's heb je een veel hogere efficiëntie van de auto en de materialen die nodig zijn om een auto te bouwen, doordat ze veel minder stil staan. Dat helpt duidelijk ook mee aan duurzame mobiliteit."
+Harm Nienhuis van EasyDriving is erg blij met deze ontwikkeling. "Ons bedrijf is extra duurzaam, omdat het naast deelauto's zich ook exclusief richt op *elektrische* deelauto's. Op die manier wordt de uitstoot ook enorm verminderd." EasyDriving heeft duurzaamheid hoog in het vaandel staan. "Met deelauto's heb je een veel hogere efficiëntie van de auto en de materialen die nodig zijn om een auto te bouwen, doordat ze veel minder stil staan. Dat helpt duidelijk ook mee aan duurzame mobiliteit."
 
 [Klik hier voor een reportage die OOG TV maakte over het voornemen van de Gemeente Groningen.](https://youtu.be/4JBfy3BmFDU)
