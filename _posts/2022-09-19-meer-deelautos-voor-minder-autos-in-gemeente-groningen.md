@@ -11,7 +11,7 @@ intro: De gemeente Groningen wil meer op deelauto's inzetten, om op die manier
 ---
 De stad is nog steeds aan het groeien. De vraag naar parkeerruimte neemt toe, waardoor de parkeerdruk steeds groter wordt. In de stad zijn er zo rond de 80.000 tot 90.000 auto’s en de wethouder denkt dat dit steeds meer zullen worden.
 
-Volgens het beleidsplan van de gemeente zal een deelauto 4 tot 11 reguliere auto's kunnen vervangen. Op die manier kan het wagenpark flink worden uitgedund. Naast verminderde parkeerdruk zal het er ook voor zorgen dat het rustiger wordt op straten. Hierdoor wordt het mogelijk om de straten anders in te delen en om 
+Volgens het beleidsplan van de gemeente zal een deelauto 4 tot 11 reguliere auto's kunnen vervangen. Op die manier kan het wagenpark flink worden uitgedund. Naast verminderde parkeerdruk zal het er ook voor zorgen dat het rustiger wordt op straten. Hierdoor wordt het mogelijk om de straten anders in te delen en om die ruimte te gebruiken voor andere functies.
 
 <h3>Groningen loopt achter</h3>
 
