@@ -15,7 +15,7 @@ Volgens het beleidsplan van de gemeente zal een deelauto 4 tot 11 reguliere auto
 
 <h3>Groningen loopt achter</h3>
 
-De wethouder heeft ook geconstateerd dat er deelauto's Groningen zijn, maar dat de gemeente wel achterloopt op de rest van Nederland. Het aantal deelauto’s is in vijf jaar tijd gegroeid van 66 naar 118 deelauto’s. De laatste tijd neemt de belangstelling toe, en de wethouder wil het deelautogebruik nu nog meer stimuleren.
+Broeksma heeft geconstateerd dat het aantal deelauto’s is in Groningen in vijf jaar tijd gegroeid is van 66 naar 118 deelauto’s, maar dat de gemeente wel achterloopt op de rest van Nederland. De laatste tijd neemt de belangstelling toe, en de wethouder wil het deelautogebruik nu nog meer stimuleren.
 
 De gemeente wil dit enerzijds voor elkaar krijgen door particulieren te stimuleren hun auto met anderen te delen, maar ook voor commerciële partijen (zoals EasyDriving) de markt te stimuleren.
 
