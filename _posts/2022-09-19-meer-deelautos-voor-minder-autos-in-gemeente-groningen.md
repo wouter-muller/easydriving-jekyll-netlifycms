@@ -21,7 +21,7 @@ De gemeente wil dit enerzijds voor elkaar krijgen door particulieren te stimuler
 
 ### "Kom maar door"
 
-De wethouder heeft op dit moment nog niet een bepaald idee naar hoeveel deelauto's gewerkt moet worden. Hij heeft als doel dat de groei van de mobiliteit in ieder geval minder snel zal gaan dan de groei van het inwoneraantal. Hij merkt dat de belangstelling voor deelmobiliteit nu al toeneemt. Zo wordt bij een aantal bouwprojecten al bij voorbaat bekeken hoe deelauto's de mobiliteit van de toekomstige bewoners kan aanvullen. Ook merkt hij dat particulieren bij de gemeente aankloppen om te kijken hoe zij met elkaar zoiets kunnen opzetten.
+De wethouder heeft op dit moment nog niet een bepaald idee naar hoeveel deelauto's gewerkt moet worden. Hij heeft als doel de mobiliteit in ieder geval minder snel te laten groeien gaan dan de groei van het inwoneraantal. Hij merkt dat de belangstelling voor deelmobiliteit nu al toeneemt. Zo wordt bij een aantal bouwprojecten al bij voorbaat bekeken hoe deelauto's de mobiliteit van de toekomstige bewoners kan aanvullen. Ook merkt hij dat particulieren bij de gemeente aankloppen om te kijken hoe zij met elkaar zoiets kunnen opzetten.
 
 Er wordt een zogenoemde kwartiermaker aangenomen, die alle vragen en wensen gaat koppelen aan de verschillende aanbieders. Deze gaat dan met groepen mensen in gesprek, om dan te bekijken wat voor hen de beste oplossing voor hun mobiliteit is. EasyDriving heeft in de gemeente Groningen hierbij een duidelijke positie als commerciële aanbieder weten te verwerven.
 
