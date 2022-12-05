@@ -30,4 +30,4 @@ Niet alleen stopt de klantenservice bij WeGo, de hele app werkt ook niet meer va
 
 Wil je alvast voorbereid zijn om vanaf 13 december 12:00 uur de nieuwe app te kunnen gebruiken? Je kunt vanaf nu alvast de app downloaden en installeren op de telefoon. De app kun je vinden in de [Play Store](https://play.google.com/store/apps/details?id=com.goodmoovs.onzeauto&gl=NL) en [Apple Store](https://apps.apple.com/nl/app/onzeauto-autodelen/id6443811310) onder de naam 'OnzeAuto - Autodelen'. Op de dag zelf hoef je dan alleen een wachtwoord aan te vragen in de app, jouw telefoon te verifiëren en je kunt op pad.
 
-Wil je ook alvast de handleiding doornemen? Geen probleem, die kun je opvragen door hier te klikken.
+Wil je ook alvast de handleiding doornemen? [Geen probleem, die kun je opvragen door hier te klikken](https://uploads-ssl.webflow.com/606736e7d0646a2449d66faf/636a8362fd48d1ed112e32b8_Handleiding%20app%20OnzeAuto.pdf).
