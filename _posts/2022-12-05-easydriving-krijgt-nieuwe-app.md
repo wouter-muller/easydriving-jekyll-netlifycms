@@ -6,11 +6,11 @@ permalink: /nieuws/easydriving-krijgt-nieuwe-app
 category: Nieuws
 image: /uploads/onzeauto-app-goodmoovs.png
 intro: "Niet schrikken: het ziet er totaal anders uit. Maar als je er eenmaal
-  aan gewend bent, dan is het veel gemakkelijker. We hebben het over de nieuwe
-  OnzeAuto app, die vanaf dinsdag 13 december jou op weg gaat helpen bij
+  aan gewend bent, dan is het veel gemakkelijker. Dat is de belofte van de
+  nieuwe OnzeAuto app, die vanaf dinsdag 13 december jou op weg gaat helpen bij
   EasyDriving!"
 ---
-Na jaren te hebben gedeeld met de huidige app en bijbehorend platform, is het tijd voor de volgende stap. EasyDriving en OnzeAuto als partner onderscheiden zich namelijk steeds meer van andere deelaanbieders. De nieuwe app van ontwikkelaar GoodMoovs verwachten we dit beter te kunnen doen. OnzeAuto belooft dat de app moderner en gebruiksvriendelijker.
+Na jaren te hebben gedeeld met de huidige app en bijbehorend platform, is het tijd voor de volgende stap. EasyDriving en OnzeAuto als partner onderscheiden zich namelijk steeds meer van andere deelaanbieders. Met de nieuwe app van ontwikkelaar GoodMoovs verwachten we dit nog beter te kunnen doen. Volgens de belofte van OnzeAuto is de app moderner en gebruiksvriendelijker.
 
 ## Wat is er anders?
 
