@@ -5,7 +5,7 @@ friendly_date: 30 december 2022
 permalink: /nieuws/tariefsverhoging-per-1-januari
 category: TARIEVEN
 image: /uploads/private-leasen-kan-kredietwaardigheid-hypotheek-flink-aantasten.jpg
-intro: Al enige jaren hebben we geen prijsaanpassing gedaan op de kilometer
+intro: Al enige jaren hebben we geen prijsaanpassing gedaan op het kilometer
   tarief. Per 1 januari 2023 zijn we echter wel genoodzaakt een prijsaanpassing
   door te voeren gezien de stijgende stroomkosten.
 ---
