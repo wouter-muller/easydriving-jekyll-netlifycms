@@ -2,9 +2,9 @@ cars:
   - actieradius: 120
     price_per_day: 27.5
     seats: 5
-    price_per_hour_label: "2,75"
+    price_per_hour_label: 2,75
     title: Nissan Leaf
-    price_per_day_label: "27,50"
+    price_per_day_label: 27,50
     price_per_km: "0.10"
     id: 1
     image: /uploads/nissan-leaf-bij-easydriving.png
@@ -30,12 +30,12 @@ cars:
     image: /uploads/kia-e-niro-bij-easydriving.png
     price_per_hour: 5
   - actieradius: 150
-    id: 4
     price_per_day: 35
     seats: 5
-    price_per_hour_label: "3,50"
+    price_per_hour_label: 3,50
     title: Nissan Leaf 2e generatie
     price_per_day_label: 35,-
     price_per_km: "0.10"
+    id: 4
     image: /uploads/nissan-leaf-2e-generatie.png
     price_per_hour: 3.5
