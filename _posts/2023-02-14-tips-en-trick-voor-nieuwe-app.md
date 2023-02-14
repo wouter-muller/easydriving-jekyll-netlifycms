@@ -18,7 +18,7 @@ U heeft het vast al gemerkt: wanneer de app start vraagt het u om de auto te lop
 
 Met de nieuwe app is het gebruik van de fysieke sleutel niet meer nodig en ook niet gewenst. Het gebruik van de fysieke sleutel verstoort namelijk het deelsysteem en bij gebruik van de sleutel wordt deze ook nogal eens per ongeluk mee naar huis genomen. We verzoeken u dan ook met klem om de fysieke sleutel niet te gebruiken.
 
-##### **Dus laat de sleutel in de middenconsole liggen. Open en sluit de auto alleen via de OnzeAuto app.**
+#### **Dus laat de sleutel in de middenconsole liggen. Open en sluit de auto alleen via de OnzeAuto app.**
 
 ## Een reservering moet voor de gereserveerde eindtijd beëindigd worden.
 
