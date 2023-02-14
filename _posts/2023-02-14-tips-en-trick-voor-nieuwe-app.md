@@ -1,6 +1,6 @@
 ---
 layout: post
-title_tag: Tips en trick voor nieuwe app
+title_tag: Tips en tricks voor nieuwe app
 friendly_date: 14 februari 2023
 permalink: /nieuws/tips-en-tricks-voor-nieuwe-app
 category: Hoe zit dat?
