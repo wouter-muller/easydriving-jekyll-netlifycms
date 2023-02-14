@@ -22,7 +22,7 @@ Met de nieuwe app is het gebruik van de fysieke sleutel niet meer nodig en ook n
 
 ## Een reservering moet voor de gereserveerde eindtijd beëindigd worden.
 
-Wanneer u onverhoopt te laat terug gaat komen op de thuislocatie, dan is het zaak om de reservering tijdig te verlengen. Dat is echt supereenvoudig via de app te regelen.
+Wanneer u onverhoopt te laat terug gaat komen op de thuislocatie, dan is het zaak om de reservering tijdig te verlengen. Dat is eenvoudig via de app te regelen.
 
 Wanneer u ná de geserveerde/verlengde eindtijd terugkomt dan bestaat de kans dat de reservering niet meer in de app staat. Dan moet u opnieuw een korte reservering maken, om vervolgens de auto te kunnen afsluiten en de reservering te kunnen beëindigen.
 
