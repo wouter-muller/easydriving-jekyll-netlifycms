@@ -12,7 +12,7 @@ intro: Medio december is een nieuwe OnzeAuto app gelanceerd waarmee EasyDriving
 ---
 ## Vergeet niet eerst te melden of er nieuwe schade is
 
-U heeft het vast al gemerkt: wanneer de app start vraagt het u om de auto te lopen en te controleren of er schade is. Vergeet niet om dat dan in de app aan te geven, **ook wanneer alles in orde is!** Wanneer u dat niet doet gaat de auto wel aan, maar in veel gevallen niet in de rij-stand en kunt u dus niet wegrijden. 
+U heeft het vast al gemerkt: wanneer de app start vraagt het u om rond de auto te lopen om te controleren of er schade is. Vergeet niet om dat dan in de app aan te geven, **ook wanneer alles in orde is!** Wanneer u dat niet doet gaat de auto wel aan, maar in veel gevallen niet in de rij-stand en kunt u dus niet wegrijden. 
 
 ## Maak geen gebruik van de fysieke autosleutel
 
