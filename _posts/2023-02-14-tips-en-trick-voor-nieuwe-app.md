@@ -24,7 +24,7 @@ Met de nieuwe app is het gebruik van de fysieke sleutel niet meer nodig en ook n
 
 Wanneer u onverhoopt te laat terug gaat komen op de thuislocatie, dan is het zaak om de reservering tijdig te verlengen. Dat is eenvoudig via de app te regelen.
 
-Wanneer u ná de geserveerde/verlengde eindtijd terugkomt dan bestaat de kans dat de reservering niet meer in de app staat. Dan moet u opnieuw een korte reservering maken, om vervolgens de auto te kunnen afsluiten en de reservering te kunnen beëindigen.
+Wanneer u ná de geserveerde eindtijd terugkomt dan bestaat de kans dat de reservering niet meer in de app staat. Dan moet u opnieuw een korte reservering maken, om vervolgens de auto te kunnen afsluiten en de reservering te kunnen beëindigen.
 
 Uiteraard is het veel eenvoudiger om gewoon op tijd terug te zijn, zoals dat ook hoort bij een reservering. Bij te late terugkeer kunnen immers andere autodelers gedupeerd worden. Maar mocht dat onverhoopt niet lukken, dan graag verlengen!
 
