@@ -7,8 +7,8 @@ category: Hoe zit dat?
 image: /uploads/16.jpg
 intro: Medio december is een nieuwe OnzeAuto app gelanceerd waarmee EasyDriving
   reserveringen kunnen worden gedaan. Daar is al eerder het één en ander over
-  gemaild, maar toch blijkt het dat er nog wat onduidelijkheden zijn. In deze
-  leden-nieuwsbrief lichten we daarom nog wat zaken toe.
+  gemaild, maar toch blijkt het dat er nog wat onduidelijkheden zijn. In dit
+  beriht lichten we daarom nog wat zaken toe.
 ---
 ## Vergeet niet eerst te melden of er nieuwe schade is
 
