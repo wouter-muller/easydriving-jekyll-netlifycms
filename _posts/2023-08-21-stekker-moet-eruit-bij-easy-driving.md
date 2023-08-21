@@ -6,7 +6,7 @@ permalink: /nieuws/stekker-moet-eruit-bij-easy-driving
 category: NIEUWS
 image: /uploads/stekker-moet-eruit-bij-easy-driving.jpg
 intro: >-
-  Dierbare gebruikers Easy Driving.
+  Dierbare gebruikers van Easy Driving.
 
 
   Tot mijn spijt moet ik meedelen dat Easy Driving met ingang van 1 september a.s. alle activiteiten moet stoppen. De schuldenlast is dusdanig dat al op zo'n korte termijn gestopt moet worden en er geen ruimte is voor verdere verlenging.
