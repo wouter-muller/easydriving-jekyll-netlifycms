@@ -31,7 +31,8 @@ Voor de ED gebruikers is het erg jammer dat helaas de stekker er al per 1 septem
 
 Zo is de gemeente Groningen in samenwerking met buurtbewoners en coöperaties een plan ontwikkeld waarbij de gemeente helpt en ook financieel eventueel een kleine ondersteuning kan geven. Ook wordt er nog gekeken of de deelauto's in Haren en Helpman kunnen worden overgenomen. Ook wordt bekeken of de huidige Easy Driving gebruikers een plek kunnen krijgen in de deelauto's van MyWheels.
 
-Wanneer er behoefte aan is voor buurtbewoners en coöperatie om een plan op te zetten, dan kunnen initiatiefnemers contact met mij opnemen [via e-mail](mailto:info@easy-driving.eu) of [telefoon](tel:+31594580601), om dit ook op een korte termijn te kunnen realiseren.
+Wanneer er behoefte aan is voor buurtbewoners of lokale coöperatie om een plan op te zetten, dan zal ik daar graag in meedenken. OnzeAuto heeft ook haar medewerking hiervoor toegezegd.
+Initiatiefnemers kunnen contact met mij opnemen via [e-mail](mailto:info@easy-driving.eu) of [telefoon](tel:+31594580601), om dit ook op een korte termijn te kunnen realiseren.
 
 Met vriendelijke groet,
 
