@@ -36,6 +36,8 @@ Zo is de gemeente Groningen in samenwerking met buurtbewoners en coöperaties ee
 Wanneer er behoefte aan is voor buurtbewoners of lokale coöperatie om een plan op te zetten, dan zal ik daar graag in meedenken. OnzeAuto heeft ook haar medewerking hiervoor toegezegd.
 Initiatiefnemers kunnen contact met mij opnemen via [e-mail](mailto:info@easy-driving.eu) of [telefoon](tel:+31594580601), om dit ook op een korte termijn te kunnen realiseren.
 
+Tot slot wil ik iedereen die nu abonnee is, of dit in het verleden is geweest, bedanken voor het gebruik van de diensten van Easy Driving.
+
 Met vriendelijke groet,
 
 Harm Nienhuis
