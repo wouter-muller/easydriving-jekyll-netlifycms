@@ -1,7 +1,7 @@
 ---
 layout: post
 title_tag: Stekker moet eruit bij Easy Driving
-friendly_date: 22 augustus 2023
+friendly_date: 24 augustus 2023
 permalink: /nieuws/stekker-moet-eruit-bij-easy-driving
 category: NIEUWS
 image: /uploads/stekker-moet-eruit-bij-easy-driving.jpg
@@ -29,7 +29,7 @@ Om die reden ben ik nu samen met Auto Egberts in Leek al 2 jaar bezig om juist d
 
 Voor de ED gebruikers is het erg jammer dat helaas de stekker er al per 1 september 2023 uit moet. We hebben geen ruimte voor een verlenging en zijn met een aantal aanbieders bezig om op verschillende locaties een alternatief aan te kunnen bieden.
 
-Zo is de gemeente Groningen in samenwerking met buurtbewoners en coöperaties een plan ontwikkeld waarbij de gemeente helpt en ook financieel eventueel een kleine ondersteuning kan geven. Ook wordt er nog gekeken of de deelauto's in Haren kunnen worden overgenomen en of de huidige Easy Driving gebruikers een plek kunnen krijgen in de deelauto's van MyWheels.
+Zo is de gemeente Groningen in samenwerking met buurtbewoners en coöperaties een plan ontwikkeld waarbij de gemeente helpt en ook financieel eventueel een kleine ondersteuning kan geven. Ook wordt er nog gekeken of de deelauto's in Haren en Helpman kunnen worden overgenomen. Ook wordt bekeken of de huidige Easy Driving gebruikers een plek kunnen krijgen in de deelauto's van MyWheels.
 
 Wanneer er behoefte aan is voor buurtbewoners en coöperatie om een plan op te zetten, dan kunnen initiatiefnemers contact met mij opnemen [via e-mail](mailto:info@easy-driving.eu) of [telefoon](tel:+31594580601), om dit ook op een korte termijn te kunnen realiseren.
 
