@@ -1,72 +1,16 @@
 map_heading: Waar staan de deelauto's?
-map_text_above_map: Hieronder staan alle locaties waar op dit moment deelauto
-  initiatieven zijn gestart. Als je abonnee van EasyDriving bent, kun je een van
-  deze deelauto's reserveren en gebruiken. Deze eerste deelinitiatieven zijn met
-  succes gestart en we zijn volop bezig om nieuwe initiatieven te ontwikkelen!
-map_heading_below_map: Bij jou in de buurt nog geen deelauto?
-map_text_below_map: >-
-  Als er voldoende belangstelling in dezelfde omgeving is, kunnen wij er
-  mogelijk voor zorgen dat er elektrische auto’s komen te staan bij jou in de
-  buurt. In het kort betekent dit dat wij elke groep geïnteresseerden voor een
-  elektrische deelauto serieus nemen door te kijken naar de mogelijkheden voor
-  een succesvol lokaal deelauto initiatief. Dit kunnen geïnteresseerden uit
-  dezelfde woonwijk, hetzelfde dorp of dezelfde straat zijn, maar dit kan ook
-  een groep ondernemers uit een bedrijfsverzamelgebouw of een groep ambtenaren
-  van een gemeente zijn.
+map_text_above_map: >-
+  Dierbare gebruikers van Easy Driving.
 
 
-  Lijkt het jou dus wat om elektrische auto’s te delen met je buren of collega’s? Vraag eens rond in je omgeving en mogelijk gaan wij dan met jullie aan de slag om een deelauto initiatief vorm te geven! De deelauto’s plaatsen wij geheel kosteloos - je betaalt dus echt alleen voor gebruik. Mail of bel ons voor de mogelijkheden op maat.
+  Tot mijn spijt moet ik meedelen dat Easy Driving met ingang van 1 september a.s. alle activiteiten moet stoppen. De auto's zijn daarom niet meer beschikbaar om te boeken en het is ook niet meer mogelijk abonnee te worden.
+
+
+  Met vriendelijke groet,\
+
+  Harm Nienhuis
+map_heading_below_map: " "
+map_text_below_map: Ik wil graag iedereen bedanken voor hun inzet en voor ook de
+  vele reacties die ik heb mogen ontvangen.
 zoom_level: 9
-car_locations:
-  - address: Havenplein 2a, Harlingen
-    car-name: Kia e-Niro
-    lat: "53.174880"
-    long: "5.411990"
-  - address: Raadhuisstraat 1, Roden
-    car-name: Nissan Leaf
-    lat: "53.136970"
-    long: "6.433610"
-  - address: Onnerweg 33, Haren
-    car-name: Nissan Leaf
-    lat: "53.167105"
-    long: "6.617492"
-  - address: Clusiusweg 1, Haren
-    car-name: Hyundai Kona
-    lat: "53.176630"
-    long: "6.610180"
-  - address: Van Royenlaan 1, Groningen
-    car-name: Nissan Leaf
-    lat: "53.197326"
-    long: "6.579939"
-  - car-name: Hyundai Kona
-    address: Johann Faberlaan 25, Hoogkerk
-    lat: "53.203670"
-    long: "6.511580"
-  - address: Van Wassenaerstraat 8, Groningen
-    car-name: Nissan Leaf
-    lat: "53.211406"
-    long: "6.551218"
-  - address: Tuinbouwstraat 158, Groningen
-    car-name: Nissan Leaf
-    lat: "53.226296"
-    long: "6.549427"
-  - address: Langs de Erven 275, Meerstad
-    car-name: Hyundai Kona
-    lat: "53.219305"
-    long: "6.650898"
-  - address: Kadijk 4, Groningen
-    car-name: Hyundai Kona Electric
-    lat: "53.242390"
-    long: "6.531030"
-  - address: Krassumerstraat 21, Garnwerd
-    car-name: Nissan Leaf
-    lat: "53.303975"
-    long: "6.492183"
-  - address: Steenwijkerweg 155, Willemsoord
-    car-name: Nissan Leaf2
-    lat: "52.825477851275615"
-    long: "6.062028298323554"
-  - address: Dirk Huizingastraat 12, Groningen
-    car-name: Nissan Leaf
-    lat: "53.221771"
-    long: "6.577626"
+car_locations: []
