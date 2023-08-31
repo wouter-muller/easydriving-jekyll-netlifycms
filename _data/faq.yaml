@@ -46,30 +46,4 @@ payment_faqs:
       Betaling geschiedt volledig automatisch door middel van automatische
       incasso.
     question: Hoe betaal ik?
-  - answer: >-
-      Nee, het abonnement staat op naam en mag niet gedeeld worden. Iedereen
-      heeft dus een eigen account waarmee hij of zij inlogt op de app.
-
-
-      Wel is er een korting voor huisgenoten. Die korting houdt in dat er per huishouden slechts eenmaal abonnementskosten van 5 euro per maand worden gevraagd. Er is dan in het gezin of huishouden een hoofdgebruiker die de abonnementskosten betaalt, de echtgenoot of echtgenote en eventueel kinderen betalen dan alleen voor het gebruik van onze deelauto's.
-    question: Mag ik het abonnement delen?
-charging_faqs:
-  - answer: >-
-      Een handleiding voor onder meer het opladen van de deelauto ligt in de
-      deelauto. Online vind je de handleiding van de Nissan Leaf
-      [hier](/uploads/Gebruikershandleiding-Nissan-Leaf-(in-de-auto).pdf) en van
-      de Hyundai Kona [hier](/uploads/Gebruikershandleiding-Hyundai-Kona.pdf).
-
-
-      Je betaalt geen extra kosten voor het opladen op de thuislocatie.
-    question: Hoe moet ik opladen?
-  - answer: >-
-      Nee. De accu van de auto mag (bijna) leeg ingeleverd worden. De auto dient
-      bij terugkomst wel ten alle tijden opgeladen te worden door het aan de
-      laadpaal te koppelen. Een handleiding van onder meer het opladen van de
-      auto of het loskoppelen van de laadkabel, vind je
-      [hier](/uploads/stappenladen-opladen-ev.pdf).
-
-
-      Je betaalt geen extra kosten voor het opladen op de thuislocatie.
-    question: Moet de auto met een volle accu worden ingeleverd?
+charging_faqs: []
